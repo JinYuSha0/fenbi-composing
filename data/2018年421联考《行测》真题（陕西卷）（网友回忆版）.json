@@ -1,0 +1,2001 @@
+[{
+  "id": 2188308,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"中国文化讲究因果，具体到陶瓷之上，明显能看出地域文化的影响。例如同为宋代青瓷，北方耀州青瓷与南方龙泉青瓷各自凸显性格，耀州青瓷呈橄榄绿，强调\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"；龙泉青瓷呈梅子青，表现\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"；演绎各自地方性格特点，色泽即可见一斑。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一项是(  )。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524306779658,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["豪放  婉约", "深沉  柔婉", "沉着  俏皮", "稳重  活泼"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188324,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"古人云，腹有诗书气自华。这“气”\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"就是浩荡的学养之气。套用\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的说法，对学者来说，“颜值”是学历，“气质”则是学养。芳华易逝，浩气永驻，老学者身上散发的人性之光，与其说是人生阅历的磨砺淘洗，不如说是学识涵养的\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一项是（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524306845055,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["大概  时髦  日积月累", "大约  时下  深厚积累", "大抵  流行  千锤百炼", "大致  通俗  博大精深"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188333,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"生命只有一次，而人生也不过是时间的\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。若让今天的时光白白\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"，就等于毁掉人生最后一页。珍惜今天的一分一秒，因为它们将一去不复返。人无法把今天存入银行，明天再来取用。时间像风一样不可\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。每一分一秒，要用双手捧住，用爱心抚摸，因为它们如此宝贵。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一项是（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524306885975,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["累积  流失  捕捉", "累计  流走  捕捉", "累计  流失  捕获", "累积  流走  捕获"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188344,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"壮阔的鼓声里，原始的生命激情\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"开来，周围的空气变得燥热起来，疯狂的鼓声是人类对自然膜拜的一种\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"，在左扑右冲的拼命厮杀之后，高亢的鼓声将所有的喧嚣\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"下来，让人的心里封盖上一层霜，空气开始窒息起来。热腾腾的鼓声里有远古的先祖，诉说着三秦大地上马踏泥土的\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"，诉说着深闺梦里人的哀怨，诉说今人落寞转身失意的悲凉。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一项是(  )。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524306940100,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["激荡  表达  压抑  声韵", "挥洒  传递  压制  声响", "挥洒  传送  沉寂  声响", "激荡  传达  沉淀  声韵"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188295,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"社会治理像一辆满载\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的大车，需要各方\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"，不能互相掣肘。部门之间的职能分工往往是条块化的，但决不能过分强调条块化，而割裂了政策的统一性、连贯性。各部门在施政过程中务必从大局着眼，相互配合、\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"，确保政策的顺畅统一，这是习近平总书记强调的治国理政的系统思维。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一项是（）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524306698943,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["期许  同向发力  聚集合力", "希望  同心协力  万众一心", "期望  同心同德  凝聚共识", "期待  同舟共济  齐心协力"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188314,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"当科技和生产力达到一定高度的时候，必然会\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"          \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"未来人类的劳动结构和认知观念，人类的未来将不会重复自己，无须\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"         \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"自身来构成生产关系，人们可以做更有价值的事情，相信那个时候就是丰富多元的文化\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的节点，也是人性最光辉的时刻。生活就不仅仅是为了生活，而是可以为了在有限的人生去\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"         \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"存在的意义，多美好。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一项是（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524306806139,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["颠覆  异化  迸发  诠释", "革新  异化  盛开  证实", "颠覆  重构  迸发  证实", "革新  重构  盛开  诠释"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188332,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"一杯清茶，一条短讯，甚至一段文字，都是生活中简单的幸福。世间没有太多的\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"              \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"，得到的不一定是最好的，但一定是你需要的。哪怕没有\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"过现实的残酷，没有得到想要的，但幸福却是很简单的\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"               \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一项是（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524306876206,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["心安理得  纠结  唾手可得", "理所应当  执拗  不期而至", "理所当然  困惑  如愿以偿", "如愿以偿  执著  难以企及"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188342,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"霍金的病症恶化得相当迅速，他预料自己活不到博士毕业答辩。他开始极度迷恋瓦格纳的作品，符合他\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的黑暗情绪。瓦格纳歌剧《尼伯龙根的指环》的第二部《女武神》是霍金的心头好，乐队在演奏“宝剑的动机”和“爱的动机”的交织中，达到演出的高潮。此时的霍金，正在“命运的动机”的\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"               \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"里，试图找到一丝光亮。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一项是（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524306925021,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["一意孤行  千头万绪", "穷途末路  千头万绪", "穷途末路  晦暗不明", "一意孤行  晦暗不明"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188301,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"折叠过往的忧伤，暗藏到内心的角落，就让我，于阳光里，望见美好。你看，春光里的桃花娇艳，樱花____，梨花好似纯洁的爱情。花红柳绿之间，心间便洒满馨香的____。喜爱在春光里遇见美好，遇见心间的思念，收集满满的芬芳馥郁，____生命中的遇见。那一汪春光，好似内心的深情，总是深不见底。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一项是（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524306723672,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["妩媚  诗行  丰盈", "热情  诗篇  丰富", "灿烂  诗句  充实", "绽放  诗词  充盈"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188304,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"东风刮来的云朵里，细腻如酥的雨丝儿飘落下来，当云朵被____得支离破碎时，丝丝状状中阳光____，空气中透出些寒气。又过了几天，深夜里，一股带着暖意和芬芳的神秘气息_______，有什么东西似乎开始改变了。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一项是（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524306773498,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["撕裂  出现  突然侵入", "分割  突现  黯然进入", "割离  乍现  悄然潜入", "分离  闪现  悠然涌入"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188313,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"6世纪时，君士坦丁堡人口已逾百万，这在当时的欧州，无城市可以_______，欧亚的货物在此云集交易，这座“沟通东方与西方的黄金桥梁”是个巨大的贸易市场，_______，中古时期，君士坦丁堡一直保持着首富地位直至13世纪。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一项是（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524306804040,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["相提并论  琳琅满目", "与之比肩  琳琅满目", "相提并论  无奇不有", "与之比肩  无奇不有"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188326,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"随着资本主义的迅猛发展，对资本主义的批判也越来越多。保守主义者们担心，与市场相适应的价值观和趋向____到人类的其他组织形式中，会破坏国家、社区、家庭等组织。人们将自身与政府的关系简单地看作是一种市场关系，实质上是一种市场价值观的过度____。同样，人们将市场的经济理性带到婚姻关系、家庭关系之中。不论是伯克、黑格尔、阿诺德，还是默瑟尔、哈贝马斯，事实上都在担忧市场经济的思想渗透到所有的人类关系之中，进而____人类社会的“温情”。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一项是（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524306852221,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["扩散  滥用  稀释", "散逸  蔓延  稀释", "外溢  蔓延  瓦解", "扩展  滥用  瓦解"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188302,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"研究电影史的朋友告诉我，黑白片时代，最盛产旷世美女，嘉宝、褒曼、费雯•丽；彩色片时代，唯有\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"              \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的美女，才能对付恶毒的镜头；今日科技昌明，高清电影里的绝色美女，再也经不起\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"，我在画报上见过无数\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的女明星，在大银幕里，个个原形毕露。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一项是（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 6,
+  "createdTime": 1524306755763,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["国色天香  检验  风情万种", "浓妆艳抹  检验  摄人心魄", "浓妆艳抹  探究  风情万种", "国色天香  探究  摄人心魄"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188327,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"人类在物质世界里生根，在理念世界里生活。如今，“大智云物移”正在深刻地改变着人类生存的物质世界，而我们的理念已经远远落后于这个巨变的时代。何为个体？何为他者？何为集体？何为自由？什么是“诗与远方”？什么是值得过的生活？恐怕都需要重新思考、重新定义。因为，仅仅依靠所谓的多样性已经不能满足集体与社会建设的现实需要，仅仅依靠包容也不能安顿个体的生活。所以，我们在\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"              \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的物质世界里活得\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"              \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"，我们在灯红酒绿中焦虚得\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。究竟该如何是好呢？办法只有一个，那就是修改旧有理念的“源代码”。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一项是（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524306861032,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["日新月异  不知所措  意乱情迷", "光怪陆离  百爪挠心  乱象丛生", "光怪陆离  不知所措  意乱情迷", "日新月异  百爪挠心  乱象丛生"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188349,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"一个时代有一个时代的主题，一代人有一代人的使命，我们也在用创造、用奋斗，书写新时代的\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"              \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。回溯历史，让我们摆脱“开除球籍”忧思的，是中华儿女敢叫日月换新天的\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"              \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"；助我们“杀出一条血路”的，是亿万人民那一股子敢闯敢干的\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"              \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线分最恰当的一项是（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524306951644,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["壮丽篇章  满腔情怀  无畏气概", "美好憧憬  满腔情怀  坚强毅力", "壮丽诗篇  豪情壮志  英雄气概", "美好憧憬  豪情壮志  拼命精神"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188353,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"中国的城市化进程进展到目前的阶段，已经从上一代人故土难离而又难留的无奈抉择，转换成自然而然的观念，“打工”这个词已不再能进入90后的语系。在喜欢的城市工作，就像“大学生毕业后找一家公司工作”一样自然。无论有无户口和住房，这些人已经是真正的城市人，再也回不去他们出生的乡村或者小县城了。在迅速变化的中国，这些观念的演变才是真正深刻的改变。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字意在说明（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524306980350,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["90后的城镇化是一个不自觉的过程", "户口和住房已经不再是城市化的必然需求", "观念的演变是城市化发展到新阶段的标志", "“打工”一词将逐步随着城市化的进程而退出历史舞台"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188290,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"当数字化智能化时代到来之后，将会出现比现在的马云更能“云”的公司。那个时候的公司，将在坚守其经济属性的基础上，更加突出其社会属性，呈现出社会组织的突出特征。因为，互联网、数字化、云计算、移动终端等技术，一方面为企业赋能，让企业强大；另一方面也为消费者赋能，让消费者大联合。如果公司不突出社会属性，全心全意为消费者服务，它就无法持续“经济”下去。比如，一位消费者发现自己购买的汽车有“天然”缺陷，制造企业就会把同类车召回，否则，消费者就可能不再买它的任何一款车。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字意在说明（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524306661496,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["数字化智能化时代将改变公司的基本属性", "社会属性是公司在未来必须凸显的一种特质", "“全心全意为消费者服务”是公司社会属性的核心内容", "智能化极大地提高了广大消费者团结的可能性"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188291,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"站在亲情的角度，人们都希望逝者没有真正地死去，希望他们永远地活下去。这是很正常的情感。但是，站在客观的角度，每个死亡的生命至少在肉体上已经失去了生命的特征，并且整个肉体也必然会消失。从精神层面讲，生命的延续是脱离生物学概念的，一个人生命在精神层面存在多久，取决于这个生命为世界带来了多少值得怀念的东西。现代生命观跳出了肉体的观念，将捐出自己的器官视为生命的延续，以及自己在这个世界存续的最好方式。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字主要表明（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524306675625,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["精神层面的死亡不同于肉体层面的死亡", "捐献器官是延长生命在世界上存续时间的一种方式", "生命观应该跳出肉体层面，倡导器官捐献", "人们不希望亲人离世，也不愿意捐献他们的器官"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188294,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"近年来，“文化+科技”的应用，使收藏在博物馆里、远在祖国各地的文物“活”了起来。在过去的一年里，文化创意与科技创新不断发生“化学反应”，从舞美设计到文物保护，从互联网在线直播到博物馆数字化展陈，文化领域各行各业纷纷插上科技的翅膀，科技对文化发展的推动力愈加强劲。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字中的“化学反应”是指（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524306690594,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["文化事业与科技事业融合发展，相辅相成", "之前鲜为人知的文物通过科技“活”了起来", "科技创新支撑文化创意，文化创意点燃科技创新", "文化领域各行业借助科技蓬勃发展，百花齐放"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188300,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"区块链技术运行在一个完全P2P的网络里，它不归谁所有，也没人知道它在哪里运行，因此拥有绝佳的保密性和安全性。一个不需要中心化网络的加密通信信道，是急需认知重启的智能时代的技术利器。也许有人怀疑区块链的意义被夸大，比如在上层建筑领域可能无法应用。但它在法律甚至文化娱乐方面的使用都已经提上日程：比如公证人用于确认和核实契约及合约等法律文件上的签名，利用区块链技术，这些文件可以进行数字化保存，成为数字账本的一部分。也有公司希望将区块链技术应用于法律文件，提供“媒体文件的时间戳和指纹”，由此消除现在对公证人橡皮图章的需求。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字意在说明（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524306706554,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["区块链技术在智能时代有着广泛的应用前景", "当前的区块链技术还不成熟", "区块链技术的优势在于其绝佳的保密性和安全性", "现实生活中人们对区块链的质疑毫无道理"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188312,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"人工智能一旦变成现实，将带来截然相反的两种图景：一种是乐观的，比如人工智能可以把人类从繁重的体力或脑力劳动中解放出来，变成无需工作的自由发展的人；另一种则是悲观的，被剥夺了工作权利的人类将变得一文不值，成为真正的“一无所有”者。究竟是悲观，还是乐观，关键在于人工智能能否带来真正的社会革命，让大多数人或者代表大多数人的组织成为使用人工智能的主体，而不再是被少数大企业所垄断。在这个意义上，人工智能也许会带来更大的社会危机，但危机也意味着浴火重生的可能。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字意在说明（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524306802349,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["人工智能不论对于体力劳动者还是脑力劳动者都是危机", "人工智能将深刻改变社会图景并被接受", "人工智能能够为整个人类社会带来浴火重生的希望", "人工智能会加剧大企业对相关产业的垄断局面"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188323,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"时间是大自然的产物，节气展现的则是农耕文明的智慧。2016年，“二十四节气——中国人通过观察太阳周年运动而形成的时间知识体系及其实践”被列入世界非物质文化遗产代表作名录，便是对其文化内涵的极大肯定。先民通过观察天文地理、气象物候，来感知自然变化、安排农业活动，敬天顺时，依农得时，从而创造了二十四节气。所谓“认识一个民族，其实就是认识它如何使用时间”，节气犹如包裹着中华民族农耕文明的文化密码，具有时间性与实践性的双重含义。从中既可以窥探出古人如何以人之理性追问天地运行与造化万物，更鲜活地展现了“天人合一”“和谐共生”的文化理念。从自然中推演人文，在人文中回归自然，这就是中华民族的文化之基、哲学之本。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字的主旨为（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524306840632,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["二十四节气是中华民族在长期农耕实践中观察自然、顺应自然的成果", "二十四节气被列入世界非物质文化遗产代表名录是对中华文化的肯定", "二十四节气是中华民族的文化之基，哲学之本", "要想认识中华民族，就要先认识二十四节气"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188331,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"近日，剑桥分析公司被指控未经授权获取美国社交媒体“脸书”上多达5000万用户的信息。脸书也因为没有防范一些人对数据的蓄意“滥用”而陷入丑闻风波。数据被称为“新石油”，它的价值是巨大的。但数据交易常常是无形的，几乎没有受到监管。作为为数不多的支持高科技公司的组织之一，欧盟将在五月份出台严格的新数据法规，脱欧后的英国也会遵守这些规定。我们的信息是宝贵的，但很多西方国家的政治家们未能保护它。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字意在说明（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524306872729,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["个人隐私数据是未来的重要资源", "数据交易的无形特征加大了数据安全监管的难度", "欧盟走在了数据安全监管的前列", "用户数据的泄露与滥用亟待监管"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188338,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"媒体是公众获取科技信息的重要渠道，特别是在新媒体时代，科学信息通过各种形式展现在公众面前。比如，在美国\",\"children\":[]},{\"name\":\"tex\",\"value\":\"ikx2m0AQcbKG2Swe6sFwTw==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"的社交媒体用户说他们会跟踪科学相关的页面，\",\"children\":[]},{\"name\":\"tex\",\"value\":\"DcUJgC5otdxj4fxmaQusQw==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"的社交媒体用户认为社交媒体是他们获取科学信息的一个重要方式，\",\"children\":[]},{\"name\":\"tex\",\"value\":\"zkpR/ZmlA5XOcyFFOj0Jlw==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"的社交媒体用户认为他们会在社交媒体上查看其它地方看不到的科学新闻。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"通过这段文字，作者想要表达的是（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 3,
+  "createdTime": 1524306908291,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["社交媒体已经成为公众获取科技信息的主要渠道", "互联网的发展促进了科技信息的普及", "社交媒体成为了不常见的科学新闻的主要来源", "要对社交媒体上的科技信息进行甄别和监管"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188367,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"未来数年，一种新型电池技术可以使智能手机、汽车和智能手表的电池容量增加30%或者更多。在Sila Technologies等创业公司的努力下，这一全新的锂硅电池在技术方面将远超当前的锂离子电池。新型锂硅电池的阳极主要用硅来制造。比起当前用石墨制造的电池阳极，硅阳极可以储存更多电量。在现实应用中，硅阳极往往比较脆弱，或者寿命很短。Sila Technologies已开发出一种原型产品，解决了这个问题，即通过将硅和石墨烯纳米粒子结合，使产品变得更耐用。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字主要表明（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524307211641,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["新型锂硅电池将使智能手机等电池的容量大幅增加", "新的创业公司总能在某些领域的技术创新方面一骑绝尘", "硅和石墨烯纳米粒子的结合克服了传统电池技术的瓶颈", "新的电池技术的运用必将大大降低智能手机等电子产品的成本"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188370,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"我们生活的世界充满希望，也充满挑战。中国人民历来富有正义感和同情心，历来把自己的前途命运同各国人民的前途命运紧密联系在一起，始终密切关注和无私帮助仍然生活在战火、动荡、饥饿、贫困中的有关国家的人民，始终愿意尽最大努力为人类和平与发展作出贡献。中国人民这个愿望是真诚的，中国决不会以牺牲别国利益为代价来发展自己，中国发展不对任何国家构成威胁，中国永远不称霸，永远不搞扩张。只有那些习惯于威胁他人的人，才会把所有人都看成是威胁。对中国人民为人类和平与发展作贡献的真诚愿望和实际行动，任何人都不应该误读，更不应该曲解。人间自有公道在！\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字的主旨在于（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524307234300,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["中国人民历来富有正义感和同情心", "中国人民尽最大努力为人类和平与发展作出贡献", "中国人民的真诚愿望和实际行动不容被误读和曲解", "中国不会以牺牲别国利益为代价来发展自己"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188372,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在几千年历史长河中，中国人民始终革故鼎新、自强不息，开发和建设了祖国辽阔秀丽的大好河山，开拓了波涛万顷的辽阔海疆，开垦了物产丰富的广袤粮田，治理了桀骜不驯的千百条大江大河，战胜了数不清的自然灾害，建设了星罗棋布的城镇乡村，发展了门类齐全的产业，形成了多姿多彩的生活。中国人民自古就明白，世界上没有坐享其成的好事，要幸福就要奋斗。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字主要表明（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524307267522,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["中国人民始终革故鼎新，自强不息", "自古以来，中国地大物博、物产丰富", "中华民族的悠久历史是中国人民创造出来的", "幸福生活是靠奋斗获得的"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188319,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"①那么，科技类综艺前景光明吗？答案是肯定的。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"②2017年，科技类综艺节目迎来“小爆发”，化高冷科技为电视语言，让科学知识变得有声有色，逐渐培养、形成了固定的收视群。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"③创新驱动发展的国家战略，荧屏对“泛娱乐化”的抑制，人们对新科技的浓厚兴趣，一些科学节目与大众生活密切相关······\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"④然而，新鲜感和第一波热度过后，人们发现，“叫好又叫座”之难使不少科技类综艺节目陷入尴尬境地。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"⑤这些都说明，尽管科技类节目不易做，但科技确实是综艺创作的“富矿”。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"将以上5个句子重新排列，语序正确的一项是（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524306818819,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["②⑤①④③", "①③④②⑤", "①②⑤④③", "②④①③⑤"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188330,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2012年，“新子学”一经提出，学界即展开了大范围的讨论。“新子学”当然意味着诸子学的新发展，亦即“新的诸子学”，同时也包含“新诸子之学”。二者并非一种非此即彼的对立关系，而是存在着相生共促的密切关联。没有新的思想体系的建构，即无所谓“新子学”，诸子学也会失去方向；同样，没有深入的诸子学研究，又何谈新思想体系？故而“新子学”将文献研究、学术史研究和思想研究统一起来，包纳并举。如需进一步深入理解这个问题，则应当从探索“新子学”学术体系谈起。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"接下来，作者最有可能阐述的是（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 6,
+  "createdTime": 1524306866197,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["“新子学”学术体系的构成", "“新子学”与诸子学的异同", "“新子学”学术体系的来源与演变", "诸子学的发展历程"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188350,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"①首先，文学在强大历史传统中形成了价值和审美的相对独立性，同时又在不断进行自我调整，展现出对新技术相适应的一面，最终使得文学借助技术平台进入网络。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"②其次，网络通过设立新通道和新机制将文学纳入共同发展的轨道。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"③文学与网络的结合，经历了既互相排斥又彼此吸引的矛盾运动。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"④这样的融合不仅改变了网络本身的内容构成，也让网络世界成为一个有审美情感的、有价值温度的、要素更加完备的生态场。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"⑤在这一过程中，传统文学倡导的权威性、崇高性和严肃性的美学逐渐被大众审美加以消解，逐渐形成了强代入感、重消遣性、易于读者接受的语言和叙事方法。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"⑥其中包括建立交互性的反馈机制、嵌入超文本的编排方式、收费阅读和打赏制度等，对文学展开技术驯服和资本诱导，促使文学发展趋向符合大众审美和传播标准。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"将以上6个句子重新排列，语序正确的一项是（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 6,
+  "createdTime": 1524306957180,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["③①④②⑥⑤", "①③②⑥⑤④", "③④①②⑤⑥", "①③④⑥②⑤"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188173,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e82c975368ae.png?width=553&height=231\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305599205,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["A", "B", "C", "D"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188177,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"左边给定的是某正方形纸盒的外表面，下列哪一项与该正方体是一致的？\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e832544b0cc6.png?width=553&height=203\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305663309,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["A", "B", "C", "D"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188180,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"从所给的四个选型中，选择最合适的一个填入问号处，使之呈现一定的规律性：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e833dd383650.png?width=553&height=203\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305682642,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["A", "B", "C", "D"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188184,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"从所给的四个选型中，选择最合适的一个填入问号处，使之呈现一定的规律性：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e8370f21e2c9.png?width=553&height=203\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305705908,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["A", "B", "C", "D"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188191,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"把下列六个图形分成两类，使每一类图形都有各自的共同特征或规律，分类正确的一项是：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e838d7fd64e2.png?width=553&height=108\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305733311,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["①③⑥，②④⑤", "①②③，④⑤⑥", "①②④，③⑤⑥", "①③④，②⑤⑥"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188172,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"近因效应是指在总体印象形成过程中，新近获得的信息对人们认知的影响，远远大于以往所获得的信息。这是因为，在印象形成过程中，人们对原来的印象逐渐淡忘，当有新信息进入视野时，容易对人们的感官产生新的刺激，从而形成最新的印象，直接影响人们的认知和判断。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以上定义，下列不属于近因效应的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305582904,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["某社会名流声名卓著，到了晚年却因为一桩丑闻而臭名昭著", "面试时衣冠整洁，给人以良好的印象，被录取的几率也较大", "夫妻本来感情很好，因为一件小事吵架，闹嚷着要离婚", "小玲和小菲多年好友，因小玲最近“得罪”了小菲，两人形同陌路"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188174,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"激励不相容是指在委托代理关系中，委托人和代理人双方都会以自己的利益最大化来指导自己的行为，制度安排使他们在目标和行为上出现不一致，那些符合委托人利益的目标却无法对代理人产生激励作用的现象。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以上定义，下列属于激励不相容的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305607966,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["甲单位采取措施让每个员工在为企业多做贡献中成就自己的事业", "乙公司职位晋升中论资排辈现象严重，新人进入一段时间后工作积极性大大降低", "丙在保险公司购买了医疗保险后，没有像以前那样有规律的作息，开始熬夜，酗酒", "丁医院对医生实行挂号费递增提成制度，医生每个月接的挂号单越多，提成比例越高"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188179,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"商业生态系统是指组织和个人组成的经济联合体，其成员包括核心企业、消费者、市场中介、供应商、风险承担者等，在一定程度上还包括竞争者，这些成员之间构成了价值链，不同的链之间相互交织形成了价值网，物质、能量和信息等通过价值网在联合体成员间流动和循环，从而形成整体的竞争优势。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以上定义，下列企业行为与商业生态系统不符合的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305677784,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["日立公司强调如何利用企业的内部资源来形成竞争优势", "滴滴公司通过建设一个信息平台，撬动圈内其他企业和个人的资源", "飞利浦和美国电话电报公司合作，也同德国西门子公司合作", "苹果公司和微软公司的关系很复杂，既合作又竞争"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188193,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"迭代开发就是由于市场的不确定性高，在需求没被完全地确定之前，开发就迅速启动，每次循环不求完美，但求不断发现新问题，获取和积累新知识，并自适应地控制过程，在一次迭代中完成系统的部分功能，然后将未成熟的产品交付给领先用户，通过他们的反馈来进一步细化需求，从而进入下一轮的迭代，不断获取用户需求、完善产品。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以上定义，下列不属于迭代开发的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305746880,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["甲公司先向市场推出极简的原型产品，以最小的成本和有效方式验证产品是否符合用户需求，然后再结合需求，迅速添加组件", "乙公司开发产品时，遵循预先计划的需求、分析、设计、编码、测试的步骤顺序进行，成功开发出新产品", "丙公司的某产品在推出5年之后才撤掉之前的测试版字样，成为稳定的产品", "丁公司在其开发的软件上采用了开源软件的模式，与用户联合升级软件"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188198,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"强制性思维，又称思维云集，指患者头脑中出现大量不属于自己的思维，这些思维不受患者意愿的支配，强制性地在大脑中涌现，好像在外力作用下别人思想在自己脑中运行，内容大多杂乱无序，有时甚至是患者所厌恶的。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以上定义，下列属于强制性思维的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305774744,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["甲思维活动非常迟缓，联想困难，思考问题吃力，反应迟钝", "乙思维活动中联想松弛，内容散漫，思考问题不聚焦、不深入", "丙经常感觉到自己的思考被外界因素干扰，自己非常厌恶", "丁经常感到自己头脑中出现一些凌乱无序的想法，自己根本无法支配"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188175,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"社会认同原理是指在周围环境不确定的情况下，一个人无法判断自己的行为是否合理时，往往会根据周围其他人的行为来决定自己应该怎么做，这种行为模式完全是无意识的、条件反射式的。因此，偏颇甚至伪造的证据也能愚弄我们。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以上定义，下列与社会认同原理无关的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305621514,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["小悦悦被车碾压后，路过的19人竟无一人主动上前救助", "某人正遭受匪徒侵害，周围有数百人观看，但都无动于衷", "某地报道了幼儿园遭袭的消息后，其他地方也出现了类似报道", "制造商们总是把自己的产品跟当前的文化热潮联系起来"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188176,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"帕金森定律是指行政机构的层级会像金字塔一样不断增多，行政人员会不断膨胀，每个人都很忙，但组织效率越来越低下的现象。导致这种现象的原因是一个不称职的官员，通常会任用两个水平比自己更低的人当助手，两个助手再分别为自己找两个更无能的助手，如此类推，就形成了一个臃肿的组织。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以上定义，下列可以用帕金森定律解释的一项是： \",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305659452,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["某贫困县有能力的人得不到重用，而那些能力平庸的人又大量超编进入行政机构，致使这个国家级贫困县吃“皇粮”的人不断增多", "行政管理涉及的因素非常复杂，管理者不能避免目标制订和执行永不出错，管理者需要时时刻刻做好准备，面对到来的失误和失败", "某行政部门“根据贡献决定晋升”的晋升机制，导致组织中的相当部分人员被推到了与其不相称的级别，结果造成人浮于事，效率低下", "某管理者让下属有非常充足的时间去完成某项工作，结果下属不仅把自己弄得一团糟，整个部门也跟着混乱不堪"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188181,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"跷跷板互惠原理是指人与人之间的互动，就如坐跷跷板一样，不能永远固定某一端高，另一端低，而是要高低交错。因此，人们通常会以适当的方式回报他人为自己所做的一切，因为接受往往与偿还的义务紧紧联系在一起。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以上定义，下列体现跷跷板互惠原理的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305682876,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["赠人玫瑰，手有余香，做好事不求回报，同时内心得到了回报", "为了降低客户订单的违约率，销售人员通常在签约结束前问客户会不会如约履行承诺", "我们喜欢与自己相似的人，不管相似之处是在观点、个性、背景还是在生活方式上", "某文具店推出进店即送水的服务后，文具销售量大增"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188187,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"“赋、比，兴”是三种作诗的手法。“赋”是“直陈其事”，直接把事情说出来；“比”是“由心及物”，是用所见之物寄托内心的感情；“兴“是“见物起兴”，就是看到外界事物，引起内心的感动，是由物及心。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列诗句中使用了“兴”的手法的是：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"①硕鼠硕鼠，无食我黍，三岁贯汝，莫我肯顾。势将去汝，适彼乐土。乐土乐土，爰得我所。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"②关关雎鸠，在河之洲。窈窕淑女，君子好逑。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"③昔年种柳，依依汉南。今看摇落，凄怆江潭，树犹如此，人何以堪！\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305716762,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["①②", "①③", "②③", "①②③"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188195,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"惭愧是指一个人在日常生活中，由于对好的行为和圣贤的深入了解，内心产生一种以圣贤为榜样，以好的行为为准绳，并且拒绝不符合圣贤和好的言行的心理品格；当这种心理品格植根后，个人如果出现行为上的背离，内心就会产生一种良心自责感。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以上定义，下列属于惭愧的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305765109,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["甲在寒冬季节将水洒在楼道，后来担心水冻成冰后给他人带来伤害，内心非常歉疚", "乙考试作弊，一直担心事情暴露后会遭到大家的谴责和批评，内心忐忑不安", "丙在背后说同学坏话，事后想起书中关于“真、善、美”的种种阐释，内心觉得很不安", "丁偶然听了某道德楷模的讲座，内心对该道德楷模产生一种敬佩的感觉"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188178,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"骆驼祥子：四世同堂\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"最合适的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305664596,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["呐喊：雷雨", "土门：秦腔", "红与黑：老人与海", "国富论：资本论"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188183,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"弹簧秤：千克：质量\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"最合适的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305693126,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["温度计：摄氏度：温度", "直尺：平方米：面积", "表：光年：时间", "考试：分数：成绩"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188188,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"肺腑之言 对于（  ）相当于（  ）对于 艰苦\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"最合适的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305717680,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["诚实  风尘仆仆", "真诚  风餐露宿", "诚信  千锤百炼", "忠诚  风吹雨打"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188192,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"耿耿于怀：牵肠挂肚\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"最合适的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305737478,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["敲山震虎：打草惊蛇", "旷世绝伦：无独有偶", "工力悉敌：旗鼓相当", "望洋兴叹：易如反掌"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188194,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"菜刀：砧板\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"最合适的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305756544,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["火车：铁轨", "飞机：引擎", "电脑：操作系统", "行星：轨道"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188189,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"花容月貌 对于（  ）相当于（  ）对于 言语\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"最合适的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305719761,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["漂亮  巧舌如簧", "美丽  甜言蜜语", "姿色  言外之意", "容貌  花言巧语"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188197,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"植物：松树：长寿\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"最合适的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305766380,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["生物：康乃馨：健康", "植物：玫瑰：富贵", "动物：鸽子：和平", "雕像：狮子：威严"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188200,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"空中乘务员：飞行员\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"最合适的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305803585,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["司机：交警", "学生：教师", "顾客：营业员", "护士：医生"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188203,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"铁：铁锈\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"最合适的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305829893,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["生石灰：碳酸钙", "水：水蒸气", "砷：砒霜", "小麦：面粉"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188205,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"打靶：战士：坦克\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305847405,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["菜肴：厨师：炊具", "实验：教授：论文", "零件：工人：车床", "购物：消费者：银行卡"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188186,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"期末考试过后，四位老师对六年级(1)班的英语课成绩有如下结论：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"甲：所有学生没有及格的。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"乙：英语课代表王萌萌没有及格。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"丙：学生并不是都没有及格。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"丁：有的学生没有及格。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"如果四位老师中只有一人断定属实，那么判断属实的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305709289,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["甲", "乙", "丙", "无法判断"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188196,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"春天来了，花园里鲜花朵朵，美不胜收。甲说：“这种红颜色的花是桃花”。乙说：“这种红颜色的花可能是桃花”。丙说：“这种红颜色的花是杏花”。已知花园里不会同时存在桃花和杏花，这三个人中只有一人判断正确，那么判断正确的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305766013,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["甲", "乙", "丙", "无法判断"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188201,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"某公司的所有销售人员都是陕西人，有的陕西人喜欢吃辣椒，该公司的总经理喜欢吃辣椒。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"由此可以推出：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305813056,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["该公司的总经理是陕西人", "该公司的总经理可能是做销售起家的陕西人", "该公司的销售人员都喜欢吃辣椒", "该公司的销售人员可能都不喜欢吃辣椒"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188204,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在很多手机APP中，都存在过度采集信息的问题，并引起公众疑虑。用户一旦授权APP采集这些信息，最担心的就是隐私信息的安全问题。而在这个信息技术飞速发展的时代，绝对的信息安全几乎不可能实现。近来，美国的脸书泄露用户信息事件，以及国内最近的大数据“杀熟”，可谓殷鉴不远。作为最基础的电信服务提供商，运营商拥有数以亿计用户的隐私数据，一旦出现问题，后果更是难以估测。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"由此可以推出：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305837899,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["必须规范手机APP和电信运营商对隐私信息的采集与使用", "个人必须注重信息安全，尽可能少使用手机APP", "国内网络用户不要使用脸书，更不要注册", "国家和个人必须抵制大数据“杀熟”，规范对大数据的采集与使用"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188206,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"对于共享单车来说，同样需要早日走出烧钱比拼的阶段，寻求更能产生经济效益的经营模式，此次美团对摩拜的并购，为共享单车这个市场的突破寻找了新的方向。美团虽是一家实力雄展的企业，在前两年公司估值已达70亿美元，并且通过与大众点评的战略合作积累了企业并购的经验，这使市场没有理由不看好它此次的收购，但如果此次美团将摩拜揽入旗下后延续以往的烧钱模式，以此为手段实现对共享单车的进入，那么这场并购的意义就要打一个不小的折扣，甚至会将美团拖得疲惫不堪。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列各项如果为真，最能支持上述观点的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305881300,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["美团对摩拜的并购标志着共享单车盈利模式的终结", "美团的雄厚实力足以支持并购来的摩拜，即使烧钱，也不足为惧", "市场对于这次并购的态度并不重要，美团有自己的战略考虑", "美团只有将共享单车与其主营业务相融合，实现盈利，并购才有意义"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188182,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"中国科研环境在持续改善。数据显示，2016年，中国研发经费投入总量为1.57万亿元，成为仅次于美国的世界第二大研发经费投入国家。随着一系列国家重点创新项目、重点学科和重点实验室陆续建立，今天的中国，已有能力为科研人员提供不输于西方国家的科研条件。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列各项如果为真，最能加强上述论证的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305684048,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["随着科研经费的提升，中国也随之出台了一系列科研政策", "国家重点创新项目、重点学科和重点实验室对科研人员极具吸引力", "科研经费能够落到实处，各类“重点”举措使科研人员人尽其才", "科研经费的提升对于改善科研环境具有举足轻重的作用"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188185,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2018年全国高校毕业生将达820万，再创历史新高。眼下为了“抢”人才，不少城市纷纷出台引才新政。媒体进行的一项调查显示：在回答“你希望就业的城市”这一问题时，六成受访者选择二线城市，三成受访者选择一线城市，仅一成选择三四线城市。这主要基于生活成本、就业机会与发展空间的综合考量。\",\"children\":[]},{\"name\":\"tex\",\"value\":\"3DCXt/G6lwMjU3uud4ziKg==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"的受访者认为房价等生活成本是主要考虑因素。换个更直白的说法，就是一线城市居之不易，于是大学生就业“首选二线城市”。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列各项如果为真，最能支持上述观点的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305707181,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["一线城市经济活力强，具有更多的发展机会", "综合考虑生活成本与发展机会，二线城市更受毕业生青睐", "就目前情况来看，三四线城市经济活力不足，发展机会有限", "高房价令毕业生对一线城市望而生畏"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188190,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在互联网产业集群区块链技术落地应用生态系统中，有着几千万的注册会员，他们组成了庞大的消费者群体，也是互联网产业集群的具体对应物。作为传统意义上的消费者，千百年来通过自身商业消费行为，这个群体创造的价值见证了一代又一代的富翁、成功者、层出不穷的首富，他们过着纸醉金迷、灯红酒绿、令人羡慕的生活，享受着财富带来的豪宅、豪车、地位、荣耀，他们的子女可以获得优质的教育机会，得到父辈所有资源的传承，这些固然有着个人努力的成分，但是肯定与千百万人购买和使用了他们的产品与服务息息相关。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"由此可以推出：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305730508,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["互联网产业集群区块链技术的掌握者获取了大量财富", "互联网产业集群区块链技术的掌握者提供了吸引人的产品和服务", "与历史上的时代宠儿一样，互联网产业集群区块链技术是一种造富手段", "互联网产业集群区块链技术是未来互联网的发展趋势"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188199,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"汽车的出现改变了现代生活的面貌：改变了我们的生活所在地、购买习惯、工作方式等。随着汽车越来越普遍，它们已经成为社会文化和生态不可分割的一部分，但是世界卫生组织的数据显示，每年由车祸导致的死亡人数约有125万人。其中，半数死亡的情况为车辆与路人、自行车、摩托车相撞所致。车祸已成为15-29岁人群致死事件的罪魁祸首。那么自动驾驶车辆的出现将有改变这一现象的趋势。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列各项如果为真，最能\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"质疑\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"上述结论的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305777757,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["自动驾驶车辆撞人致死的事件已经发生", "自动驾驶车辆的控制系统有待进一步完善", "车祸的酿成与普罗大众的个人素质不无关系", "自动驾驶车辆的商业普及率还很低"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188202,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2007年以来，我国正式启动了商业银行设立金融租赁公司的试点工作，金融租赁行业迅猛发展，行业内企业数量不断增加，整体规模也在不断扩大。从为实体经济提供服务的角度看，金融租赁行业在降低传统实体企业的固定成本、助力实体企业技术革新和提升效率方面，发挥了积极作用。但是，与深化供给侧结构性改革、推动产业结构转型升级等要求相比，金融租赁业还未充分发挥其业务特长和优势。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列各项如果为真，最能\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"质疑\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"上述观点的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305827722,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["金融租赁行业覆盖面偏窄", "金融租赁行业已成为中小企业发展的助力", "金融租赁行业整体客户黏性较低", "金融租赁行业盈利模式相对单一"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188145,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年，该省单位面积产量最高的水果是（  ）。\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195124,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答66—70题。\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2017年，某省全省园林水果面积1987.30万亩，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"70/OjFSDyRvq9F409Dq2RQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。其中，苹果的挂果面积为726.21万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"OSw2/Cx0H4xHz6LpEvWE8Q==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；梨的挂果面积为61.29万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"4/6Anx7hJg5rmYRVqzs9gg==?widthRatio=2.857&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；柑桔的挂果面积为40.26万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"IETIHm6Hq0n92qYXsqoetg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；桃的挂果面积为45.05万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"ZW28o0xRjIZ+8qimA3aqIg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；猕猴桃的挂果面积为64.76万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NNZHIGsxh8OGJpPm1NGClQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；葡萄的挂果面积为54.05万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"TywRsJfjRKzpj7fP92NkwA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；枣的挂果面积为262.74万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"cZDmXqFqWZ33B0JOtElvqg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；柿子的挂果面积为37.80万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"G9byHSR1Ap1matd4eF8tOQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；杏的挂果面积为45.42万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"OSw2/Cx0H4xHz6LpEvWE8Q==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；石榴的挂果面积为6.51万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"w4OYtl+pd3VOBpGNoZnfxw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；樱桃的挂果面积为10.92万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"BRnbetH7DrhyY/MOFnlg4A==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2017年，该省全省园林水果产量1801.02万吨，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"d+bTqzAL8oFADwiUFFIwTg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。其中，苹果的产量为1153.94万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"70/OjFSDyRvq9F409Dq2RQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；梨的产量为110.37万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"6AAIAd61RxK4IqJyyP8ebA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；柑桔的产量为54.06万吨，同比增长为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"6AAIAd61RxK4IqJyyP8ebA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；桃的产量为84.61万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"gvJ+Rtp65uxy4BiUv4cieg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；猕猴桃的产量为138.97万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"6AAIAd61RxK4IqJyyP8ebA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；葡萄的产量为68.15万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"YupEuxQkjiZvHJAF0odtSw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；枣的产量为87.23万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"FwpotMSXS6WjFZFp9SpbFw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；柿子的产量为40.63万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"w5xTXf4mjm5+1uBsI0rqZg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；杏的产量为20.21万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"YupEuxQkjiZvHJAF0odtSw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；石榴的产量为10.34万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NqOxs7ekgTNAeGAEeML1mQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；樱桃的产量为13.66万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"T2WyMUFqr8XvhizP084pbA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524304780944,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["梨", "苹果", "桃", "猕猴桃"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188148,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年，该省挂果面积最大水果的总产量是挂果面积最小水果的总产量的约（  ）倍。\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195124,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答66—70题。\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2017年，某省全省园林水果面积1987.30万亩，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"70/OjFSDyRvq9F409Dq2RQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。其中，苹果的挂果面积为726.21万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"OSw2/Cx0H4xHz6LpEvWE8Q==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；梨的挂果面积为61.29万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"4/6Anx7hJg5rmYRVqzs9gg==?widthRatio=2.857&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；柑桔的挂果面积为40.26万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"IETIHm6Hq0n92qYXsqoetg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；桃的挂果面积为45.05万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"ZW28o0xRjIZ+8qimA3aqIg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；猕猴桃的挂果面积为64.76万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NNZHIGsxh8OGJpPm1NGClQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；葡萄的挂果面积为54.05万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"TywRsJfjRKzpj7fP92NkwA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；枣的挂果面积为262.74万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"cZDmXqFqWZ33B0JOtElvqg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；柿子的挂果面积为37.80万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"G9byHSR1Ap1matd4eF8tOQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；杏的挂果面积为45.42万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"OSw2/Cx0H4xHz6LpEvWE8Q==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；石榴的挂果面积为6.51万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"w4OYtl+pd3VOBpGNoZnfxw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；樱桃的挂果面积为10.92万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"BRnbetH7DrhyY/MOFnlg4A==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2017年，该省全省园林水果产量1801.02万吨，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"d+bTqzAL8oFADwiUFFIwTg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。其中，苹果的产量为1153.94万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"70/OjFSDyRvq9F409Dq2RQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；梨的产量为110.37万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"6AAIAd61RxK4IqJyyP8ebA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；柑桔的产量为54.06万吨，同比增长为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"6AAIAd61RxK4IqJyyP8ebA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；桃的产量为84.61万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"gvJ+Rtp65uxy4BiUv4cieg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；猕猴桃的产量为138.97万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"6AAIAd61RxK4IqJyyP8ebA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；葡萄的产量为68.15万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"YupEuxQkjiZvHJAF0odtSw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；枣的产量为87.23万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"FwpotMSXS6WjFZFp9SpbFw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；柿子的产量为40.63万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"w5xTXf4mjm5+1uBsI0rqZg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；杏的产量为20.21万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"YupEuxQkjiZvHJAF0odtSw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；石榴的产量为10.34万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NqOxs7ekgTNAeGAEeML1mQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；樱桃的产量为13.66万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"T2WyMUFqr8XvhizP084pbA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524304807231,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["112", "84", "57", "28"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188149,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年，该省挂果面积同比增速最高水果的单位面积产量约为（  ）\",\"children\":[]},{\"name\":\"tex\",\"value\":\"wT4VIrYdlZRGxKZ9GX2nEg==?widthRatio=2.5&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195124,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答66—70题。\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2017年，某省全省园林水果面积1987.30万亩，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"70/OjFSDyRvq9F409Dq2RQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。其中，苹果的挂果面积为726.21万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"OSw2/Cx0H4xHz6LpEvWE8Q==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；梨的挂果面积为61.29万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"4/6Anx7hJg5rmYRVqzs9gg==?widthRatio=2.857&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；柑桔的挂果面积为40.26万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"IETIHm6Hq0n92qYXsqoetg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；桃的挂果面积为45.05万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"ZW28o0xRjIZ+8qimA3aqIg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；猕猴桃的挂果面积为64.76万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NNZHIGsxh8OGJpPm1NGClQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；葡萄的挂果面积为54.05万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"TywRsJfjRKzpj7fP92NkwA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；枣的挂果面积为262.74万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"cZDmXqFqWZ33B0JOtElvqg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；柿子的挂果面积为37.80万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"G9byHSR1Ap1matd4eF8tOQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；杏的挂果面积为45.42万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"OSw2/Cx0H4xHz6LpEvWE8Q==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；石榴的挂果面积为6.51万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"w4OYtl+pd3VOBpGNoZnfxw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；樱桃的挂果面积为10.92万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"BRnbetH7DrhyY/MOFnlg4A==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2017年，该省全省园林水果产量1801.02万吨，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"d+bTqzAL8oFADwiUFFIwTg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。其中，苹果的产量为1153.94万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"70/OjFSDyRvq9F409Dq2RQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；梨的产量为110.37万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"6AAIAd61RxK4IqJyyP8ebA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；柑桔的产量为54.06万吨，同比增长为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"6AAIAd61RxK4IqJyyP8ebA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；桃的产量为84.61万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"gvJ+Rtp65uxy4BiUv4cieg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；猕猴桃的产量为138.97万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"6AAIAd61RxK4IqJyyP8ebA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；葡萄的产量为68.15万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"YupEuxQkjiZvHJAF0odtSw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；枣的产量为87.23万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"FwpotMSXS6WjFZFp9SpbFw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；柿子的产量为40.63万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"w5xTXf4mjm5+1uBsI0rqZg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；杏的产量为20.21万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"YupEuxQkjiZvHJAF0odtSw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；石榴的产量为10.34万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NqOxs7ekgTNAeGAEeML1mQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；樱桃的产量为13.66万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"T2WyMUFqr8XvhizP084pbA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524304832478,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["332", "445", "664", "1075"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188152,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年，单位面积产量超过\",\"children\":[]},{\"name\":\"tex\",\"value\":\"wGArNfhjsH2YRd9vmT29rO8MymtsIA2Ra6DfONDcqJQ=?widthRatio=5.429&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"的水果共有（  ）种。\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195124,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答66—70题。\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2017年，某省全省园林水果面积1987.30万亩，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"70/OjFSDyRvq9F409Dq2RQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。其中，苹果的挂果面积为726.21万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"OSw2/Cx0H4xHz6LpEvWE8Q==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；梨的挂果面积为61.29万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"4/6Anx7hJg5rmYRVqzs9gg==?widthRatio=2.857&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；柑桔的挂果面积为40.26万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"IETIHm6Hq0n92qYXsqoetg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；桃的挂果面积为45.05万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"ZW28o0xRjIZ+8qimA3aqIg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；猕猴桃的挂果面积为64.76万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NNZHIGsxh8OGJpPm1NGClQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；葡萄的挂果面积为54.05万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"TywRsJfjRKzpj7fP92NkwA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；枣的挂果面积为262.74万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"cZDmXqFqWZ33B0JOtElvqg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；柿子的挂果面积为37.80万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"G9byHSR1Ap1matd4eF8tOQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；杏的挂果面积为45.42万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"OSw2/Cx0H4xHz6LpEvWE8Q==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；石榴的挂果面积为6.51万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"w4OYtl+pd3VOBpGNoZnfxw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；樱桃的挂果面积为10.92万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"BRnbetH7DrhyY/MOFnlg4A==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2017年，该省全省园林水果产量1801.02万吨，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"d+bTqzAL8oFADwiUFFIwTg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。其中，苹果的产量为1153.94万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"70/OjFSDyRvq9F409Dq2RQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；梨的产量为110.37万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"6AAIAd61RxK4IqJyyP8ebA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；柑桔的产量为54.06万吨，同比增长为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"6AAIAd61RxK4IqJyyP8ebA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；桃的产量为84.61万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"gvJ+Rtp65uxy4BiUv4cieg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；猕猴桃的产量为138.97万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"6AAIAd61RxK4IqJyyP8ebA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；葡萄的产量为68.15万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"YupEuxQkjiZvHJAF0odtSw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；枣的产量为87.23万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"FwpotMSXS6WjFZFp9SpbFw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；柿子的产量为40.63万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"w5xTXf4mjm5+1uBsI0rqZg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；杏的产量为20.21万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"YupEuxQkjiZvHJAF0odtSw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；石榴的产量为10.34万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NqOxs7ekgTNAeGAEeML1mQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；樱桃的产量为13.66万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"T2WyMUFqr8XvhizP084pbA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524304851508,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["8", "9", "10", "11"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188156,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述资料，下列说法中\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不正确\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的一项是（  ）。\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195124,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答66—70题。\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2017年，某省全省园林水果面积1987.30万亩，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"70/OjFSDyRvq9F409Dq2RQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。其中，苹果的挂果面积为726.21万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"OSw2/Cx0H4xHz6LpEvWE8Q==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；梨的挂果面积为61.29万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"4/6Anx7hJg5rmYRVqzs9gg==?widthRatio=2.857&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；柑桔的挂果面积为40.26万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"IETIHm6Hq0n92qYXsqoetg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；桃的挂果面积为45.05万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"ZW28o0xRjIZ+8qimA3aqIg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；猕猴桃的挂果面积为64.76万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NNZHIGsxh8OGJpPm1NGClQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；葡萄的挂果面积为54.05万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"TywRsJfjRKzpj7fP92NkwA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；枣的挂果面积为262.74万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"cZDmXqFqWZ33B0JOtElvqg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；柿子的挂果面积为37.80万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"G9byHSR1Ap1matd4eF8tOQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；杏的挂果面积为45.42万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"OSw2/Cx0H4xHz6LpEvWE8Q==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；石榴的挂果面积为6.51万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"w4OYtl+pd3VOBpGNoZnfxw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；樱桃的挂果面积为10.92万亩，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"BRnbetH7DrhyY/MOFnlg4A==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2017年，该省全省园林水果产量1801.02万吨，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"d+bTqzAL8oFADwiUFFIwTg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。其中，苹果的产量为1153.94万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"70/OjFSDyRvq9F409Dq2RQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；梨的产量为110.37万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"6AAIAd61RxK4IqJyyP8ebA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；柑桔的产量为54.06万吨，同比增长为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"6AAIAd61RxK4IqJyyP8ebA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；桃的产量为84.61万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"gvJ+Rtp65uxy4BiUv4cieg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；猕猴桃的产量为138.97万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"6AAIAd61RxK4IqJyyP8ebA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；葡萄的产量为68.15万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"YupEuxQkjiZvHJAF0odtSw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；枣的产量为87.23万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"FwpotMSXS6WjFZFp9SpbFw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；柿子的产量为40.63万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"w5xTXf4mjm5+1uBsI0rqZg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；杏的产量为20.21万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"YupEuxQkjiZvHJAF0odtSw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；石榴的产量为10.34万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NqOxs7ekgTNAeGAEeML1mQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；樱桃的产量为13.66万吨，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"T2WyMUFqr8XvhizP084pbA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524304891693,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["2017年，共有5种水果的单位面积产量同比有所降低", "2017年，单位面积产量及同比增速均最低的水果是同一种水果", "2016年，单位面积产量低于柿子的水果仅有两种", "2016年，单位面积产量从高到低的水果排序是苹果、柑桔、葡萄、樱桃"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188151,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年我国电信业务收入同比增加了大约（  ）亿元。\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195125,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"二、根据以下资料，回答\",\"children\":[]}]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"71--75题。\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年，我国电信业务收入12620亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"7KKLUE7xPUEqqPnWEa+GUg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，增速同比提高1个百分点。其中，2017年全年固定通信业务收入完成3549亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"z1GPTsp7QS6XiM04hh4LOA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，在电信业务收入中占比为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"//RC5a5AVq6Y2THxAS3yQA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。2017年，在固定通信业务中固定数据及互联网业务收入达到1971亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"DgfgDyT0DW5Id81N0mVgNw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，拉动电信业务收入增长1.4个百分点，对全行业业务收入增长贡献率达\",\"children\":[]},{\"name\":\"tex\",\"value\":\"PbjM8DRw8wQWhCmEU/4MdA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。2017年全年移动通信业务实现收入9071亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"bi1bluv0omQTQZfiuDcExA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，在电信业务收入中占比为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"i0vdS9ffA/QEK8alwM9wFQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。2017年，在移动通信业务中移动数据及互联网业务收入5489亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"FLCkPUumPUXAvtCYeWVNCw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，对收入增长贡献率达\",\"children\":[]},{\"name\":\"tex\",\"value\":\"cEqGAp5yShIAG/Wy0ECTcw==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e8f2fbffb0e9.png?width=1431&height=749\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524304836563,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["681", "759", "808", "818"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188157,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年固定数据及互联网业务收入占电信业务收入的（  ）。\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195125,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"二、根据以下资料，回答\",\"children\":[]}]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"71--75题。\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年，我国电信业务收入12620亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"7KKLUE7xPUEqqPnWEa+GUg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，增速同比提高1个百分点。其中，2017年全年固定通信业务收入完成3549亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"z1GPTsp7QS6XiM04hh4LOA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，在电信业务收入中占比为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"//RC5a5AVq6Y2THxAS3yQA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。2017年，在固定通信业务中固定数据及互联网业务收入达到1971亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"DgfgDyT0DW5Id81N0mVgNw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，拉动电信业务收入增长1.4个百分点，对全行业业务收入增长贡献率达\",\"children\":[]},{\"name\":\"tex\",\"value\":\"PbjM8DRw8wQWhCmEU/4MdA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。2017年全年移动通信业务实现收入9071亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"bi1bluv0omQTQZfiuDcExA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，在电信业务收入中占比为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"i0vdS9ffA/QEK8alwM9wFQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。2017年，在移动通信业务中移动数据及互联网业务收入5489亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"FLCkPUumPUXAvtCYeWVNCw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，对收入增长贡献率达\",\"children\":[]},{\"name\":\"tex\",\"value\":\"cEqGAp5yShIAG/Wy0ECTcw==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e8f2fbffb0e9.png?width=1431&height=749\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524304907098,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"azRpc+CO5gojj/9Jwz/d1Q==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"h7vpOSSX9e2Z4CaJnb/BOw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"N+X+a7gHr9Kfg0vYSXze3Q==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"D/nUhDcmPTgWwnyFZt/siw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188159,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年移动数据及互联网业务收入在电信业务收入中的比重比2016年提高了大约（  ）。\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195125,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"二、根据以下资料，回答\",\"children\":[]}]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"71--75题。\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年，我国电信业务收入12620亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"7KKLUE7xPUEqqPnWEa+GUg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，增速同比提高1个百分点。其中，2017年全年固定通信业务收入完成3549亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"z1GPTsp7QS6XiM04hh4LOA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，在电信业务收入中占比为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"//RC5a5AVq6Y2THxAS3yQA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。2017年，在固定通信业务中固定数据及互联网业务收入达到1971亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"DgfgDyT0DW5Id81N0mVgNw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，拉动电信业务收入增长1.4个百分点，对全行业业务收入增长贡献率达\",\"children\":[]},{\"name\":\"tex\",\"value\":\"PbjM8DRw8wQWhCmEU/4MdA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。2017年全年移动通信业务实现收入9071亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"bi1bluv0omQTQZfiuDcExA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，在电信业务收入中占比为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"i0vdS9ffA/QEK8alwM9wFQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。2017年，在移动通信业务中移动数据及互联网业务收入5489亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"FLCkPUumPUXAvtCYeWVNCw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，对收入增长贡献率达\",\"children\":[]},{\"name\":\"tex\",\"value\":\"cEqGAp5yShIAG/Wy0ECTcw==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e8f2fbffb0e9.png?width=1431&height=749\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524304940371,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"QrNbDE9b9qDzL8CMJW8cLg==?widthRatio=1.286&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"kuvr7p92Dlb2GutwtmXpxQ==?widthRatio=1.286&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"fwoYrA6HwfVkWbPhaa5yqA==?widthRatio=1.286&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"8lHCgOBfm9m7Uj4N/Y2Pwg==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188160,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"题目正在全力以赴征集，将会在征集到后第一时间上传\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195125,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"二、根据以下资料，回答\",\"children\":[]}]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"71--75题。\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年，我国电信业务收入12620亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"7KKLUE7xPUEqqPnWEa+GUg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，增速同比提高1个百分点。其中，2017年全年固定通信业务收入完成3549亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"z1GPTsp7QS6XiM04hh4LOA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，在电信业务收入中占比为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"//RC5a5AVq6Y2THxAS3yQA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。2017年，在固定通信业务中固定数据及互联网业务收入达到1971亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"DgfgDyT0DW5Id81N0mVgNw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，拉动电信业务收入增长1.4个百分点，对全行业业务收入增长贡献率达\",\"children\":[]},{\"name\":\"tex\",\"value\":\"PbjM8DRw8wQWhCmEU/4MdA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。2017年全年移动通信业务实现收入9071亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"bi1bluv0omQTQZfiuDcExA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，在电信业务收入中占比为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"i0vdS9ffA/QEK8alwM9wFQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。2017年，在移动通信业务中移动数据及互联网业务收入5489亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"FLCkPUumPUXAvtCYeWVNCw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，对收入增长贡献率达\",\"children\":[]},{\"name\":\"tex\",\"value\":\"cEqGAp5yShIAG/Wy0ECTcw==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e8f2fbffb0e9.png?width=1431&height=749\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524304963759,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["缺失", "缺失", "缺失", "缺失"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188164,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以上资料，下列说法中正确的一项是（  ）。\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195125,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"二、根据以下资料，回答\",\"children\":[]}]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"71--75题。\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年，我国电信业务收入12620亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"7KKLUE7xPUEqqPnWEa+GUg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，增速同比提高1个百分点。其中，2017年全年固定通信业务收入完成3549亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"z1GPTsp7QS6XiM04hh4LOA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，在电信业务收入中占比为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"//RC5a5AVq6Y2THxAS3yQA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。2017年，在固定通信业务中固定数据及互联网业务收入达到1971亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"DgfgDyT0DW5Id81N0mVgNw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，拉动电信业务收入增长1.4个百分点，对全行业业务收入增长贡献率达\",\"children\":[]},{\"name\":\"tex\",\"value\":\"PbjM8DRw8wQWhCmEU/4MdA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。2017年全年移动通信业务实现收入9071亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"bi1bluv0omQTQZfiuDcExA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，在电信业务收入中占比为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"i0vdS9ffA/QEK8alwM9wFQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。2017年，在移动通信业务中移动数据及互联网业务收入5489亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"FLCkPUumPUXAvtCYeWVNCw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，对收入增长贡献率达\",\"children\":[]},{\"name\":\"tex\",\"value\":\"cEqGAp5yShIAG/Wy0ECTcw==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e8f2fbffb0e9.png?width=1431&height=749\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 7,
+  "createdTime": 1524305057150,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2013-2017年，移动通信业务收入在我国电信业务收入中的占比均高于\",\"children\":[]},{\"name\":\"tex\",\"value\":\"crl0dnDnD+pPeIy8YlXZ+Q==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2013-2017年，移动数据及互联网业务收入在移动通信业务收入中的占比均高于\",\"children\":[]},{\"name\":\"tex\",\"value\":\"nev9CXG69YgDgsl1FKM3pg==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2013-2017年，固定数据及互联网业务收入在固定通信业务收入中的占比均高于\",\"children\":[]},{\"name\":\"tex\",\"value\":\"eSWBFpuPz9SqJkZNq8RP/w==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2013-2017年，固定通信业务收入的年度同比增速均高于同年我国电信业务收入的年度同比增速\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188207,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年全国规模以上文化及相关产业企业营业收入合计数比2016年增加了大约（  ）亿元。\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195128,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答76—80题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e84da32eebda.png?width=1269&height=614\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524306063404,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["8936", "8963", "9836", "9863"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188208,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年（  ）的全国规模以上文化及相关产业企业营业收入合计数的同比增速最高。\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195128,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答76—80题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e84da32eebda.png?width=1269&height=614\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524306085835,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["第一季度", "第二季度", "第三季度", "第四季度"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188209,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年第四季度（  ）产业的企业营业收入的环比增速最小。\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195128,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答76—80题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e84da32eebda.png?width=1269&height=614\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 6,
+  "createdTime": 1524306123884,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["工艺美术品的生产", "文化产品生产的辅助生产", "文化用品的生产", "文化专用设备的生产"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188210,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年第三季度（  ）个产业的企业营业收入实现环化下降。\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195128,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答76—80题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e84da32eebda.png?width=1269&height=614\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524306145227,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["4", "5", "6", "7"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188214,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述资料，下利说法中\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不正确\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的一项是（  ）。\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195128,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答76—80题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e84da32eebda.png?width=1269&height=614\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524306227781,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2016年第二季度所有产业的企业营业收入的环比增速都大于\",\"children\":[]},{\"name\":\"tex\",\"value\":\"8lHCgOBfm9m7Uj4N/Y2Pwg==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年第二季度所有产业的企业营业收入的环比增速都大于\",\"children\":[]},{\"name\":\"tex\",\"value\":\"8lHCgOBfm9m7Uj4N/Y2Pwg==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2016年第二季度到第四季度全国规模以上文化及相关产业企业营业收入合计数的环比增速均为正值\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年第二季度到第四季度全国规模以上文化及相关产业企业营业收入合计数的环比增速均为正值\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188167,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年全国规模以上工业企业实现利润总额比2015年增加了（  ）亿元。\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195126,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答81-85题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e84328835e70.png?width=465&height=287\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年，全国规模以上工业企业实现主营业务收入116.5万亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"AwXCXt23JbkBOvPES5uaUA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；全国规模以上工业企业发生主营业务成本98.9万亿元，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NNZHIGsxh8OGJpPm1NGClQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；全国规模以上工业企业实现利润总额75187.1亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"s5cJe/uu6zJjhnssWLaXdw==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，增速比2016年加快12.5个百分点；全国规模以上工业企业主管业务收入利润率（利润总额/主营业务收入）为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"ednUmxy1aoaC3QnNGtwzpQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比上年提高0.54个百分点。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年，全国规模以上工业企业每百元主营业务收入中的成本为84.92元，比上年减少0.25元；每百元主营业务收入中的费用为7.77元，减少0.2元；每百元资产实现的主营业务收入（主营业务收入/总资产）为108.4元，增加3.7元；人均主营业务收入（主营业务收入/员工数量）为131.5万元，增加15万元。 \",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e84367cc8289.png?width=583&height=272\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305420019,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["13049", "13409", "17917", "17971"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188168,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年经济类型按主营业务收入利润率由低到高的排序是（  ）。\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195126,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答81-85题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e84328835e70.png?width=465&height=287\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年，全国规模以上工业企业实现主营业务收入116.5万亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"AwXCXt23JbkBOvPES5uaUA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；全国规模以上工业企业发生主营业务成本98.9万亿元，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NNZHIGsxh8OGJpPm1NGClQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；全国规模以上工业企业实现利润总额75187.1亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"s5cJe/uu6zJjhnssWLaXdw==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，增速比2016年加快12.5个百分点；全国规模以上工业企业主管业务收入利润率（利润总额/主营业务收入）为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"ednUmxy1aoaC3QnNGtwzpQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比上年提高0.54个百分点。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年，全国规模以上工业企业每百元主营业务收入中的成本为84.92元，比上年减少0.25元；每百元主营业务收入中的费用为7.77元，减少0.2元；每百元资产实现的主营业务收入（主营业务收入/总资产）为108.4元，增加3.7元；人均主营业务收入（主营业务收入/员工数量）为131.5万元，增加15万元。 \",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e84367cc8289.png?width=583&height=272\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305449994,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["私营企业  股份制企业  国有控股企业  外商及港澳台商投资企业", "股份制企业  国有控股企业  集体企业  外商及港澳台商投资企业", "私营企业  国有控股企业  股份制企业  集体企业", "股份制企业  私营企业  集体企业  外商及港澳台商投资企业"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188169,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年，员工人数最多的经济类型是（  ）。\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195126,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答81-85题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e84328835e70.png?width=465&height=287\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年，全国规模以上工业企业实现主营业务收入116.5万亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"AwXCXt23JbkBOvPES5uaUA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；全国规模以上工业企业发生主营业务成本98.9万亿元，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NNZHIGsxh8OGJpPm1NGClQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；全国规模以上工业企业实现利润总额75187.1亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"s5cJe/uu6zJjhnssWLaXdw==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，增速比2016年加快12.5个百分点；全国规模以上工业企业主管业务收入利润率（利润总额/主营业务收入）为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"ednUmxy1aoaC3QnNGtwzpQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比上年提高0.54个百分点。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年，全国规模以上工业企业每百元主营业务收入中的成本为84.92元，比上年减少0.25元；每百元主营业务收入中的费用为7.77元，减少0.2元；每百元资产实现的主营业务收入（主营业务收入/总资产）为108.4元，增加3.7元；人均主营业务收入（主营业务收入/员工数量）为131.5万元，增加15万元。 \",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e84367cc8289.png?width=583&height=272\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305469370,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["国有控股企业", "股份制企业", "外商及港澳台商投资企业", "私营企业"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188170,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年，在主要经济类型中（  ）的负债绝对额是最大的。\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195126,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答81-85题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e84328835e70.png?width=465&height=287\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年，全国规模以上工业企业实现主营业务收入116.5万亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"AwXCXt23JbkBOvPES5uaUA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；全国规模以上工业企业发生主营业务成本98.9万亿元，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NNZHIGsxh8OGJpPm1NGClQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；全国规模以上工业企业实现利润总额75187.1亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"s5cJe/uu6zJjhnssWLaXdw==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，增速比2016年加快12.5个百分点；全国规模以上工业企业主管业务收入利润率（利润总额/主营业务收入）为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"ednUmxy1aoaC3QnNGtwzpQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比上年提高0.54个百分点。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年，全国规模以上工业企业每百元主营业务收入中的成本为84.92元，比上年减少0.25元；每百元主营业务收入中的费用为7.77元，减少0.2元；每百元资产实现的主营业务收入（主营业务收入/总资产）为108.4元，增加3.7元；人均主营业务收入（主营业务收入/员工数量）为131.5万元，增加15万元。 \",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e84367cc8289.png?width=583&height=272\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305497630,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["国有控股企业", "股份制企业", "外商及港澳台商投资企业", "私营企业"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188171,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述资料，下列说法中正确的一项是（  ）。\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195126,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答81-85题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e84328835e70.png?width=465&height=287\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年，全国规模以上工业企业实现主营业务收入116.5万亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"AwXCXt23JbkBOvPES5uaUA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；全国规模以上工业企业发生主营业务成本98.9万亿元，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NNZHIGsxh8OGJpPm1NGClQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；全国规模以上工业企业实现利润总额75187.1亿元，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"s5cJe/uu6zJjhnssWLaXdw==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，增速比2016年加快12.5个百分点；全国规模以上工业企业主管业务收入利润率（利润总额/主营业务收入）为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"ednUmxy1aoaC3QnNGtwzpQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比上年提高0.54个百分点。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年，全国规模以上工业企业每百元主营业务收入中的成本为84.92元，比上年减少0.25元；每百元主营业务收入中的费用为7.77元，减少0.2元；每百元资产实现的主营业务收入（主营业务收入/总资产）为108.4元，增加3.7元；人均主营业务收入（主营业务收入/员工数量）为131.5万元，增加15万元。 \",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e84367cc8289.png?width=583&height=272\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305542717,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2016年所有经济类型的规模以上工业企业主营业务收入利润率均低于其2017年的主营业务收入利润率\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2016年所有经济类型的规模以上工业企业每百元主营业务收入的成本均高于其2017年每百元主营业务收入的成本\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2016年国有控股规模以上工业企业的实现利润总额占该年所有经济类型规模以上工业企业的实现利润总额合计数的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"1DVjqLwOAhgyay3Nr+1Zdw==?widthRatio=0.714&heightRatio=2.0\",\"children\":[]},{\"name\":\"txt\",\"value\":\"以上\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2016年国有控股规模以上工业企业的主营业务收入占该年所有经济类型规模以上工业企业的主营业务收入合计数的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"XWGOO3Qf44FfcfS1WgiJxur/0PhnZKxQFC4n/QqAUl4=?widthRatio=1.143&heightRatio=2.0\",\"children\":[]},{\"name\":\"txt\",\"value\":\"以上\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188030,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列表述中，\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不符合\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"《中华人民共和国监察法》的一项是（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524298803700,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["中华人民共和国国家监察委员会是最高监察机关，领导地方各级监察委员会的工作", "地方各级监察委员会主任每届任期同本级人民代表大会每届任期相同，连选连任不得超过两届", "国家监察委员会由全国人民代表大会产生，负责全国监察工作", "监察委员会履行监督、调查、处置等职责"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188031,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列关于我国“乡村振兴战略”的表述中，\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不正确\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的一项是（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524298883442,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["这是习近平总书记提出的促进农业农村优先发展的新战略", "2020年实现乡村振兴取得重要进展，制度框架和政策体系基本形成", "2035年实现乡村振兴取得决定性进展，农业农村现代化基本实现", "2060年实现乡村全面振兴，达到农业强、农村美、农民富"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188032,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列诗句中，描绘天气的一项是（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524298980306,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["四季无寒暑，一雨便成秋", "水光潋滟晴方好，山色空朦雨亦奇", "人间四月芳菲尽，山寺桃花始盛开", "映阶碧草自春色，隔叶黄鹏空好音"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188035,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"中国共产党第十九届三中全会审议通过了（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524299030403,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["《中共中央关于深化党和国家机构改革的决定》", "《中共中央关于深化党和国家领导制度改革的决定》", "《中共中央关于加强党的领导和全面从严治党的决定》", "《中共中央关于召开第十三届全国人民代表大会的决定》"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188042,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"“这是一个光荣的名字，不朽的名字”，这是中共中央总书记习近平同志对老一辈革命家（  ）的高度称赞。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524299072161,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["毛泽东", "邓小平", "周恩来", "彭德怀"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188025,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列说法中，正确的一项是（  ）\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524298422972,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["海昏侯墓与曾侯乙墓是在同一个省份发现的", "藻类植物可以用作监测空气污染程度的指示植物", "每天我国最先迎来黎明的地方是珍宝岛", "秋天有的树叶变红是因为树叶中的红色花青素超过叶绿素"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188014,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2018年2月，经国务院批准，国家发展与改革委员会等部委印发《关中平原城市群发展规划》，规划指出，关中平原城市群包括（  ）三省的3800万人口一体协同发展。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524298203474,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["陕西、山西、甘肃", "陕西、宁夏、内蒙古", "陕西、山西、河南", "陕西、宁夏、青海"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188016,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列说法中，正确的一项是（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524298305533,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"牛顿被称为“近代科学之父”\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"等量的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"zh7sxSsffiy0W+6XvjUv1OaZuVMLvnsdn3x82+tAuck=?widthRatio=2.714&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"的水蒸气与\",\"children\":[]},{\"name\":\"tex\",\"value\":\"zh7sxSsffiy0W+6XvjUv1OaZuVMLvnsdn3x82+tAuck=?widthRatio=2.714&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"的水对人的烫伤同样严重\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"爱因斯坦是现代量子物理学的奠基人\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"雨后彩虹是光的反射与折射共同作用产生的现象\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188018,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列表述中，\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不正确\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的一项是（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524298347371,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["“晴川历历汉阳树，芳草凄凄鹦鹉洲”中的鹦鹉洲在今武汉市", "“浊酒一杯家万里，燕然未勒归无计”中的燕然指今北京市", "“行到水穷处，生看云起时”所描绘的景观在今西安市", "“何处望神州？满眼风光北固楼“中的北固楼在今江苏省"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188021,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列表述中，正确的一项是（  ）\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524298367458,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["小张为某企业员工，打算辞职，须在20日前向单位提交书面辞职申请，这一做法符合劳动法的相关规定", "小李企图入室盗窃，但因入户门锁无法撬开，多次尝试未果，只好放弃，这属于犯罪中止", "小王在网络上匿名发布关于某明星的虚假新闻，对其造成名誉伤害，小王不需要承担法律责任", "小赵在公交车上发现小吴偷其钱包，对其穷追猛打致其死亡，这属于防卫过当"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188017,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列说法中，不正确的一项是（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524298324986,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["“穿花蛱蝶深深见，点水蜻蜓款款飞”描述的是唐代曲江的景象", "巴基斯坦的首都是伊斯兰堡", "海上行驶的轮船发出六声短笛是转弯的警示", "我国古代名画《清明上河图》描绘的是北宋汴梁秋天的景观"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188020,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在陕西省委十三届二次全委会上，省委书记胡和平提出，要以发展“三个经济”为突破口，努力使对外开放成为新时代追赶超越的新优势，下列符合“三个经济”提法的是（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524298355967,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["绿色经济、实体经济、共享经济", "枢纽经济、门户经济、流动经济", "绿色经济、创新经济、共享经济", "枢纽经济、网络经济、流动经济"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188022,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列关于北斗卫星导航系统用途的说法中，\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不正确\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的一项是（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524298372919,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["导航与通信的集成增强了导航能力和搜索救援能力，可实现用户信息共享和信息交换", "多系统兼容服务，可以实现公开服务相互兼容，必要时提供多系统监测信息和差分改正信息", "卫星使用寿星较长，目前尚未组建完毕，只能提供单向授时授权服务", "以双向伪距时间同步方法摆脱卫星时间同步与精密轨道之间的依赖关系"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188023,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列说法中，正确的一项是（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524298391147,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["“锥刺股”是汉代孙敬的故事", "“头悬梁”是战国苏秦的故事", "“赵中令，读鲁论，彼既仕，学且勤。”中的赵中令即晋国赵盾", "“苏老泉，二十七，始发愤，读书籍。”中的苏老泉即宋代苏洵"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188024,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列成语中，与魏蜀吴三国无关的一项的是（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524298408724,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["临阵磨枪  篝火狐鸣  锄强扶弱", "成败利钝  长驱直入  超群绝伦", "车殆马烦  称王称霸  赤膊上阵", "除残去秽  乘虚而入  重见天日"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188010,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列名著中，出自同一大洲的有（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 3,
+  "difficulty": 5,
+  "createdTime": 1524298123069,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["《基督山伯爵》", "《百年孤独》", "《红高粱》", "《浮士德》"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0,3",
+    "type": 201
+  }
+}, {
+  "id": 2188011,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列国家重点一级保护动物中，分布在陕西省境内的有（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 3,
+  "difficulty": 5,
+  "createdTime": 1524298151787,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["丹顶鹤", "朱鹮", "大熊猫", "金丝猴"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1,2,3",
+    "type": 201
+  }
+}, {
+  "id": 2188012,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列各项中，对应正确的有（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 3,
+  "difficulty": 5,
+  "createdTime": 1524298180268,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["草木有本心，何求美人折—王昌龄", "明月出天山，苍茫云海间—李白", "谁能绝人命，以作时世贤—元结", "艳色天下重，西施宁久微—白居易"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1,2",
+    "type": 201
+  }
+}, {
+  "id": 2188013,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列历史事件中，发生在黄河流域的有（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 3,
+  "difficulty": 5,
+  "createdTime": 1524298198145,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["商鞅变法", "王莽新政", "魏孝文帝迁都", "赤壁之战"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0,1,2",
+    "type": 201
+  }
+}, {
+  "id": 2188015,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列关于维生素的说法中，正确的有（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 3,
+  "difficulty": 5,
+  "createdTime": 1524298216934,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"甲患有夜盲症，可能是因为缺少维生素\",\"children\":[]},{\"name\":\"tex\",\"value\":\"pi/GsQ3apuRt43V3XQq/tA==?widthRatio=0.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"乙患有脚气病，可能是因为缺少维生素\",\"children\":[]},{\"name\":\"tex\",\"value\":\"q1djlrfSWHAqH21hBgtrSw==?widthRatio=0.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"丙患有坏血症，可能是因为缺少维生素\",\"children\":[]},{\"name\":\"tex\",\"value\":\"TKU5UzNEMzEJwORo6mbEYA==?widthRatio=0.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"丁患有佝偻病，可能是因为缺少维生素\",\"children\":[]},{\"name\":\"tex\",\"value\":\"s+r8LBAs3scxfl88DGExcg==?widthRatio=0.857&heightRatio=1.286\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "0,1,2,3",
+    "type": 201
+  }
+}, {
+  "id": 2188146,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"（  ），4，9，16，27，38，（  ）\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 2,
+  "difficulty": 5,
+  "createdTime": 1524304791067,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["0", "2", "53", "68"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1,2",
+    "type": 201
+  }
+}, {
+  "id": 2188150,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"100，98，98，100，104，（  ），（  ）\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 2,
+  "difficulty": 5,
+  "createdTime": 1524304835397,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["108", "110", "116", "118"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1,3",
+    "type": 201
+  }
+}, {
+  "id": 2188154,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"（  ），10，7，9，9，15，（  ）\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 2,
+  "difficulty": 5,
+  "createdTime": 1524304873718,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["11", "13", "23", "31"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1,2",
+    "type": 201
+  }
+}, {
+  "id": 2188158,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"25，36，39，46，59，（  ），（  ）\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 2,
+  "difficulty": 5,
+  "createdTime": 1524304932206,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["43", "58", "64", "73"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2,3",
+    "type": 201
+  }
+}, {
+  "id": 2188161,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"-3，4，-1，（  ），1，4，（  ）\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 2,
+  "difficulty": 5,
+  "createdTime": 1524304982309,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["0", "1", "2", "3"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0,3",
+    "type": 201
+  }
+}, {
+  "id": 2188153,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"苗苗有一堆草莓，乐乐也有一堆草莓。苗苗的草莓五个五个地数，最后剩两个，七个七个地数，最后还是剩两个；乐乐的草莓五个五个地数，最后剩四个，六个六个地数，最后剩三个。已知苗苗比乐乐多8个草莓，则苗苗的草莓数为（  ）\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524304872080,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["37", "62", "72", "77", "87", "92", "102", "107"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "7",
+    "type": 201
+  }
+}, {
+  "id": 2188162,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"题目正在全力以赴征集，将会在征集到后第一时间上传\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305020750,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["缺失", "缺失", "缺失", "缺失"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188165,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"某企业引进新技术后，原材料成本降低了\",\"children\":[]},{\"name\":\"tex\",\"value\":\"bZbhz+hbnkZ/uS4m6A5+BA==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，单位人工成本上涨了\",\"children\":[]},{\"name\":\"tex\",\"value\":\"wltAtbiVwhGrlb0mXFN6BA==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，所需要的工人数降低为原来的一半，已知采用新技术前，总人工成本为原材料成本的4倍，则采用新技术后总人工成本是原材料成本的（  ）倍。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305109985,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["1", "2", "3", "4", "5", "6", "7", "8"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "5",
+    "type": 201
+  }
+}, {
+  "id": 2188166,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"上午9点整，甲从A地出发，骑自行车去B地，乙从B地出发，开车去A地。两人第一次相遇时为9点半，甲乙到达目的地后都立即返回，若甲乙的速度比为1:3，则他们第二次相遇时为（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305218831,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["9:40", "9:50", "10:00", "10:10", "10:20", "10:30", "10:40", "10:50"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "5",
+    "type": 201
+  }
+}, {
+  "id": 2188142,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"观众对五位歌手的歌曲进行投票，每张选票都可以选择五首歌曲中的一首或多首，但只有选择不超过3首歌曲的选票才是有效票。五首歌曲的得票数分别为总票数的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"x8hImSL4SlrEvdK2TsDKXw==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"、\",\"children\":[]},{\"name\":\"tex\",\"value\":\"fWnJB1gHl98fQN/bdiFcGg==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"、\",\"children\":[]},{\"name\":\"tex\",\"value\":\"jSYwsPpdwZqKMqNX72sCUw==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"、\",\"children\":[]},{\"name\":\"tex\",\"value\":\"8Tuo/mQpdWQxxKb7XzmeyQ==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"和\",\"children\":[]},{\"name\":\"tex\",\"value\":\"JAA53FXPn/IBfC5T8hBAqg==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，那么本次投票的有效率最高可能为（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524304716102,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"ZIDxHlc2ahnRbqHtWh6JIQ==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"NvYJgeLz/zqiXghrmYZStQ==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"fO2GWOB/XzJlGDG7SJJlPw==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"wltAtbiVwhGrlb0mXFN6BA==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"ZJvUK4x/TlpiO2sTmY9tzA==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"crl0dnDnD+pPeIy8YlXZ+Q==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"bk8KM2REypcAxcxSTgPEnQ==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"kiidnxyQ5O7tQJdpY3xWGQ==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188143,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"有关部门对120种抽样食品进行化验分析，结果显示，抗氧化剂达标的有68种，防腐剂达标的有77种，漂白剂达标的有59种，抗氧化剂和防腐剂都达标的有54种，防腐剂和漂白剂都达标的有43种，抗氧化剂和漂白剂都达标的有35种，三种食品添加剂都达标的有30种，那么三种食品添加剂都不达标的有（  ）种。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524304740477,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["14", "15", "16", "17", "18", "19", "20", "21"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "4",
+    "type": 201
+  }
+}, {
+  "id": 2188144,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"张老板用100万元购买甲乙两公司的理财产品，其中64万元购买了长期理财产品，已知他在甲公司购买的理财产品中，长期与短期之比为5:3，在乙公司购买的理财产品中，长期与短期之万元比为2:1，则在甲公司购买的短期理财产品为（  ）万元。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524304770925,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["15", "18", "21", "24", "27", "30", "33", "36"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188147,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"要完成某项工程，甲施工队单独干需要30天才能完成，乙施工队需要40天才能完成。甲乙合作干了10天，因故停工10天，再开工时甲乙丙三个施工队一起工作，再干4天就可全部完工。那么，丙队单独干需要大约（  ）天才能完成这项工程。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524304792519,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["21", "22", "23", "24", "25", "26", "27", "28"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188155,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"胜利小学的225名同学与红旗小学的256名同学一起春游，将两所小学的同学混合在一起，随机组合，重新组织队伍，要求每队人数相同且队伍数尽可能少，那么胜利小学的张华与红旗小学的张明出现在同一队伍的概率约为（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524304887414,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"yYUyZsMntIDv64CYCOYihQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"MBsLUGoiB/zMJIpYG6mKrg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"TywRsJfjRKzpj7fP92NkwA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"IETIHm6Hq0n92qYXsqoetg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"gVFUsqwL5+KnfUbb2M5CWw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"TEnaZr8MqGng53DjSSpynA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"QceQUgWJQpNEjviqtTdpPQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"Lzv/mfJf1e4b7r6drvP7nQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "6",
+    "type": 201
+  }
+}, {
+  "id": 2188163,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"将棱长为1的正方体的六个面的中点相连接可以得到一个六面体，则这个六面体的体积为（  ）。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524305042959,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"sJ8qUtDXo12Kem2CUvpunw==?widthRatio=0.714&heightRatio=2.0\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"exJaCXPltrpno9V0FeACrSn5wXYewRzdOpu33Nvuen0=?widthRatio=1.5&heightRatio=2.214\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"qbGhYBfhOLjmc5LDvHWgUCCtohFuKHkewRbVJWHYBlU=?widthRatio=1.5&heightRatio=2.214\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"y4FucjUULpmQkv3E1h+Y0w==?widthRatio=0.714&heightRatio=2.0\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"SKMfZ/si4oGST2hmIT3XEA==?widthRatio=0.714&heightRatio=2.0\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"FAJG7ktMshuUwdcvzG5At4zHeANWOKIm3B30QuMBQas=?widthRatio=1.5&heightRatio=2.214\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"qSpb1Nkll+2/aMxy8LPPNsgM3DZKFdpry+wBzaZ2LGg=?widthRatio=1.5&heightRatio=2.214\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"ISFvS/HCtULXjib2qp8FFQ==?widthRatio=0.714&heightRatio=2.0\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}]

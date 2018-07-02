@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e141d44-b6d9-4afc-bde8-35c00d389dbb" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="2018年421联考《行测》真题（四川卷）（网友回忆版）.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（四川卷）（网友回忆版）.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="1656" column="3" lean-forward="false" selection-start-line="1656" selection-start-column="3" selection-end-line="1656" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1034">
+              <caret line="217" column="38" lean-forward="false" selection-start-line="217" selection-start-column="38" selection-end-line="217" selection-end-column="38" />
+              <folding>
+                <element signature="e#456#566#0" expanded="false" />
+                <element signature="e#818#1037#0" expanded="false" />
+                <element signature="e#1078#1472#0" expanded="false" />
+                <element signature="e#1508#1868#0" expanded="false" />
+                <element signature="e#1924#2347#0" expanded="false" />
+                <element signature="e#2418#3616#0" expanded="false" />
+                <element signature="e#3676#3979#0" expanded="false" />
+                <element signature="e#4038#4418#0" expanded="false" />
+                <element signature="e#4476#4752#0" expanded="false" />
+                <element signature="e#4815#5823#0" expanded="false" />
+                <element signature="e#5866#5937#0" expanded="false" />
+                <element signature="e#5964#6185#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018年421联考《行测》真题（湖北卷）（网友回忆版）.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（湖北卷）（网友回忆版）.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="568">
+              <caret line="2080" column="2" lean-forward="false" selection-start-line="2080" selection-start-column="2" selection-end-line="2080" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018年江苏省公务员录用考试《行测》真题（C类）（网友回忆版）.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/2018年江苏省公务员录用考试《行测》真题（C类）（网友回忆版）.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&quot;material&quot;</find>
+      <find>162e71f24535827.png?width=1072&amp;height=648</find>
+      <find>就是看能否将</find>
+      <find>console.log</find>
+      <find>addLineBreak</find>
+      <find>.addImage</find>
+      <find>pObj</find>
+      <find>一个班级组织跑步比赛，共设1</find>
+      <find> 2017年第一季度，某省农林牧渔业增加值361.</find>
+      <find>console</find>
+      <find>根据以下资料，回答以下问题。</find>
+      <find>不属于</find>
+      <find>2016年，我国全年完成邮电业务</find>
+      <find>request</find>
+      <find>todoImg</find>
+      <find>path</find>
+      <find>require('</find>
+      <find>path.</find>
+      <find>recursionChildren</find>
+      <find>切蛋糕</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/node_modules/_officegen@0.4.5@officegen/lib/docx-p.js" />
+        <option value="$PROJECT_DIR$/data/2018年421联考《行测》真题（福建卷）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/2018年421联考《行测》真题（甘肃卷）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/2018年421联考《行测》真题（贵州卷）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/2018年421联考《行测》真题（海南卷）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/2018年421联考《行测》真题（河北卷）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/2018年黑龙江省公务员考试（乡镇）真题（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/2018年421联考《行测》真题（黑龙江卷）（网友回忆版）（省直）.json" />
+        <option value="$PROJECT_DIR$/data/2018年421联考《行测》真题（湖北卷）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/2018年421联考《行测》真题（吉林甲级）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/2018年421联考《行测》真题（江西卷）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/2018年421联考《行测》真题（宁夏卷）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/2018年421联考《行测》真题（陕西卷）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/2018年421联考《行测》真题（四川卷）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/k2018年421联考《行测》真题（云南卷）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/k2018年421联考《行测》真题（吉林乙级）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/k2018年421联考《行测》真题（天津卷）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/2018年421联考《行测》真题（山东卷）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/2018年广西公务员录用考试《行测》真题（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/2018年江苏省公务员录用考试《行测》真题（A类）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/k2018年江苏省公务员录用考试《行测》真题（B类）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/2018年江苏省公务员录用考试《行测》真题（C类）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/2018年上海市公务员录用考试《行测》真题（B类）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/k2018年421联考《行测》真题（重庆卷）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/k2018年421联考《行测》真题（吉林甲级）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/k2018年421联考《行测》真题（山西卷）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/k2018年421联考《行测》真题（甘肃卷）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/k2018年421联考《行测》真题（新疆卷）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/k2018年421联考《行测》真题（贵州卷）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/k2018年421联考《行测》真题（湖南卷）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/k2018年421联考《行测》真题（黑龙江卷）（网友回忆版）（省直）.json" />
+        <option value="$PROJECT_DIR$/data/2018年421联考《行测》真题（湖南卷）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/k2018年421联考《行测》真题（内蒙古卷）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/k2018年421联考《行测》真题（四川卷）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/k2018年421联考《行测》真题（湖北卷）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/data/k2018年江苏省公务员录用考试《行测》真题（C类）（网友回忆版）.json" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="297" />
+    <option name="y" value="174" />
+    <option name="width" value="1544" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="composing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="composing" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../i.yourhr-mobile" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\MyProject\composing\tmp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\MyProject\composing\data" />
+      <recent name="E:\MyProject\composing\doc" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e141d44-b6d9-4afc-bde8-35c00d389dbb" name="Default" comment="" />
+      <created>1530189298832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530189298832</updated>
+      <workItem from="1530189299980" duration="323000" />
+      <workItem from="1530239823181" duration="594000" />
+      <workItem from="1530341787704" duration="26629000" />
+      <workItem from="1530376318776" duration="1656000" />
+      <workItem from="1530407262003" duration="8979000" />
+      <workItem from="1530495825967" duration="1354000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="39535000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28556374" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36334056" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（四川卷）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36520">
+          <caret line="1660" column="2" lean-forward="false" selection-start-line="1660" selection-start-column="2" selection-end-line="1660" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（湖北卷）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45760">
+          <caret line="2080" column="2" lean-forward="false" selection-start-line="2080" selection-start-column="2" selection-end-line="2080" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年江苏省公务员录用考试《行测》真题（C类）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48136">
+          <caret line="2188" column="2" lean-forward="false" selection-start-line="2188" selection-start-column="2" selection-end-line="2188" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="84" column="16" lean-forward="false" selection-start-line="84" selection-start-column="16" selection-end-line="84" selection-end-column="16" />
+          <folding>
+            <element signature="e#456#566#0" expanded="false" />
+            <element signature="e#818#1037#0" expanded="false" />
+            <element signature="e#1078#1472#0" expanded="false" />
+            <element signature="e#1508#1868#0" expanded="false" />
+            <element signature="e#1924#2347#0" expanded="false" />
+            <element signature="e#2418#3616#0" expanded="false" />
+            <element signature="e#3676#3979#0" expanded="false" />
+            <element signature="e#4038#4418#0" expanded="false" />
+            <element signature="e#4476#4752#0" expanded="false" />
+            <element signature="e#4815#5823#0" expanded="false" />
+            <element signature="e#5866#5937#0" expanded="false" />
+            <element signature="e#5964#6185#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#456#566#0" expanded="false" />
+            <element signature="e#818#1037#0" expanded="false" />
+            <element signature="e#1078#1472#0" expanded="false" />
+            <element signature="e#1508#1868#0" expanded="false" />
+            <element signature="e#1924#2347#0" expanded="false" />
+            <element signature="e#2418#3616#0" expanded="false" />
+            <element signature="e#3676#3979#0" expanded="false" />
+            <element signature="e#4038#4418#0" expanded="false" />
+            <element signature="e#4476#4752#0" expanded="false" />
+            <element signature="e#4815#5823#0" expanded="false" />
+            <element signature="e#5866#5937#0" expanded="false" />
+            <element signature="e#5964#6185#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#456#566#0" expanded="false" />
+            <element signature="e#818#1037#0" expanded="false" />
+            <element signature="e#1078#1472#0" expanded="false" />
+            <element signature="e#1508#1868#0" expanded="false" />
+            <element signature="e#1924#2347#0" expanded="false" />
+            <element signature="e#2418#3616#0" expanded="false" />
+            <element signature="e#3676#3979#0" expanded="false" />
+            <element signature="e#4038#4418#0" expanded="false" />
+            <element signature="e#4476#4752#0" expanded="false" />
+            <element signature="e#4815#5823#0" expanded="false" />
+            <element signature="e#5866#5937#0" expanded="false" />
+            <element signature="e#5964#6185#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/2018年421联考《行测》真题（云南卷）（网友回忆版）.json" />
+    <entry file="file://$PROJECT_DIR$/doc/2018年421联考《行测》真题（安徽卷）（网友回忆版）.json" />
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/_officegen@0.4.5@officegen/lib/docx-p.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="147" column="34" lean-forward="false" selection-start-line="147" selection-start-column="34" selection-end-line="147" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp/162e8f55e7244aa.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp/162e8f15aef2154.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp/162e8f018b286c5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp/162e8f2345f6138.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp/162e71f24535827.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp/162e718cecadeb1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp/162e734cb906b66.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp/162e7435b48f5dc.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp/162e722909e6387.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年黑龙江省公务员考试（乡镇）真题（网友回忆版）.json" />
+    <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（宁夏卷）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="2000" column="2" lean-forward="true" selection-start-line="2000" selection-start-column="2" selection-end-line="2000" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（安徽卷）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="1738" column="19" lean-forward="false" selection-start-line="1738" selection-start-column="19" selection-end-line="1738" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（福建卷）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="42" column="15" lean-forward="true" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（海南卷）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="1816" column="20" lean-forward="true" selection-start-line="1816" selection-start-column="20" selection-end-line="1816" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（河北卷）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="2160" column="2" lean-forward="false" selection-start-line="2160" selection-start-column="2" selection-end-line="2160" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（山东卷）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1777">
+          <caret line="2000" column="2" lean-forward="false" selection-start-line="2000" selection-start-column="2" selection-end-line="2000" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年广西公务员录用考试《行测》真题（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="1820" column="2" lean-forward="false" selection-start-line="1820" selection-start-column="2" selection-end-line="1820" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（陕西卷）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="2000" column="2" lean-forward="false" selection-start-line="2000" selection-start-column="2" selection-end-line="2000" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（云南卷）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="1980" column="2" lean-forward="false" selection-start-line="1980" selection-start-column="2" selection-end-line="1980" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（吉林乙级）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="1640" column="2" lean-forward="false" selection-start-line="1640" selection-start-column="2" selection-end-line="1640" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（天津卷）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="2000" column="2" lean-forward="false" selection-start-line="2000" selection-start-column="2" selection-end-line="2000" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年上海市公务员录用考试《行测》真题（B类）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="2336" column="2" lean-forward="true" selection-start-line="2336" selection-start-column="2" selection-end-line="2336" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（重庆卷）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="2000" column="2" lean-forward="false" selection-start-line="2000" selection-start-column="2" selection-end-line="2000" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（江西卷）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="2220" column="4" lean-forward="true" selection-start-line="2220" selection-start-column="4" selection-end-line="2220" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（吉林甲级）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="1720" column="2" lean-forward="false" selection-start-line="1720" selection-start-column="2" selection-end-line="1720" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（山西卷）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="1980" column="2" lean-forward="false" selection-start-line="1980" selection-start-column="2" selection-end-line="1980" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（甘肃卷）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="1980" column="2" lean-forward="false" selection-start-line="1980" selection-start-column="2" selection-end-line="1980" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（新疆卷）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="1980" column="2" lean-forward="false" selection-start-line="1980" selection-start-column="2" selection-end-line="1980" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（贵州卷）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="1920" column="2" lean-forward="false" selection-start-line="1920" selection-start-column="2" selection-end-line="1920" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（黑龙江卷）（网友回忆版）（省直）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="2000" column="2" lean-forward="false" selection-start-line="2000" selection-start-column="2" selection-end-line="2000" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年江苏省公务员录用考试《行测》真题（A类）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="2268" column="2" lean-forward="false" selection-start-line="2268" selection-start-column="2" selection-end-line="2268" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年江苏省公务员录用考试《行测》真题（B类）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="2268" column="2" lean-forward="false" selection-start-line="2268" selection-start-column="2" selection-end-line="2268" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（湖南卷）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="2080" column="2" lean-forward="false" selection-start-line="2080" selection-start-column="2" selection-end-line="2080" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（内蒙古卷）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="1980" column="2" lean-forward="false" selection-start-line="1980" selection-start-column="2" selection-end-line="1980" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年江苏省公务员录用考试《行测》真题（C类）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（湖北卷）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="2080" column="2" lean-forward="false" selection-start-line="2080" selection-start-column="2" selection-end-line="2080" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（四川卷）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="1656" column="3" lean-forward="false" selection-start-line="1656" selection-start-column="3" selection-end-line="1656" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="217" column="38" lean-forward="false" selection-start-line="217" selection-start-column="38" selection-end-line="217" selection-end-column="38" />
+          <folding>
+            <element signature="e#456#566#0" expanded="false" />
+            <element signature="e#818#1037#0" expanded="false" />
+            <element signature="e#1078#1472#0" expanded="false" />
+            <element signature="e#1508#1868#0" expanded="false" />
+            <element signature="e#1924#2347#0" expanded="false" />
+            <element signature="e#2418#3616#0" expanded="false" />
+            <element signature="e#3676#3979#0" expanded="false" />
+            <element signature="e#4038#4418#0" expanded="false" />
+            <element signature="e#4476#4752#0" expanded="false" />
+            <element signature="e#4815#5823#0" expanded="false" />
+            <element signature="e#5866#5937#0" expanded="false" />
+            <element signature="e#5964#6185#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

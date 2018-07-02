@@ -1,0 +1,2001 @@
+[{
+  "id": 2188557,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"习近平总书记在党的十九大报告中明确要求：“打造共建共享的社会治理格局。”下列\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不属于\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"社会治理措施的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524325829450,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["加强平安中国建设", "加强社区治理体系建设", "加强国家安全体系建设", "加强预防和化解社会矛盾机制建没"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188392,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"中国共产党第十九届中央委员会第二次全体会议于2018年1月18日至19日在北京召开，会议的主要议程是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524307764435,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["研究制定国民经济发展计划", "研究全面从严治党的重大问题", "讨论修改宪法部分内容的建议", "研究党和政府机构改革的重大问题"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187710,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列文学作品\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"没有\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"使用方言的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285296347,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["《海上花列传》(韩邦庆)", "《凤凰涅槃》(郭沫若)", "《秦腔》（贾平凹）", "《白鹿原》(陈忠实)"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187662,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列四个节气所表示的含义\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"错误\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524283773693,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["处暑：炎热夏季即将到来", "惊蛰：天气回暖，春雷始鸣", "冬至：冬季最寒冷的日子开始", "小满：夏熟作物籽粒开始灌浆饱满但未成熟"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188569,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"宗教对文学艺术的创作影响深远，下列\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"未受\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"宗教影响是作品是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524325980347,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["米开朗基罗的《大卫》", "柴可夫斯基的《天鹅湖》", "大仲马的《基督山伯爵》", "达·芬奇的《最后的晚餐》"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187717,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列哪一成语的典故\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不是\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"来自真实历史事件：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285495894,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["暗度陈仓", "草木皆兵", "逼上梁山", "乐不思蜀"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2189167,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列名句与所体现的哲学原理对应\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"错误\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是:\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524452462842,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["士别三日，当刮目相看——事物是发展变化的", "流水不腐，户枢不蠹——运动是物质的根本属性", "唇齿相依，唇亡齿寒——事物是普遍联系的", "不识庐山真面目，只缘身在此山中——真理是具体且多元的"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187715,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列教育家与其名言对应\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不正确\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285435315,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["孔子：“性相近也，习相远也”", "孟子：“尽信书，则不如无书”", "墨子：“道之所存，师之所存”", "荀子：“骐骥一跃，不能十步；驽马十驾，功在不舍”"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188576,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列生活常识中，表述\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"错误\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524326051636,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["药物大多饭后服用，是为了减少对胃肠道的刺激", "大米久泡，会使无机盐和可溶性维生素溶于水而损失", "经常用冷水刷牙，容易导致牙龈出血、牙髓痉挛等疾病", "发烧时喝茶能辅助降温，因为茶叶所含的茶碱能降低人体温度"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188578,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列关于航天员的太空生活说法\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不正确\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524326078107,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["太空食品与我们日常食品并无显著差异", "航天员在舱内睡眠可采取直立、倒挂等姿势", "航天员在太空舱内可以直接用语言进行交流", "航天员在舱内工作时可以穿比较舒适的工作服"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188574,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列可能出现次生盐碱化的地区是:\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524326024898,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["水土流失严重地区", "地下水位很高的湿润区", "蒸发量较大的旱作漫灌区", "大量抽取地下水致地面下沉的地区"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188564,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"对于债务关系主体，如果实际通货膨胀率高于预期的水平，则下列说法正确的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524325913910,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["债务人和债权人都受损", "债务人和债权人都受益", "债权人受损，债务人受益", "债务人受损，债权人受益"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187757,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"“21世纪金属”具有较高的强度、良好的抗氧化性和优异的耐腐蚀性，对人体无毒且无不良反应，被称为“亲生物金属”，可作为人造骨材料。下列关于“21世纪金属”的说法正确的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285957832,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["“21世纪金属”是指钛和钛合金", "“21世纪金属”只运用于航空航天领域", "“21世纪金属”是一种新型石墨烯材料", "“21世纪金属”是21世纪发现的一种金属元素"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188558,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列情形\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不可能\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"发生在中国宋代的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524325831455,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["农户张三用铁犁耕地", "士兵李四用火药攻城", "商人王五用交子订货", "厨师赵六用番茄制酱"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2189166,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2014年，万某开了一家网店，专门销售各类知名品牌的鞋服等商品，后经相关品牌的权利人发现并鉴定万某销售的商品均系仿冒其注册商标的产品。在上述案例中，相关知名品牌的权利人\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不可以\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524452437270,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["要求工商部门对万某的行为进行查处", "没收万某销售的侵权商品", "向法院起诉主张赔偿", "与万某进行协商解决"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187702,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列情形中保险公司须承担给付或赔偿保险金的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285181062,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["定期寿险合同到期时，被保险人仍生存", "在终身寿险中，受益人故意造成被保险人死亡", "在意外伤害保险有效期间，被保险人突发心脏病死亡", "在投保重大疾病保险时，投保人故意隐瞒其有先天性疾病"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188559,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"刘某偷得同事一张信用卡和身份证，向女朋友黄某谎称路上捡到的，刘某、黄某根据身份证号码试出信用卡密码，持卡消费5000元，关于刘某和黄某的行为，下列哪一说法正确？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524325855889,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["刘某和黄某均构成盗窃罪", "刘某和黄某均构成信用卡诈骗罪", "刘某构成盗窃罪，黄某构成信用卡诈骗罪", "刘某构成信用卡诈骗罪，黄某不构成犯罪"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188579,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"关于物理现象，下列说法\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"错误\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524326103575,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["将充满空气的气球放气时，气球内的温度比外界高", "用易拉罐给收音机做一个密封壳，可以屏蔽无线电波", "用沾过洗洁精的抹布擦拭汽车玻璃，可以避免车窗产生水雾", "充满空气的黑色密封塑料袋在太阳底下暴晒，塑料袋会慢慢上升"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187719,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列事件按时间先后顺序排列正确的是：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"①中国女排获得里约奥运会女排比赛冠军\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"②中国（上海）自由贸易实验区正式设立\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"③第九届金砖国家领导人会晤在厦门举行\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"④我国举行纪念中国人民抗日战争暨世界反法西斯战争胜利70周年阅兵式\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285555685,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["②③①④", "④①②③", "②④①③", "②①③④"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188563,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列诗句所描写的我国名山大川，按照从北到南的顺序，排列正确的是：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"①会当凌绝顶，一览众山小\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"②坚冰连夏处，太白楼青天\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"③横看成岭侧成峰，远近高低各不同\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"④罗浮山下四时春，卢橘杨梅次第新\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524325895738,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["③④②①", "①②③④", "②①④③", "④①②③"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188594,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"山有山的雄峻，水有水的柔婉，云有云的缥缈，而表现出的美丽各不相同。如果每个人都成为一道\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的风景，生活就是绚丽多姿的世界。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"填入画横线部分最恰当的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524327269477,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["熠熠生辉", "引人入胜", "与众不同", "美轮美奂"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188595,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"圆明园废墟是北京城最有历史感的文化遗迹之一，如果把它完全铲平，造一座崭新的圆明园，该是多么\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。大清王朝不见了，熊熊火光不见了，民族的郁忿不见了，历史的感悟不见了，抹去了昨夜的故事，收拾来的只是今日的游戏。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"填入画横线部分最恰当的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524327333862,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["天马行空", "得不偿失", "耸人听闻", "不可思议"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188429,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"古代中国数秘术与古希腊数秘术的区别在于，前者侧重解象，后者侧重数术。中国的数秘术后来发展成了更具意义的宇宙形而上学，与算术渐行渐远，\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"填入划横线部分最恰当的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524311075996,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["南辕北辙", "分道扬镳", "缘木求鱼", "背道而驰"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188434,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在人类的脑海中，“科学”除了创造丰富的物质财富以外，往往扮演了“真实”与“客观”的化身，如果这一切被\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"，后果不堪设想。那么，我们需要\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是，在刚刚过去的那个世纪里，是谁扣动了科学危机的扳机？\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524311242628,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["颠覆  厘清", "推倒  分清", "颠仆  辨清", "推翻  厘正"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188461,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"欧盟委员会发布消息称，回顾全球“金融危机”以来的\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"，欧盟采取得当的\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"，有效地控制住了危机的蔓延与发展，从而在最近几年取得了经济持续增长的佳绩。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524312573981,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["历史  办法", "历程  措施", "经历  手段", "经过  举措"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188597,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"虽然大学校园环境的文化濡染作用是在潜移默化中逐步实现的，但为了保证校园环境有效地发挥作用，有必要对某些非言语信息有意识地进行\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"，让其主动争取学生的关注。不过，尽量不要让环境带有过于强制的色彩，以免使人产生\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"心理。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划线部分最恰当的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524327444301,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["引导  厌倦", "整合  抵触", "强化  排斥", "改造  逆反"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187778,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"家风是具有鲜明特征的家庭文化，良好家风是一个家庭最宝贵的精神财富，也是每个家庭成员形成正确世界观、人生观、价值观的\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。家庭是人生的第一所学校，良好家风是人生幸福生活的“第一组密码”。“积善之家，必有余庆；积不善之家，必有余殃。”只有守住和\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"好温暖的家庭，才能有人生的成功。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286248263,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["基点  庇护", "基准  保护", "基础  爱护", "基石  呵护"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187682,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"中国传统菜肴对于烹调方法极为讲究，而且长期以来，由于物产和风俗的差异，各地的饮食习惯和品味爱好\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"               \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"，\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"              \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的烹调技术经过历代人民的创造，形成了丰富多彩的地方菜系。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524284587474,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["迥然不同  源远流长", "天差地别  积厚流光", "殊途同归  连绵不断", "如出一辙  博大精深"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2195747,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"有人将互联网比作一片信息森林，其中既有予人甘甜、使人果腹的山泉瓜果，也有惑人眼球、乱人心智的奇花毒草，更有善于\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"      \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"、专欺弱者的寄生虫。后两者即便只有万分之一的存活率，对正处在身心发育、人格养成关键时期的青少年来说，都是巨大的\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"      \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最准确的是（  ）\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1525403914558,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["躲避  隐患", "伪装  挑战", "掩饰  危害", "隐藏  威胁"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2195751,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"历史上许多学问大家都以文风清新、文字通达著称。然而当下学界，文风\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"      \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"问题突出。拗口难懂的学术文章不仅使普通大众\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"      \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"，甚至令同行学者“不忍卒读”。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最准确的是（  ）\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1525404022637,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["生硬  深恶痛绝", "艰深  退避三舍", "粗鄙  望而生畏", "晦涩  敬而远之"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188652,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"改革开放以来，我国文艺创作迎来了新的春天，产生了大量\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的优秀作品。同时，也不能否认，在文艺创作方面也存在着有数量缺质量、有“高原”缺“高峰”的现象，存在着抄袭模仿、\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的问题。精品之所以“精”，就在于其思想精深、艺术精湛、制作精良。文艺工作者要\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"，随着时代生活创新，以自己的艺术个性进行创新。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划线部分最恰当的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 6,
+  "createdTime": 1524329410994,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["脍炙人口  千篇一律  志存高远", "家喻户晓  泥沙俱下  标新立异", "良莠不齐  照猫画虎  精耕细作", "喜闻乐见  因循守旧  与时俱进"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188649,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"我们是有着五千年文明传承的东方大国，儒家的“仁义礼智信”思想\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"于民族精髓之中，社会主义核心价值观正是在\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"传统思想精华的基础上应运而生。当下，改革释放出的红利推动中国经济的迅猛发展，与此同时，物欲膨胀带来的拜金主义、享乐主义、个人主义等一系列负面影响也\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"着文明底线。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划线部分最恰当的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524329368821,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["扎根  吸收  触碰", "孕育  继承  挑战", "深植  汲取  冲击", "蕴藏  提炼  腐蚀"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2196064,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"题目正在全力以赴征集，将会在征集到后第一时间上传\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1525420958125,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["缺失", "缺失", "缺失", "缺失"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2196067,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"题目正在全力以赴征集，将会在征集到后第一时间上传\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1525421014284,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["缺失", "缺失", "缺失", "缺失"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2196069,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"题目正在全力以赴征集，将会在征集到后第一时间上传\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1525421031762,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["缺失", "缺失", "缺失", "缺失"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188634,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"“微时代”的媒介技术革新与融合，改变和重塑着人们的审美感知方式，传统艺术审美活动的固有流程与秩序几乎被颠覆。艺术的鉴赏只需通过手指在智能手机上的简单点击或滑动即可实现，艺术接受的场所不再局限于美术馆、博物馆、剧院或影院等传统艺术空间，而是扩大至移动网络信号覆盖的所有区域；艺术创造不再为少数精英们独占，数字媒介技术带来的专业门槛和诸种成本的降低，使越来越多的人实现了由单纯的艺术接受者向艺术创作者的身份转变。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字意在说明：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524328685831,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["数字技术条件下艺术鉴赏有哪些实现途径", "“微时代”艺术审美的大众化程度愈来愈高", "智能手机已成为人们艺术创造和欣赏的重要媒介", "“微时代”的媒介技术对审美活动产生颠覆性影响"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188637,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"科学就是不断接近真理的过程，所有理解这一点的人都明白：在发展过程中,不断更新知识才是科学进步的正道。然而，\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                           \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"：吸烟就从曾被医生推崇转变为被认为危害健康；吃肉曾被认为是有益的，后来又被说成是有害的，后来又变成有益的，现在又变成一个个人观点问题；女性应该接受乳房X光检查的年龄也提高了；地球曾被认为是宇宙的中心，后来又被发现不过是宇宙边缘的一颗行星。至于我自己，现在已经不知道喝红酒对健康究竟是有益还是有害了。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"填入画横线部分最恰当的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524328889092,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["这个过程有时会令人困惑和不安", "不同知识的“有效期”是不同的", "自然科学的前沿理论淘汰起来比社会科学更快", "人们总是固执地认为头脑中的某些知识是正确的"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188642,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在传统的学校中，每个教室孤立且封闭，教师们不会花什么时间来观察同事的教学方法，或者向别人学习。然而，教育研究证实，当教师们相互协作时，学生们的表现也相应提高。经济学家通过统计方法和大型数据库分析发现：当教师有机会与同事长期合作、互相交流教学经验时，学生们在测试中得分较高。在一项针对美国教师的调查中，超过90%的受访人反映，同事之间的交流有助于提高自己的教学效果。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字意在说明：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524329005654,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["大数据研究对教育的启示", "教师之间交流合作的意义", "教学方法对学生表现的影响", "传统学校中教师受到的限制"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188643,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"西方语言的书写形式是字母文字，这种文字既不表形，也不表意，而仅仅表音。这种纯粹记录语言的字母文字频繁地刺激人们的大脑，逐渐形成了西方人长于语言思维的特点。而汉语书写符号是方块汉字，它不仅表音、还能表形、表意。这种音、形、意互相联系的文字，使中国人长于形象思维。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"对这段文字的主旨概括最准确的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524329118062,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["中西方文字的书写形式各有优势", "语言和思维有着密不可分的关系", "中西方的思维模式有着本质的不同", "不同书写形式的文字对思维有不同影响"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188640,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在亚利桑那大学的一项研究中，研究人员将参与者对自己习惯的看法跟他们丢弃垃圾所提供的记录进行了对比，结果发现：人们常常声称自己省吃俭用，但实际并非如此；人们常常吃垃圾食品，但自己并不承认。在牛羊肉的消费上，富裕家庭报告的消费量比实际消费量少，或许为了显示他们的饮食健康；而贫困家庭所报告的消费量比实际的多，也许为满足他们多吃的愿望。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字意在说明：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 3,
+  "createdTime": 1524328952946,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["垃圾记录比本人陈述更能真实反映行为习惯", "人们往往无法正确评估自己丢弃垃圾的行为", "经济状况可能对人们的消费主张产生一定影响", "消费观念会在一定程度上影响人们的饮食习惯"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187673,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年某调查报告显示，超过8成居民家庭认为阅读是孩子认识世界、获取知识的重要途径，超过6成认为阅读对于孩子养成爱学习习惯、养成健康性格具有重要意义。在实际生活中，超过3成的受访居民家庭未成年子女能够做到每天阅读，超6成孩子每次阅读时间在半小时至1小时之间。但只有3成受访家长经常陪子女阅读，近6成家庭是让孩子自己阅读。有意思的是，虽然父母们自己已经被手机、电脑、电视占据了太多时间，却有\",\"children\":[]},{\"name\":\"tex\",\"value\":\"y4mIra7pHRHExEt0zAK/DA==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"的家长希望借助阅读挤压孩子玩电子产品、看电视的时间。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列选项最适合做文字标题的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524284353447,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["“中国家长高度认同阅读对于子女成长的价值”", "“放下手机，才能陪孩子阅读”", "“你看手机，孩子看书？”", "“阅读，不只关于书本”"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188639,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"为了适应21世纪知识更新的变化，世界各地的大学图书馆都在重塑自身：一方面忙着为老师开发课程提供技术支撑，另一方面忙着为师生采购图书、获取学术期刊的访问权。但是，对于那些不离开书桌便能在线浏览科学文献的学者而言，图书馆的这些变化并不明显。对于许多人来说，图书馆似乎不能满足他们的需求，开始变成历史的纪念。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字意在强调：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524328920932,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["大学图书馆在21世纪发生的新变化", "数字化趋势给图书馆造成的生存困境", "大学图书馆在服务职能方面做出的调整", "大学图书馆的改进与学者需求之间的错位"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187683,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"虽然说经营性养老机构的定价是放开的，政府不能够干预，但是，从保障购买者权益、稳定养老床位价格、规范市场秩序等角度来说，有关方面需要高度警惕这种销售床位的经营模式带来的种种问题。比方说，床位可以炒卖，既有可能背离了养老机构床位的属性——把养老服务变成一种投资形式，还有可能把养老机构床位的价格哄抬高，造成老人们买不起也住不起。另外，床位售价被炒高后很有可能会出现闲置浪费。总之，如果不加以规范，有可能重蹈中国楼市的炒房覆辙。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字意在强调：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524284590954,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["养老机构炒卖床位将带来各种问题", "政府应当关注养老机构的床位定价", "政府应当规范养老机构的经营模式", "养老机构炒卖床位可能是变相炒房"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188520,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"没有18世纪的蒸汽机和纺织机，也就没有工业革命；没有19世纪的电气技术和汽车，没有20世纪的半导体、集成电路以及生物制药、互联网，也就没有今天众多的新产业和极大丰富的产品。但是，21世纪的智能化手机能和蒸汽机、汽车相比吗？今天的很多技术虽然改变了生活方式，但没有带来新的动力和产业的巨变；许多高科技公司虽然抢眼风光，但对经济的实际影响并不像社会关注的那么大。我们面对的不单单是金融危机，其实也是一场产业危机和创新性危机。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字表达了作者：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524319540480,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["对产业发展缺乏革命性创新的批评", "对缺乏提振经济的重大创新的忧虑", "对新技术革命不如传统技术的遗憾", "对创新性危机引发金融危机的警惕"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188451,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"①这不仅表明了工业社会对于文化生产的接管、改造和重新规划，而且，技术的意义开始占据前所未有的份额\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"②电影的诞生是技术介入艺术的里程碑事件\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"③技术始终是文化生产的组成部分\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"④尽管如此，技术从未扮演艺术的主角\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"⑤庄子、杜甫、苏东坡，《窦娥冤》《红楼梦》，这些经典令人敬重的原因是深刻的思想和洞察力，而不是由于书写于竹筒，上演于舞台，或者印刷在书本里\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"⑥从青铜铸鼎、笔墨纸砚到瓦舍勾栏的兴盛、印刷时代的降临，艺术符号的制作及其传播从来没有离开技术的支持\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"将上述6个句子重新排列，语序正确的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524312115699,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["③⑤④⑥②①", "⑥⑤④②①③", "③⑥④⑤②①", "⑥④⑤③②①"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187852,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"情感广告是诉诸于消费者的情绪或情感反应，传达商品带给他们的附加值或情绪满足的一种广告策略。这种情绪在消费者心目中的价值可能远远超出商品本身，从而使消费者形成积极的品牌态度。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列广告语\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不属于\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"情感广告的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287156303,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["某品牌饮料广告语：“××可乐，中国人自己的可乐！”", "某品牌啤酒进入东南亚市场的广告语：“好不好，家乡水。”", "某品牌纸尿裤广告语：“宝宝天天好心情，妈妈一定更美丽。”", "某品牌润肤露广告语：“为了肌肤柔美润舒，请使用××润肤露。”"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188632,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在所有文学形式中，传奇是最接近如愿以偿的梦幻的。正是由于这一原因，从社会的角度看，传奇起到一种奇妙又矛盾的作用。在每个时代，社会的统治阶级或知识界的权威阶层总是用某种传奇的形式来表现自己的愿望，而通常以战争为题材的小说更容易唤起大众读者的阅读兴趣。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字意在说明：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524328627285,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["传奇故事能满足人们虚幻的愿望", "英雄传奇故事是特定时代的产物", "统治阶级和知识精英都喜欢塑造英雄传奇", "传奇故事深受读者与主流意识形态的欢迎"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188518,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"民国初年的文学革命，其实也就是一场类似库恩所说科学革命的例子。革命者认为旧有典范已经死亡僵化了，于是进行革命。革命之后，新典范出现，整个文学和文学研究遂导向一套新的信念，研讨的问题和答案的标准也改变了：采用西方的思考方式、观念系统、术语、概念来讨论中国文学。碰到这个新“典范”所无法丈量的地方，便诟病中国文学及文学评论定义不精确、系统不明晰、结构不严谨、思想不深刻等等。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字意在说明：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524319503428,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["西方文学批评理论对民国初年的文学革命产生了深刻影响", "民国初年的文学革命与库恩所说的科学革命有相通之处", "民国初年的文学革命用新典范评判中国文学不尽合理", "民国初年的中国文学作品带有革命性的特点"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188522,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"作为一种购物方式，“秒杀”带来全新体验，却也留下了复杂况味。转瞬之间，有惊喜也有失望，有欢乐也有忧愁。心理学家说，“秒杀”也是一次心理测验，淡然处之者自得其乐，而那些渴望“一击即中”、希望“马上就有”、总想“付出少收益大”的，则容易陷入纠结的泥沼。看来，“秒杀”可以有，但“秒杀心态”值得商榷。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"否定\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"“秒杀心态”的诗句是： \",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524319588659,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["白发无凭吾老矣，青春不再汝知乎", "人生得意须尽欢，莫使金樽空对月", "大鹏一日同风起，扶摇直上九万里", "千淘万漉虽辛苦，吹尽黄沙始到金"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188635,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"语言是人类社会特有的产物，在个人、社会和国家三个层次上发挥着不同的功能。对个人而言，语言是思维工具；对社会而言，语言是交际工具。在全球化和信息化的今天，语言不仅仅是交际的工具，更是创造经济价值和社会效益的宝贵资源。语言能够带来各种红利。例如，在英国，与语言相关的产业所带来的收益超过了石油和船运收益；在瑞士，语言对国民经济的贡献度达到百分之十；欧盟的语言产业已是少数增速最快的产业之一。因此，如何抓住新的发展机遇，提高语言资源开发利用能力和水平，大力发展语言经济，意义重大。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"适合做这段文字关键词的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 6,
+  "createdTime": 1524328706016,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["语言资源、语言经济、语言产业", "交际工具、经济价值、社会效益", "语言红利、语言产业、国民经济", "语言、交际工具、社会效益"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188497,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"一条笔直的林荫道两旁种植着梧桐树，同侧道路每两棵梧桐树间距50米。林某每天早上七点半穿过林荫道步行去上班，工作地点恰好在林荫道尽头。经测试，他每分钟步行70步，每步大约50厘米，每天早上八点准时到达工作地点。那么，这条林荫道两旁栽种的梧桐树共有：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524318253640,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["44棵", "42棵", "22棵", "21棵"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188545,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"A、B两地间有三种类型列车运行，其中高速铁路动车组列车每天6车次，普通动车组列车每天5车次，快速旅客列车每天4车次。甲、乙两人要同一天从A地出发前往B地。假设他们买票前没有互通信息，而且火车票票源充足，问他们买到同一趟列车车票的概率有多大？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524325014035,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"小于\",\"children\":[]},{\"name\":\"tex\",\"value\":\"8lHCgOBfm9m7Uj4N/Y2Pwg==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"8lHCgOBfm9m7Uj4N/Y2Pwg==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"到\",\"children\":[]},{\"name\":\"tex\",\"value\":\"cfNnkej4m+YAaUwLiNeCeA==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"之间\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"cfNnkej4m+YAaUwLiNeCeA==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"到\",\"children\":[]},{\"name\":\"tex\",\"value\":\"Cqwpl0uWes+29Yobr3bdAA==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"之间\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"Cqwpl0uWes+29Yobr3bdAA==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"到\",\"children\":[]},{\"name\":\"tex\",\"value\":\"nev9CXG69YgDgsl1FKM3pg==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"之间\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2196075,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\" 题目正在全力以赴征集，将会在征集到后第一时间上传\",\"children\":[]},{\"name\":\"br\",\"value\":\"\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1525421153717,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["缺失", "缺失", "缺失", "缺失"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188551,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"某超市下午3点开始对其新上架的洗发液进行半价促销，并规定之后每次整点时，洗发液的价格都会上调其原价的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"Lt40AXekx0BCV7FtcwQQRw==?widthRatio=1.286&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，直至恢复原价。张大妈4点15分在超市抢购了2瓶，6点半又去超市买了2瓶。张大妈两次购买洗发液共花费48元，问与原价相比共节省了多少元？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524325656625,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["12", "24", "32", "48"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188556,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"从A地到B地为上坡路。自行车选手从A地出发按A-B-A-B的路线行进，全程平均速度为从B地出发，按B-A-B-A的路线行进的全程平均速度的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"ElnVxeyPqyZm5IUYxfBc9A==?widthRatio=0.714&heightRatio=2.0\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，如自行车选手在上坡路与下坡路上分别以固定速度匀速骑行，问他上坡的速度是下坡速度的：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524325828302,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"ISFvS/HCtULXjib2qp8FFQ==?widthRatio=0.714&heightRatio=2.0\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"SKMfZ/si4oGST2hmIT3XEA==?widthRatio=0.714&heightRatio=2.0\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"CbTMAm3wmZAFmmbpjff2Bw==?widthRatio=0.714&heightRatio=2.0\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"K6P3iS4dL4SSyvYQbJ8f/w==?widthRatio=0.714&heightRatio=2.0\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2189321,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"如右图所示，五个圆相连，现在用三种不同颜色分别给每个圆涂色，要求相连接的两个圆不能涂同种颜色，共有不同的涂色方法：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162f0abc6a7dd59.png?width=570&height=450\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524456223643,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["36种", "72种", "144种", "32种"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2195776,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"某公司技术人员占员工总数的8/9，年底公司共有7人获得优秀员工奖励，其中获奖的技术人员占公司员工总数的1/6，问获奖的非技术人员占非技术人员总数的（  ）\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1525404556125,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["1/2", "1/4", "1/6", "1/9"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188555,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"若干名天使投资人对某个需求资金120万的创业项目表达出投资意向，并计划每人以相同的金额投资该项目。但实际投资时有2人退出，剩下的每人需要多投资10万元才能满足该项目的资金需求，问实际投资这一项目的有多少人？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524325805216,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["3", "4", "6", "8"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187755,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"一直升机在海上救援行动中搜索到遇险者方位后通知快艇，快艇立即朝遇险者直线驶去。此时，直升机距离海平面的垂直高度200米，从机上看，遇险者在正南方向，俯角（朝下看时视线与水平面的夹角）为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"mdAf6hW8XRsWniPyajyTeA==?widthRatio=1.429&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，快艇在正东方向，俯角为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"z/kiPqk1fQtjrvX/Q+D9lw==?widthRatio=1.429&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。若忽略当时风向、潮流等其它因素，且假定遇险者位置不变，则快艇以60千米/小时的速度匀速前进需要多长时间才能到达遇险者的位置？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285948255,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["21秒", "22秒", "23秒", "24秒"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187777,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"联欢会上，有24人吃冰激凌、30人吃蛋糕、38人吃水果，其中既吃冰激凌又吃蛋糕的有12人，既吃冰激凌又吃水果的有16人，既吃蛋糕又吃水果的有18人，三样都吃的则有6人。假设所有人都吃了东西，那么只吃一样东西的人数是多少？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286210932,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["12", "18", "24", "32"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187721,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"某社团组织周末自驾游，集合后发现小王和小李未到。由于每辆小车限坐5人，按照现有车辆恰有1人坐不上车。为难之际，小王和小李分别开车赶到，于是所有人都坐上车，且每辆车人数均相同。那么，参加本次自驾游的小车数为：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524285682788,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["9", "8", "7", "6"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188498,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"甲、乙、丙三个网站定期更新，甲网站每隔48小时，乙网站每隔72小时，丙网站每隔96小时更新一次内容。问在一个星期内至多有几天，三个网站中至少有一个更新内容？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524318296151,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["4天", "5天", "6天", "7天"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2196074,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\" 题目正在全力以赴征集，将会在征集到后第一时间上传\",\"children\":[]},{\"name\":\"br\",\"value\":\"\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1525421147866,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["缺失", "缺失", "缺失", "缺失"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188571,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"10个相同的盒子中分别装有1～10个球，任意两个盒子中的球数都不相同。小李分三次每次取出若干个盒子，每次取出的盒子中的球数之和都是上一次的3倍，且最后剩下1个盒子。问剩下的盒子中有多少个球？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524325996377,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["9", "6", "5", "3"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187825,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"小庄要制作一个工业模具。他在一个边长4厘米的正方体上表面正中心位置向下挖掉一个直径2厘米、高2厘米的圆柱体，接着再向下挖掉一个直径1厘米、高1厘米的小圆柱体（如右图所示）。那么，该模具的表面积约为多少平方厘米？\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e722909e6387.png?width=228&height=204\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286788957,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["82.8", "108.6", "111.7", "114.8"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2189463,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"从所给的四个选项中，选出最合适的一个填入问号处，使之呈现一定的规律性：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162f14b7e7ae2c8.png?width=470&height=204\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524466736120,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["A", "B", "C", "D"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188596,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"从所给四个选项中，选出最合适的一个填入问号处，使之呈现一定规律性：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e9238f8327cb.jpg?width=800&height=595\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524327421439,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["A", "B", "C", "D"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188604,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"从所给四个选项中，选出最合适的一个填入问号处，使之呈现一定规律性：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"1641619cb69ba12.png?width=554&height=554\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524327557626,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["A", "B", "C", "D"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187802,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e8f15aef2154.jpg?width=3334&height=1667\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286687892,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["A", "B", "C", "D"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188609,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"左图给定的是正方体纸盒的外表面，下面哪一项能由它折叠而成？\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e927caac39f2.jpg?width=3334&height=1240\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524327594415,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["A", "B", "C", "D"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188476,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"前摄抑制是指先学习的材料对识记和回忆后学习的材料所产生的干扰作用；倒摄抑制是指后学习的材料对识记和回忆先学习的材料所产生的干扰作用。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列选项只包含倒摄抑制的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524316470499,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["背课文时发现中间段落往往是最难记住的", "一天中，人们一般在早晨和夜晚的记忆效果最佳", "学习英文字母后，之前学的拼音字母会读错", "头部受伤后，回忆不起来之前发生的事情"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188615,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"间接正犯又称为间接实行犯，是指利用他人为道具而实施犯罪的实行行为，利用者通过支配被利用者的工具行为实现自己的犯罪意图。利用者与被利用者不构成共同犯罪。它包括以下两种情况：一是利用无刑事责任能力人犯罪；二是利用他人过失或不知情的行为犯罪。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列甲的行为属于间接正犯的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524327662313,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["甲挑唆乙和丙的关系，致使乙一怒之下将丙打成重伤。甲、乙、丙均为完全刑事责任能力人", "甲教唆精神病人乙用刀砍伤与其素有仇怨的丙。甲、丙为完全刑事责任能力人，乙为无刑事责任能力人", "甲派员工乙殴打一直欠钱不还的丙，并允诺给其好处，乙随后将丙打伤。甲、乙、丙均为完全刑事责任能力人", "甲让自己尚未成年的孩子乙诬告丙，未想到乙捏造的事实正是丙客观存在的事实。甲、丙为完全刑事责任能力人，乙为无刑事责任能力人"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188626,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"趋同进化是遗传学中的一个概念。指的是不同的物种在进化过程中，由于适应相似的环境而呈现出表型上的相似性。而趋异进化则相反，它是指同一物种在进化过程中，由于适应不同的环境而呈现出表型差异的现象。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列属于趋异进化的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524327761144,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["澳洲的袋食蚁兽与亚洲的穿山甲相比较，具有相似的生活方式和适于捕食白蚁的相似生理结构", "鲸、海豚等和鱼类的亲缘关系很远，前者是哺乳类，后者是鱼类，但由于都在水域中生活，体形都很相似", "欧亚大陆温带地区生活的鼹鼠、非洲南部的金毛鼹在分类上相距甚远，但它们的生存环境和生活方式相似，形态也相似", "更新世时期，冰川将一群棕熊从主群中分了出来，在北极环境下发展成与环境颜色一致、善于捕猎的白色北极熊。北极熊食肉，而其他棕熊以植物为主要食物"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2195809,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"自己人效应是指在人际交往中，如果双方关系良好，一方就更容易接受另一方的思想观念立场，甚至会对对方提出的难为情的要求也不太容易拒绝，这一现象被称为自己人效应。\",\"children\":[]},{\"name\":\"br\",\"value\":\"\",\"children\":[]},{\"name\":\"txt\",\"value\":\"以下哪项没体现该效应的？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1525404915371,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["某将军和士兵同甘共苦，并且非常关心自己的士兵，士兵也觉得将军没有架子，乐于听从", "王老师发现中学生小明早恋，他与小明进行了谈话，谈及自己在年轻时类似的经历，小明觉得亲切可信，于是乐于听从", "小李是一名优秀的运动员，在一次比赛中，发挥失常很沮丧，队友纷纷对其进行劝慰，他表示自己不在意，其实他的内心一直很低落", "某作家在演讲时介绍了自己与听众相似的经历，使听众形成了“认同感”，演讲很受欢迎，他的观点很快被听众接受"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2195815,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"热胀冷缩物体在一般状态下，受热后会膨胀，在受冷情况下会缩小，大多物质都有这种特征。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"以下哪项没有体现热胀冷缩？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1525404983345,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["在融化的铅字合金中加入液态锑合金后将其模板在后期模板进行冷却和凝固，合金至体积增加增大，使签字的每个细小笔划都能清晰可见", "电工在夏天架电线时，不会把电线绷紧而使其有略微的下垂，防止冬天电线绷紧断裂", "玻璃瓶罐头的盖子很难拧开，而热一下后就很容易了", "温度计，随着温度的升高，读数升高"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188477,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不征税收入是指专门从事特定目的，从性质和根源上不属于营利性活动带来的经济利益，不负有纳税义务并且不作为应纳税所得额组成部分的收入，比如财政拨款、行政事业性收费等；免税收入是纳税人应税收入的重要组成部分，只是国家为了实现某些经济和社会目标，在特定时期或对特定项目取得的经济利益给予的税收优惠照顾，而在一定时期又有可能恢复征税的收入。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列说法错误的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524316512557,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["为鼓励高新技术企业自主创新，政府规定，在近两年内对这类企业研发产品的销售收入暂不收税，因此企业在研发产品上的销售收入属于免税收入", "某农产品企业获得了当地政府对农业加工产品的专项财政补贴，该补贴属于不征税收入", "国家规定，企业技术转让所得年净收入在30万元以下的，暂免征收所得税，因此这部分所得属于免税收入", "为鼓励纳税人积极购买国债，国家规定国债所得利息收入暂不计入应纳税所得额，不征收企业所得税，因此国债利息收入属于不征税收入"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188620,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"信息腐败指的是手中掌握有公共权力的人，借用自身的权力获得某些特殊信息，然后由自己或其代理人利用这些垄断信息从事某些牟利活动的一种违法乱纪行为。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列涉及信息腐败的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524327720987,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["市政府某局干部为了个人升迁，贿赂有关人员，多次修改个人档案信息", "某法学院教授为了将其负责的研究生班办成品牌，私自使用秘密窃取的某资格考试试卷对该班学生进行辅导", "省科技厅王处长离职后到某公司就职，他将自己研究的某项技术加以创新，为该公司开发出极具市场竞争力的新产品", "副区长龙某将工程招标报名情况、投标企业业绩要求、中标方式等秘密信息泄露给某投标企业，并收受该企业50余万元"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187858,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"刺激泛化是指条件作用的形成使有机体习得了对某一刺激做出特定反应的行为，因此也就可能对类似的刺激做出同样的行为反应。刺激分化是通过选择性强化和消退使有机体学会对条件刺激和与条件刺激相类似的刺激做出不同的行为反应。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列说法\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不正确\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287244653,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["“一朝被蛇咬，十年怕井绳”属于刺激泛化", "“横看成岭侧成峰，远近高低各不同”属于刺激分化", "为突出品牌，厂家对包装进行独特设计，力图使顾客产生刺激分化", "某品牌牙膏创成名牌后，生产商将其生产的化妆品也以同品牌命名，利用的是顾客的刺激泛化"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188601,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"经济文盲指的是被很多经济学名词弄得满头大汗不知其意的人们，他们的典型特色是容易盲从，专家说啥信啥，缺乏独立思考，即使专家说错了他们也会继续相信。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列涉及经济文盲的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524327529020,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["某“专家”在其出版的书中宣扬“绿豆治百病大法”，引发市场绿豆涨价", "一天电视节目里某娱乐明星说低钠盐好处多，第二天一些超市的低钠盐被一抢而空", "为了通过某资格考试，小王死记硬背了“边际效益”等很多经济学名词，但是他并没有发现复习资料中其实有很多错误", "小王被《重金属攻略》一书中的“浮动盈亏”等概念弄糊涂了，但是看到书中宣传的重金属盈利前景，还是迅速参与了交易"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2189472,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"表见代理是指行为人虽无代理权，但由于被代理人的行为，造成了足以使善意第三人相信其有代理权的表象，而与善意第三人进行的，由被代理人承担法律后果的代理行为。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列案例中\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不存在\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"表见代理的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524466907182,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["汤某系某车队司机，多次代单位赊购汽油，月底有单位支付油费。后汤某调换到行政岗位，却仍以单位名义给自己的车加油，加油站并不知情，遂继续为汤某提供服务，结果在向汤某单位收取油费时被拒绝", "某商场业务员郑某多次到甲公司采购空调设备，一次郑某去甲公司时见其生产的暖风机小巧实用，于是以商场名义购买了一批暖风机，商场知道后，认为郑某是自作主张，他们有权拒绝支付货款", "陆某是某市一套房屋产权人，去年5月，陆某儿子拿着他的印章、身份证和房屋产权证原件委托房产中介出售房屋，中介联系促成徐某与陆某儿子签了房屋买卖合同并办理了过户手续，但当徐某要求入住时，陆某称他不知情，要求撤销买卖合同", "张媛的弟弟张力在某基金会储蓄部当副主任，张媛口头委托张力代其在基金会先后办理了八笔存款，共计30万，张力每次存款时在存款人栏、经办人栏都填写张媛的名字，后又擅自以张媛名义从基金会取出了13万存款"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188607,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"高血压：传染病 \",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524327589355,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["蝙蝠：哺乳动物", "黄梅戏：京剧", "鲫鱼：两栖动物", "计算机：电脑硬件"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188412,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"西子湖：曹娥江\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524308733793,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["美人蕉：老婆饼", "东坡肉：五柳鱼", "女儿红：祖母绿", "狮子头：凤凰胆"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187709,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"风霜雨雪：雾里看花\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285289463,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["春夏秋冬：踏雪寻梅", "金木火土：水中望月", "桃李杏橘：青梅煮酒", "梅兰竹菊：茜窗画眉"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188622,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"常规问题：非常规问题：问题\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524327727968,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["期中考试：期末考试：考试", "顶层设计：基层落实：管理", "豪华装修：简单装修：装修", "转基因油：非转基因油：油"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188619,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"扣子：西装：裤子\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524327702818,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["鼠标：电脑：键盘", "学生：青年：艺术家", "窗帘：窗户：房子", "方向盘：轿车：商务车"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187714,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"春秋：寒暑：一年\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285351822,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["妇孺：老幼：生命", "荏苒：蹉跎：岁月", "东西：南北：方向", "冷热：干湿：温度"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187703,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"团扇：羽毛扇：舞蹈扇\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285212590,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["宣纸：餐巾纸：铜版纸", "圈椅：实木椅：办公椅", "排球：羽毛球：乒乓球", "墨镜：老花镜：显微镜"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188598,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"石油 对于（  ）相当于 廉洁 对于 （  ）\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524327483850,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["煤炭  贪腐", "能源  品德", "矿产  政府", "原油  简朴"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188602,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"（  ）对于 风景 相当于 美丽 对于（  ）\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524327534248,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["秀丽  动人", "画卷  人生", "怡人  心灵", "如画  如花"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188413,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"纺车 之于（  ）相当于（  ）之于 联合收割机\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524308736456,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["手摇；蒸汽机", "织布；传动带", "3D织布机；曲辕犁", "自动打线车；发动机"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188603,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"心理学家研究发现，一般情况下学生的注意力随着老师讲课时间的变化而变化。讲课开始时，学生的注意力逐步增强，中间有一段时间保持在较为理想的状态，随后学生的注意力开始分散。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"以下哪项如果为真，最能削弱上述结论？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524327556515,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["老师经过适当安排能够获得足够注意力", "总有个别学生能够全程保持注意力集中", "兴趣是影响注意力能否集中的关键因素", "人能完全集中注意力的时间只有七秒钟"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2195817,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"茶树性喜潮湿，需要多量而均匀的雨水，湿度太低或降雨量少于1500毫米都不适合茶树的生长。仙人球喜阳，只有足够的光照下，才能发育良好，否则，会使条形圆球儿长成桶形，强刺球儿的刺也会萎缩，整个球没有光泽，在某地的大部分地区茶树和仙人球至少有一种长得好。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"如果上述判断为真，则下列哪一项为假？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1525405072538,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["此地大部分属于热带海洋性气候", "此地大部分地区靠近赤道", "此地的一半地区，常年缺水日照短", "该地所有的茶树无法存活"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188608,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"婴儿的幼年特征可以唤起成年人的慈爱和养育之心，许多动物的外形和行为具有人类婴儿的特征。因此，人们容易被这样的动物所吸引，将它们养成宠物。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"以下哪项如果为真，最能支持上述结论？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524327592258,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["很多空巢老人喜欢饲养宠物", "体态庞大且凶猛的动物很少成为宠物", "有的家庭在生育儿女后就不会再养宠物", "父母喜欢养宠物的，子女也喜欢养宠物"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2195821,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"一战后三十年，营养科学家普遍共识是缺失性营养不良，主要是由食品中蛋白质缺乏造成的。提高食品中蛋白质含量曾是联合国粮农机构的重要事务，但近年来，科学家研究认为：食品中的蛋白质缺乏是营养科学家的错误认识。\",\"children\":[]},{\"name\":\"br\",\"value\":\"\",\"children\":[]},{\"name\":\"txt\",\"value\":\"以下哪项如果真不能支持科学家观点？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1525405161019,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["有些贫困地区的营养不良是由食物缺乏而成的，而不是由食物中蛋白质含量", "近年来，科学家培育蛋白质食物取得可喜成果，小麦蛋白质含量显著增加", "山药和木薯这样的低蛋白质农作物也能满足人类蛋白质的基本需求", "世界科学家对人类蛋白质需求的过于依赖动物研究而对动物研究会夸大人类对蛋白质的需求"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188606,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在大量的信息中容易迷失是人性的弱点。那些不管是有用的还是没用的，全都想要收集到的完美主义者，是不能很好地分析信息的。克服这一点的关键就是，养成明确的“目标意识”，尽可能瞄准自己想要的信息收集。为了防止主观臆断和先入为主，必须把信息的收集和判断这两个工作分开，如果信息的数量庞大，就要进行两次乃至多次的检验。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"由此可以推出：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524327573700,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["不能很好地分析信息的人都是完美主义者", "养成明确的“目标意识”，才不容易在大量的信息中迷失", "把信息的收集和判断这两个工作分开，就能够防止主观臆断", "如果信息的数量不大，就不需要进行两次乃至多次的检验"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188482,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"母亲年龄是唐氏综合征筛查所考虑的风险因素之一。一般认为，母亲年龄越大，宝宝出现遗传异常的风险就越高。当卵子里有一条多余的21号染色体时，胎儿就会出现唐氏综合征。随着女性年龄的增长，出现此类异常的风险也随之升高。最近，一些专家开始对这种筛查方法提出质疑，认为遗传异常并不仅仅只是女方年龄的问题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"以下哪项如果为真，最能支持上述专家质疑？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524316625902,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["精子的21号染色体也可能粘连多余的遗传物质，父亲的年龄越大，制造精子过程出错的概率就越高", "造成宝宝精神健康问题的重点似乎并不在于母亲的“绝对年龄”，而在于父亲与母亲的“相对年龄”", "子宫基本不会随着年龄增长发生变化，只要激素水平充足，年老妇女的子宫也能够正常养育胎儿", "现代人因为环境以及生活习惯影响，容易产生基因突变，即便是健康夫妇也有生育“唐氏儿”的风险"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2196079,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"题目正在全力以赴征集，将会在征集到后第一时间上传\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1525421258382,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["缺失", "缺失", "缺失", "缺失"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188623,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"一个人如果是智者，那么他一定是一位谦虚的人；而一个人只有认识到自己的不足，他才会谦虚。但是，如果一个人听不进别人的意见，那么他就不会认识到自己的不足。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"由此可以推出：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524327738006,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["一个人如果认识到自己的不足，他就是一位智者", "一个人如果听不进别人的意见，他就不是一位智者", "一个人如果听得进别人的意见，他就会认识到自己的不足", "一个人如果认识不到自己的不足，他一定听不进别人的意见"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188627,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"高校食堂某窗口前有张明、李伟、王刚、赵曼、钱强5人在排队买菜。每人只买一份菜。已知：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"(1)要买红烧肉的人排在张明后面；\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"(2)李伟紧排在要买芹菜炒香干的人前面；\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"(3)王刚虽然排在队伍的第2位，但他还不知道要买什么；\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"(4)赵曼一向吃素，今天她来得有点晚，排在了队伍的最后。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"由此可以推出：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524327768117,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["李伟排在队伍的正中间位置", "钱强排在队伍的正中间位置", "李伟不可能排在队伍的最前面", "张明不可能排在队伍的最前面"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2195825,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"某证券公司对该公司登记的各类股民的持股喜好进行统计调查，发现大部分五年以上的股龄的股民更注重公司业绩，都持有小盘绩优股，而所有的30-35岁青年股民都倾向于看中公司名气，都持有大盘蓝筹股，而且所有持有小盘绩优股的股民没持有大盘蓝筹股。\",\"children\":[]},{\"name\":\"br\",\"value\":\"\",\"children\":[]},{\"name\":\"txt\",\"value\":\"如果以上为真，那么下面哪项一定为真？\",\"children\":[]},{\"name\":\"br\",\"value\":\"\",\"children\":[]},{\"name\":\"txt\",\"value\":\"（1）有些30-35青年股民其股龄都在五年以上\",\"children\":[]},{\"name\":\"br\",\"value\":\"\",\"children\":[]},{\"name\":\"txt\",\"value\":\"（2）有些股龄五年以上的股民没持有大盘蓝筹股\",\"children\":[]},{\"name\":\"br\",\"value\":\"\",\"children\":[]},{\"name\":\"txt\",\"value\":\"（3）30-35岁青年股民没有持有小盘蓝筹股（疑为：绩优股）\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1525405226533,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["（1）（2）（3）", "只有（1）（2）", "只有（2）（3）", "只有（2）"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188502,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年5月，股份制商业银行总资产占银行业金融机构的比重与上年相比约：\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195205,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答111～115题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e734cb906b66.png?width=535&height=273\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"注：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"1.农村金融机构包括农村商业银行、农村合作银行、农村信用社和新型农村金融机构。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2.其他类金融机构包括政策性银行及国家开发银行、民营银行、外资银行、非银行金融机构、资产管理公司和邮政储蓄银行。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"3.净资产额等于总资产额减去总负债额。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524318606938,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["增加了2个百分点", "减少了2个百分点", "增加了0.2个百分点", "减少了0.2个百分点"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188503,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2016年5月，银行业金融机构总资产金额约为：\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195205,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答111～115题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e734cb906b66.png?width=535&height=273\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"注：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"1.农村金融机构包括农村商业银行、农村合作银行、农村信用社和新型农村金融机构。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2.其他类金融机构包括政策性银行及国家开发银行、民营银行、外资银行、非银行金融机构、资产管理公司和邮政储蓄银行。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"3.净资产额等于总资产额减去总负债额。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524318667210,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["227万亿元", "217万亿元", "207万亿元", "197万亿元"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188504,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年5月我国股份制商业银行净资产额约是城市商业银行净资产额的多少倍？\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195205,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答111～115题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e734cb906b66.png?width=535&height=273\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"注：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"1.农村金融机构包括农村商业银行、农村合作银行、农村信用社和新型农村金融机构。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2.其他类金融机构包括政策性银行及国家开发银行、民营银行、外资银行、非银行金融机构、资产管理公司和邮政储蓄银行。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"3.净资产额等于总资产额减去总负债额。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524318742448,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["0.5", "0.8", "1.5", "1.8"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188506,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在2017年5月我国银行业金融机构资产负债表中，下列哪一项的总资产同比增长额最高？\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195205,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答111～115题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e734cb906b66.png?width=535&height=273\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"注：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"1.农村金融机构包括农村商业银行、农村合作银行、农村信用社和新型农村金融机构。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2.其他类金融机构包括政策性银行及国家开发银行、民营银行、外资银行、非银行金融机构、资产管理公司和邮政储蓄银行。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"3.净资产额等于总资产额减去总负债额。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524318815068,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["大型商业银行", "股份制商业银行", "城市商业银行", "农村金融机构"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188508,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"关于2017年5月我国银行业金融机构资产负债表，下列说法正确的是：\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195205,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答111～115题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e734cb906b66.png?width=535&height=273\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"注：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"1.农村金融机构包括农村商业银行、农村合作银行、农村信用社和新型农村金融机构。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2.其他类金融机构包括政策性银行及国家开发银行、民营银行、外资银行、非银行金融机构、资产管理公司和邮政储蓄银行。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"3.净资产额等于总资产额减去总负债额。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524318877724,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"股份制商业银行总资产额占银行业金融机构总资产额的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"B/g3p2/1Jv5cMkYoXeKevw==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"以上\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"城市商业银行的总资产同比增长额高于其他类金融机构\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"城市商业银行净资产额同比增速为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"+ER8fiuOI0C3Vxt2Wd50UQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"大型商业银行净资产额为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"o8ZJGvW/xE7nIarygk/8LA==?widthRatio=2.5&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"万亿元\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2195843,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2002年末城镇就业人数占全国城乡就业人数的比重约是：（  ）\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195545,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"二、根据以下资料，回答106～110题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"截至2011年末，全国城乡就业人数达到76420万人，比2002年末增加3140万人，其中，城镇就业人数35914万人，增加10755万人；乡村就业人数40506万人，减少7615万人，农民工数量不断扩大，2011年末达到25278万人。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2011年，城镇居民人均可支配收入21810元元（疑为：多字），比2002年增长1.8倍，扣除价格因素年均实际增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"vAa22Chxzx4HRMEqyuGnQg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；农村居民人均纯收入6977元，比2002年增长1.8倍，扣除价格因素年均实际增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"arFjWMqwSgoD+2KflakWJQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。2002～2011年，城乡居民收入年均增速超过1979～2011年\",\"children\":[]},{\"name\":\"tex\",\"value\":\"kEUpte9tZom+FFOYc/kiIg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"的年均增速，是历史上增长最快的时期之一。其中，2010年、2011年农村居民人均纯收入增速连续两年快于城镇。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2011年末（疑为：缺少“年末”），城乡居民家庭恩格尔系数分别为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"9QpyZUttzZJOYMfLk5YU/w==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"和\",\"children\":[]},{\"name\":\"tex\",\"value\":\"nM+gmqC8J4xY7gcCRn7ohA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，分别比2002年降低了1.4和5.8个百分点，主要耐用消费品拥有量大幅增长；2011年末，城镇居民家庭平均每百户拥有家用汽车18.6辆，比2002年末增加17.7辆；拥有移动电话205.3部，增长2.3倍；拥有家用电脑81.9台，增长3.0倍。农村居民家庭平均每百户拥有电冰箱61.5台，增长3.1倍；空调机2.6台，增长8.9倍；拥有移动电话179.7部，增长12.1倍。2011年末，全国电话普及率达到94.9部/百人，比2002年末增长1.8倍。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1525405537009,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"gDs2oegX/ZNtUkU8SMyrVQ==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"QvM5QdgBr8DO4Rj1j1aceA==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"gj3AH4L+X4Z++8SjVNt9CQ==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"vmZfDhXGqLRHGS9f17M1CA==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2195847,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"与2002年末相比，2011年末以下各项家庭主要耐用消费品拥有量增速最快的是：（  ）\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195545,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"二、根据以下资料，回答106～110题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"截至2011年末，全国城乡就业人数达到76420万人，比2002年末增加3140万人，其中，城镇就业人数35914万人，增加10755万人；乡村就业人数40506万人，减少7615万人，农民工数量不断扩大，2011年末达到25278万人。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2011年，城镇居民人均可支配收入21810元元（疑为：多字），比2002年增长1.8倍，扣除价格因素年均实际增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"vAa22Chxzx4HRMEqyuGnQg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；农村居民人均纯收入6977元，比2002年增长1.8倍，扣除价格因素年均实际增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"arFjWMqwSgoD+2KflakWJQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。2002～2011年，城乡居民收入年均增速超过1979～2011年\",\"children\":[]},{\"name\":\"tex\",\"value\":\"kEUpte9tZom+FFOYc/kiIg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"的年均增速，是历史上增长最快的时期之一。其中，2010年、2011年农村居民人均纯收入增速连续两年快于城镇。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2011年末（疑为：缺少“年末”），城乡居民家庭恩格尔系数分别为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"9QpyZUttzZJOYMfLk5YU/w==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"和\",\"children\":[]},{\"name\":\"tex\",\"value\":\"nM+gmqC8J4xY7gcCRn7ohA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，分别比2002年降低了1.4和5.8个百分点，主要耐用消费品拥有量大幅增长；2011年末，城镇居民家庭平均每百户拥有家用汽车18.6辆，比2002年末增加17.7辆；拥有移动电话205.3部，增长2.3倍；拥有家用电脑81.9台，增长3.0倍。农村居民家庭平均每百户拥有电冰箱61.5台，增长3.1倍；空调机2.6台，增长8.9倍；拥有移动电话179.7部，增长12.1倍。2011年末，全国电话普及率达到94.9部/百人，比2002年末增长1.8倍。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1525405570174,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["农村居民空调机", "农村居民移动电话", "城镇居民家用电脑", "城镇居民家用汽车"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2195849,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2002年末全国电话普及率约为：（  ）\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195545,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"二、根据以下资料，回答106～110题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"截至2011年末，全国城乡就业人数达到76420万人，比2002年末增加3140万人，其中，城镇就业人数35914万人，增加10755万人；乡村就业人数40506万人，减少7615万人，农民工数量不断扩大，2011年末达到25278万人。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2011年，城镇居民人均可支配收入21810元元（疑为：多字），比2002年增长1.8倍，扣除价格因素年均实际增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"vAa22Chxzx4HRMEqyuGnQg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；农村居民人均纯收入6977元，比2002年增长1.8倍，扣除价格因素年均实际增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"arFjWMqwSgoD+2KflakWJQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。2002～2011年，城乡居民收入年均增速超过1979～2011年\",\"children\":[]},{\"name\":\"tex\",\"value\":\"kEUpte9tZom+FFOYc/kiIg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"的年均增速，是历史上增长最快的时期之一。其中，2010年、2011年农村居民人均纯收入增速连续两年快于城镇。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2011年末（疑为：缺少“年末”），城乡居民家庭恩格尔系数分别为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"9QpyZUttzZJOYMfLk5YU/w==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"和\",\"children\":[]},{\"name\":\"tex\",\"value\":\"nM+gmqC8J4xY7gcCRn7ohA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，分别比2002年降低了1.4和5.8个百分点，主要耐用消费品拥有量大幅增长；2011年末，城镇居民家庭平均每百户拥有家用汽车18.6辆，比2002年末增加17.7辆；拥有移动电话205.3部，增长2.3倍；拥有家用电脑81.9台，增长3.0倍。农村居民家庭平均每百户拥有电冰箱61.5台，增长3.1倍；空调机2.6台，增长8.9倍；拥有移动电话179.7部，增长12.1倍。2011年末，全国电话普及率达到94.9部/百人，比2002年末增长1.8倍。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1525405617653,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["52.7部/百人", "50.1部/百人", "33.9部/百人", "13.7部/百人"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2195854,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"以下指标能够从材料中推出的是：（  ）\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195545,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"二、根据以下资料，回答106～110题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"截至2011年末，全国城乡就业人数达到76420万人，比2002年末增加3140万人，其中，城镇就业人数35914万人，增加10755万人；乡村就业人数40506万人，减少7615万人，农民工数量不断扩大，2011年末达到25278万人。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2011年，城镇居民人均可支配收入21810元元（疑为：多字），比2002年增长1.8倍，扣除价格因素年均实际增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"vAa22Chxzx4HRMEqyuGnQg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；农村居民人均纯收入6977元，比2002年增长1.8倍，扣除价格因素年均实际增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"arFjWMqwSgoD+2KflakWJQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。2002～2011年，城乡居民收入年均增速超过1979～2011年\",\"children\":[]},{\"name\":\"tex\",\"value\":\"kEUpte9tZom+FFOYc/kiIg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"的年均增速，是历史上增长最快的时期之一。其中，2010年、2011年农村居民人均纯收入增速连续两年快于城镇。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2011年末（疑为：缺少“年末”），城乡居民家庭恩格尔系数分别为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"9QpyZUttzZJOYMfLk5YU/w==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"和\",\"children\":[]},{\"name\":\"tex\",\"value\":\"nM+gmqC8J4xY7gcCRn7ohA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，分别比2002年降低了1.4和5.8个百分点，主要耐用消费品拥有量大幅增长；2011年末，城镇居民家庭平均每百户拥有家用汽车18.6辆，比2002年末增加17.7辆；拥有移动电话205.3部，增长2.3倍；拥有家用电脑81.9台，增长3.0倍。农村居民家庭平均每百户拥有电冰箱61.5台，增长3.1倍；空调机2.6台，增长8.9倍；拥有移动电话179.7部，增长12.1倍。2011年末，全国电话普及率达到94.9部/百人，比2002年末增长1.8倍。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1525405761126,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["2002年农村居民户均纯收入", "2002年城乡居民家庭恩格尔系数差", "2002年乡村就业人数同比增速", "2002年全国农民工数量"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2195856,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述材料，下列说法正确的是：（  ）\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195545,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"二、根据以下资料，回答106～110题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"截至2011年末，全国城乡就业人数达到76420万人，比2002年末增加3140万人，其中，城镇就业人数35914万人，增加10755万人；乡村就业人数40506万人，减少7615万人，农民工数量不断扩大，2011年末达到25278万人。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2011年，城镇居民人均可支配收入21810元元（疑为：多字），比2002年增长1.8倍，扣除价格因素年均实际增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"vAa22Chxzx4HRMEqyuGnQg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；农村居民人均纯收入6977元，比2002年增长1.8倍，扣除价格因素年均实际增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"arFjWMqwSgoD+2KflakWJQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。2002～2011年，城乡居民收入年均增速超过1979～2011年\",\"children\":[]},{\"name\":\"tex\",\"value\":\"kEUpte9tZom+FFOYc/kiIg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"的年均增速，是历史上增长最快的时期之一。其中，2010年、2011年农村居民人均纯收入增速连续两年快于城镇。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2011年末（疑为：缺少“年末”），城乡居民家庭恩格尔系数分别为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"9QpyZUttzZJOYMfLk5YU/w==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"和\",\"children\":[]},{\"name\":\"tex\",\"value\":\"nM+gmqC8J4xY7gcCRn7ohA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，分别比2002年降低了1.4和5.8个百分点，主要耐用消费品拥有量大幅增长；2011年末，城镇居民家庭平均每百户拥有家用汽车18.6辆，比2002年末增加17.7辆；拥有移动电话205.3部，增长2.3倍；拥有家用电脑81.9台，增长3.0倍。农村居民家庭平均每百户拥有电冰箱61.5台，增长3.1倍；空调机2.6台，增长8.9倍；拥有移动电话179.7部，增长12.1倍。2011年末，全国电话普及率达到94.9部/百人，比2002年末增长1.8倍。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1525405803594,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["2002年全国农村居民平均每百户拥有冰箱的数量在19～20台之间", "2002年末平均每百户城镇居民拥有移动电话数量超过农村居民的3倍", "2011年全国农村居民人均纯收入比2002年实际增长1.8倍", "2010年农村居民人均纯收入增速高于2011年"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188573,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2010年，我国高技术制造业实现新产品销售收入约多少万亿元？\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195224,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答86～90题。\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2015年末，我国规模以上高技术制造业共有企业26894家，比2010年增加1077家；占规模以上制造业企业数的比重为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"jrsxSxyj1a5c2u9VKHIXbA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比2010年提高1.3个百分点。2015年末，我国高技术制造业从业人员1293.7万人，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"UfdtZp5Nvs1apiYo84c4/g==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；占全部制造业从业人员的比重为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"8M4lHl9RWuVii9qJQw1W9Q==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比2010年提高2.9个百分点。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2015年我国高技术制造业实现主营业务收入116048.9亿元，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"kMyzMKCn6C5vGWaC9Op3zg==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；占全部制造业企业的比重为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"UPDpptFDrbtrubkrYIQ0Sg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比2010年提高0.8个百分点。2015年我国高技术制造业实现利润总额7233.7亿元，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"WU8KhINFkrlV40PZQWYIPA==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，增幅比其他制造业平均水平高出11.5个百分点；高技术制造业利润总额占全部制造业的比重为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"LzBnGJdFOyO0AaRRuDylUw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比2010年提高0.5个百分点。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2015年我国规模以上高技术制造业投入研发经费2034.3亿元，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"9YQrYfX0gtUqZso8FjyMeA==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，增幅比其他制造业平均水平高8.7个百分点。2015年我国高技术制造业申请发明专利7.4万件，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"Xj8WwW83mZScBdvZgzakJQ==?widthRatio=2.286&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；实现新产品销售收入3.1万亿元，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"X1ZX7bdPtTe4jJZitPOOZg==?widthRatio=2.286&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524326022781,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["1.4", "1.5", "1.6", "1.7"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188575,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"与2010年相比，2015年下列高技术制造业的指标中哪项增长最快？\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195224,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答86～90题。\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2015年末，我国规模以上高技术制造业共有企业26894家，比2010年增加1077家；占规模以上制造业企业数的比重为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"jrsxSxyj1a5c2u9VKHIXbA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比2010年提高1.3个百分点。2015年末，我国高技术制造业从业人员1293.7万人，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"UfdtZp5Nvs1apiYo84c4/g==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；占全部制造业从业人员的比重为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"8M4lHl9RWuVii9qJQw1W9Q==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比2010年提高2.9个百分点。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2015年我国高技术制造业实现主营业务收入116048.9亿元，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"kMyzMKCn6C5vGWaC9Op3zg==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；占全部制造业企业的比重为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"UPDpptFDrbtrubkrYIQ0Sg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比2010年提高0.8个百分点。2015年我国高技术制造业实现利润总额7233.7亿元，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"WU8KhINFkrlV40PZQWYIPA==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，增幅比其他制造业平均水平高出11.5个百分点；高技术制造业利润总额占全部制造业的比重为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"LzBnGJdFOyO0AaRRuDylUw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比2010年提高0.5个百分点。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2015年我国规模以上高技术制造业投入研发经费2034.3亿元，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"9YQrYfX0gtUqZso8FjyMeA==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，增幅比其他制造业平均水平高8.7个百分点。2015年我国高技术制造业申请发明专利7.4万件，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"Xj8WwW83mZScBdvZgzakJQ==?widthRatio=2.286&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；实现新产品销售收入3.1万亿元，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"X1ZX7bdPtTe4jJZitPOOZg==?widthRatio=2.286&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524326040852,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["利润总额", "新产品销售收入", "主营业务收入", "申请发明专利数"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188568,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2015年，我国高技术制造业主营业务收入比2010年增加约多少万亿元？\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195224,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答86～90题。\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2015年末，我国规模以上高技术制造业共有企业26894家，比2010年增加1077家；占规模以上制造业企业数的比重为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"jrsxSxyj1a5c2u9VKHIXbA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比2010年提高1.3个百分点。2015年末，我国高技术制造业从业人员1293.7万人，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"UfdtZp5Nvs1apiYo84c4/g==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；占全部制造业从业人员的比重为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"8M4lHl9RWuVii9qJQw1W9Q==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比2010年提高2.9个百分点。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2015年我国高技术制造业实现主营业务收入116048.9亿元，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"kMyzMKCn6C5vGWaC9Op3zg==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；占全部制造业企业的比重为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"UPDpptFDrbtrubkrYIQ0Sg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比2010年提高0.8个百分点。2015年我国高技术制造业实现利润总额7233.7亿元，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"WU8KhINFkrlV40PZQWYIPA==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，增幅比其他制造业平均水平高出11.5个百分点；高技术制造业利润总额占全部制造业的比重为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"LzBnGJdFOyO0AaRRuDylUw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比2010年提高0.5个百分点。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2015年我国规模以上高技术制造业投入研发经费2034.3亿元，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"9YQrYfX0gtUqZso8FjyMeA==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，增幅比其他制造业平均水平高8.7个百分点。2015年我国高技术制造业申请发明专利7.4万件，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"Xj8WwW83mZScBdvZgzakJQ==?widthRatio=2.286&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；实现新产品销售收入3.1万亿元，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"X1ZX7bdPtTe4jJZitPOOZg==?widthRatio=2.286&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524325978392,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["5", "6", "7", "8"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188572,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2010年，我国制造业实现利润总额约多少万亿元？\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195224,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答86～90题。\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2015年末，我国规模以上高技术制造业共有企业26894家，比2010年增加1077家；占规模以上制造业企业数的比重为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"jrsxSxyj1a5c2u9VKHIXbA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比2010年提高1.3个百分点。2015年末，我国高技术制造业从业人员1293.7万人，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"UfdtZp5Nvs1apiYo84c4/g==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；占全部制造业从业人员的比重为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"8M4lHl9RWuVii9qJQw1W9Q==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比2010年提高2.9个百分点。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2015年我国高技术制造业实现主营业务收入116048.9亿元，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"kMyzMKCn6C5vGWaC9Op3zg==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；占全部制造业企业的比重为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"UPDpptFDrbtrubkrYIQ0Sg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比2010年提高0.8个百分点。2015年我国高技术制造业实现利润总额7233.7亿元，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"WU8KhINFkrlV40PZQWYIPA==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，增幅比其他制造业平均水平高出11.5个百分点；高技术制造业利润总额占全部制造业的比重为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"LzBnGJdFOyO0AaRRuDylUw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比2010年提高0.5个百分点。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2015年我国规模以上高技术制造业投入研发经费2034.3亿元，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"9YQrYfX0gtUqZso8FjyMeA==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，增幅比其他制造业平均水平高8.7个百分点。2015年我国高技术制造业申请发明专利7.4万件，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"Xj8WwW83mZScBdvZgzakJQ==?widthRatio=2.286&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；实现新产品销售收入3.1万亿元，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"X1ZX7bdPtTe4jJZitPOOZg==?widthRatio=2.286&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524326000699,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["1.3", "1.7", "2.2", "2.8"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188577,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述资料，下列说法\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"错误\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是：\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195224,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答86～90题。\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2015年末，我国规模以上高技术制造业共有企业26894家，比2010年增加1077家；占规模以上制造业企业数的比重为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"jrsxSxyj1a5c2u9VKHIXbA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比2010年提高1.3个百分点。2015年末，我国高技术制造业从业人员1293.7万人，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"UfdtZp5Nvs1apiYo84c4/g==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；占全部制造业从业人员的比重为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"8M4lHl9RWuVii9qJQw1W9Q==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比2010年提高2.9个百分点。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2015年我国高技术制造业实现主营业务收入116048.9亿元，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"kMyzMKCn6C5vGWaC9Op3zg==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；占全部制造业企业的比重为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"UPDpptFDrbtrubkrYIQ0Sg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比2010年提高0.8个百分点。2015年我国高技术制造业实现利润总额7233.7亿元，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"WU8KhINFkrlV40PZQWYIPA==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，增幅比其他制造业平均水平高出11.5个百分点；高技术制造业利润总额占全部制造业的比重为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"LzBnGJdFOyO0AaRRuDylUw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比2010年提高0.5个百分点。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2015年我国规模以上高技术制造业投入研发经费2034.3亿元，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"9YQrYfX0gtUqZso8FjyMeA==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，增幅比其他制造业平均水平高8.7个百分点。2015年我国高技术制造业申请发明专利7.4万件，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"Xj8WwW83mZScBdvZgzakJQ==?widthRatio=2.286&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；实现新产品销售收入3.1万亿元，比2010年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"X1ZX7bdPtTe4jJZitPOOZg==?widthRatio=2.286&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524326073585,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["2010年，我国高技术制造业申请发明专利达3万件", "2010年末，高技术制造业从业人员占全部制造业从业人员的比重为12.2%", "2015年末，我国规模以上制造企业数是规模以上高技术制造业企业数的10倍以上", "2015年，我国规模以上高技术制造业投入的研发经费比2010年增加了1000亿元以上"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188580,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2013～2015年，试验发展经费支出年平均增加：\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195225,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答91～95题。\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e91eeb868067.png?width=542&height=296\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524326149522,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["不到800亿元", "800多亿元", "900多亿元", "1000亿元以上"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188583,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2013～2015年间，企业研究与试验发展经费支出同比增量大于1000亿元的年份有几个？\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195225,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答91～95题。\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e91eeb868067.png?width=542&height=296\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524326213751,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["0", "1", "2", "3"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188582,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2015年，我国研究与试验发展经费投入强度（研究与试验发展经费支出与国内生产总值之比）约为：\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195225,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答91～95题。\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e91eeb868067.png?width=542&height=296\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524326198501,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"ezy6Qc+lL3UitxkgYsJtPg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"9piNV7catnqAUCrVYT0dWg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"GT2etvUO7r69Zk5iC7JHAQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"zRx98+N4E85ZU68PfoLjMg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188584,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2012～2015年，基础研究经费支出占全国研究与试验发展经费支出比重最大的年份是：\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195225,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答91～95题。\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e91eeb868067.png?width=542&height=296\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524326227488,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["2012年", "2013年", "2014年", "2015年"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188585,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据资料，下列选项\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"错误\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是：\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195225,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据以下资料，回答91～95题。\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e91eeb868067.png?width=542&height=296\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524326246568,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["2012～2015年，基础研究经费支出年均不到600亿元", "2013～2015年，应用研究经费支出年增量逐年增大", "2015年，企业的研究与试验发展经费比政府属研究机构高5倍多", "2012～2015年，我国高校的研究与试验发展经费支出呈逐年递增趋势"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}]

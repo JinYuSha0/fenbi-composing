@@ -1,0 +1,1641 @@
+[{
+  "id": 2187413,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"习近平主席在一系列重要讲话和文章中引经据典，展现了独特的语言风格和人格魅力。他在博鳌亚洲论坛2018年年会中讲到“幸福和美好不会自己出现，成功属于勇敢而笃行的人”时，引用的经典名句是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279221397,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["但愿苍生俱饱暖，不辞辛苦出山林", "修其心治其身，而后可以为政于天下", "积土而为山，积水而为海", "其身正，不令而行；其身不正，虽令不从"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187416,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"国务院机构改革优化了创新引擎。一方面，重组科学技术部，加强、优化、转变政府科技管理和服务职能；另一方面，重组国家知识产权局，强化知识产权创造、保护和运用，让“第一动力”更有劲头。这段话蕴含的哲理是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279253554,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["社会存在状况决定社会意识", "上层建筑应与经济基础相适应", "生产关系应与生产力相适应", "社会意识一定要适应社会存在"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187418,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在十三届全国人大一次会议上，宪法修正案经表决，获得高票通过。此次宪法修改的一项重要内容就是将习近平新时代中国特色社会主义思想载入国家根本法，体现党和国家事业发展的新成就、新经验、新要求，在总体保持宪法的连续性、稳定性、权威性的基础上推动宪法与时俱进，完善发展。宪法修改体现的哲理是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279306380,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["事物发展的本质是克服", "事物发展的本质是抛弃", "事物发展的本质是扬弃", "事物发展的本质是保留"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187973,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"新西兰一家园艺研究所研究发现，水果成熟时会释放挥发性的化合物，而且随着成熟程度的增加，其浓度也会有所变化。研究人员正是根据水果这一特性，制成了一种能“感知”水果是否成熟的标签。当水果成熟时，标签通过感知其释放的挥发性化合物的浓度而变换颜色。这段话体现的哲理是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524294644246,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["意识是人脑的机能和属性", "意识对人们改造世界具有指导作用", "意识活动具有科学预见性", "意识活动具有直接现实性"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187394,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列流行语与其所反映的哲理对应\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"错误\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524278604322,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["正能量——发挥社会意识正确导向作用", "新常态——静止的、无条件的", "接地气——从实际出发，密切联系群众", "中国式——共性寓于个性之中"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187403,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"甲国国家领导人出访乙国，乙国的接待做法\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不符合\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"涉外交际礼仪惯例的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524278977526,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["邀请甲国领导人发表演讲时，将演讲台放置于主席台的右前方", "用轿车接送时，安排甲国领导人坐后排右座，翻译坐副驾驶座", "面对行进方向，在轿车右侧悬挂甲国国旗，左侧悬挂乙国国旗", "在乙国安排的招待宴会上，应将甲国领导人安排在主位的左侧"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188129,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列新闻标题用语存在明显错误的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524302455772,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e84e507f786d.jpg?width=1667&height=622\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e84e6fbaa3e5.jpg?width=1667&height=637\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e84ebb6d3dd3.jpg?width=1667&height=568\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e84ed5d3eec7.jpg?width=1667&height=553\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187979,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"关于下列谦辞的用法，表述\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"错误\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524294762769,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["“刍议”用于谦称自己撰写的文章", "“续貂”用于谦称修补别人的服饰", "“芹献”用于谦称赠送别人的礼物", "“补壁”用于谦称赠人的书画作品"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187983,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"陆游《临安春雨初霁》中的诗句“小楼一夜听春雨，深巷明朝卖杏花”描写的场景是农历的\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524294789762,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["二月", "五月", "四月", "三月"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187988,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"对下列典籍名称中加点词解释\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"错误\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524294913895,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e723bba8296b.jpg?width=182&height=22\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e718b3025038.jpg?width=181&height=21\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e71759e76cfc.jpg?width=182&height=21\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e71770072b27.jpg?width=181&height=20\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187397,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列做法符合公文处理规则的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524278784185,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["县民政局向本县所属乡镇政府发布指令性公文", "镇党委书记以党委负责人名义向县委报送公文", "镇政府向县政府报送的报告中带有请示事项", "县科技局和林业局联合行文中只标注了主办机关的发文字号"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187990,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"直线型组织结构又称单线型组织结构，是最古老、最简单的一种组织结构类型，其特点是组织系统职权从组织上层“流向”组织基层。上下级关系是直线关系，即命令与服从的关系。下列关于直线型组织结构的说法中，\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"错误\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524294965338,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["信息流通迅速，利于民主决策", "权责明确，管理成本低", "联系便捷，易于适应环境变化", "结构简单，命令统一"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187994,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在经济学意义上，投资每增长一个百分点，能拉动经济增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"bJBDE9E+l63LwlnJn6N/kw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；而消费每增长一个百分点，能拉动经济增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"E6ocyfosz4o9WQ21UCKZVg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，是投资的4倍。下列选项中，有助于促进居民消费的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524295088589,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["降低银行存贷款利率", "改善投资环境扩大招商引资", "优化投资结构并实现总量扩张", "家电企业扩大生产规模"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187404,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"发源于长白山的松花江滋养了东北大地，与东北人的生活息息相关。下列关于松花江表述\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"错误\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279004816,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["松花江是东北境内航运价值较大的河流", "松花江流域属温带大陆性季风气候", "松花江是中国黑龙江最小的支流", "吉林市位于松花江沿岸"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187405,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"“个性化定制”就在我们身边，“互联网+”大背景下，我们可以张扬更多的个性，从一件T恤到一本书，只要你愿意，生活中就会充满惊喜。这种消费属于\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279029573,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["求异心理引发的消费", "攀比心理引发的消费", "从众心理引发的消费", "求同心理引发的消费"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188077,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在同一城市，不同片区的居民收到的天气预报往往\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不一样\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"，且每隔数小时都会更新一次。这种天气预报法属于\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524300264506,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["定性预报法", "网格化预报法", "定点预报法", "描述性预报法"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187972,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"北极气候恶劣，冰雪无边。室外最低气温能达到零下59摄氏度，但冰屋却给那里的居民提供了温暖的住所。下列关于冰屋的说法，\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不正确\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524294634937,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["冰屋能够保留其内部空间的热量，因为冰墙是热的不良导体", "为了避免冷空气的进入，冰屋顶部应该被设计成密封圆拱形", "冰屋一半陷入地下，通过冷暖空气对流来保证冰屋内部气温", "冰屋的内壁较为光亮，可以通过辐射防止内部热量向外扩散"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187974,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"中医认为，咸、甜、酸、苦、辣分别与人体的五脏相对应，各有其作用，即五味各入其脏，有所裨益。下述关于五味与五脏对应关系的表述中，\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"错误\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524294679679,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["酸味——肝脏", "甜味——脾脏", "咸味——肾脏", "辣味——心脏"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187976,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"户外运动可以促进骨骼的健康，这是因为太阳光中的某种频率的电磁波可以促成维生素D的活化，促进身体吸收食物中钙和磷，从而促进骨骼的生长。这种电磁波是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524294722835,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"紫外线\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"uswT/CEcOIwMpCvTz/zeaA==?widthRatio=0.929&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"与\",\"children\":[]},{\"name\":\"tex\",\"value\":\"2iszvgXlUNCCdp5Cgyc0EA==?widthRatio=0.429&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"射线\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"无线电波\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"红外线\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187978,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列我国史书中记载的国家与今日国名对应\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"错误\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524294746444,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["倭奴国——日本", "暹罗国——伊朗", "安南国——越南", "身毒国——印度"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187980,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列说法符合生物常识的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524294767300,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["蜜蜂用头部的螯针蜇人", "蜻蜓拥有咀嚼式的口器", "蚂蚁出生后由雄蚁喂养", "蟋蟀依靠口器发出声音"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187982,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"牵牛花早晨为蓝色，下午会变为红色，这主要是因为牵牛花逐渐吸收了大量的\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524294785014,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["酸性气体", "惰性气体", "中性气体", "碱性气体"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187984,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"拳术在长期的社会实践中形成了各种不同风格和特点的拳种流派。根据“舒缓柔和，轻灵圆活”的特点，判断该拳种是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524294801779,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["通臂拳", "长拳", "南拳", "太极拳"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187986,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"关于语言文字与字母的关系，下列说法\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"错误\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524294822622,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["法语使用的是拉丁字母", "日语使用的是阿拉伯字母", "俄语使用的是斯拉夫字母", "德语使用的是拉丁字母"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187393,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"某电视专题片介绍了三位富有诗书才华的古代帝王，片中先后出现了《玉树后庭花》“千古词帝”“瘦金体”等内容。这三位帝王分别是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524278582444,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["南朝梁武帝萧衍、南唐后主李煜、隋炀帝杨广", "南朝陈后主陈叔宝、南唐后主李煜、宋徽宗赵佶", "魏文帝曹丕、南朝陈后主陈叔宝、唐玄宗李隆基", "南朝梁武帝萧衍、唐玄宗李隆基、宋徽宗赵佶"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188040,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"填入划横线部分最恰当的一项是\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"对比十八大和十九大报告关于行政体制改革的内容表述，政府职能转变始终是“\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"            \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"”，其中简政放权、服务型政府建设和提高政府公信力、执行力等任务在两次党代会报告中均有体现。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524299062429,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["绊脚石", "传家宝", "牛鼻子", "保护伞"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188047,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"填入划横线部分最恰当的一项是\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"几十年的创作生涯，使我深感真正用心的创作就是拼积累、耗心血，\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"靠积累琢磨出来的剧本，无论是故事、人物还是语言，都会“有嚼头”。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524299109397,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["但凡", "因为", "只有", "只要"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188063,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一组是\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"《旅行青蛙》《恋与制作人》，无论从游戏内容、方式还是主题来看，两款热门游戏看上去没有多少\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。但细究一番却不难发现，它们能够迅速走红，所依靠的“\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"”还真有几分相像。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 6,
+  "createdTime": 1524299281942,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["关联  窍门儿", "关系  秘诀", "联系  杀手锏", "交集  法宝"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188067,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一组是\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"选择是痛苦的，企业变革首先要革自己的命，企业转型升级的过程就是\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"重生的过程。在这一过程中，企业家眼光既要向外，准确看到新时代环境的改变及趋势，又要向内，重新\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"企业自身的优势与核心竞争力。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 6,
+  "createdTime": 1524299327540,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["蜕变  审视", "涅槃  考量", "改造  打量", "转化  检视"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188056,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一组是\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在户籍新政推出一年后，西安再出“狠招”：在校大学生仅凭学生证和身份证即可完成在线落户。在系列新政的\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"之下，年初以来新迁入人口已达21万人，直逼去年迁入人口总量。有媒体报道西安“抢人才”盛况时，配上唐太宗李世民曾在长安喜不自禁曰“天下英雄入吾彀中矣”的典故加以\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"         \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 6,
+  "createdTime": 1524299202970,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["催生  说明", "叠加  烘托", "护持  渲染", "效应  描述"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188059,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一组是\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"《经典咏流传》打造的“一场全民参与的诗词文化的音乐盛宴”，使得\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"               \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的诗词文化由小众走向大众，让观众\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"更多的“诗”与“远方”。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524299240820,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["孤芳自赏  追求", "阳春白雪  邂逅", "古色古香  欣赏", "束之高阁  发现"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188066,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一组是\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"从家庭来说，现在父母大多为职场人士，难以\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"         \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"同子女沟通交往，就是在有限的交往中，也更在意孩子的学业，包括学习成绩和所谓“素质培养”，而很少\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 3,
+  "createdTime": 1524299307604,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["保持  亲密无间", "有效  畅所欲言", "经常  心有灵犀", "频繁  推心置腹"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187512,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一组是\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"语言系统其实具有自我\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"           \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"能力，随着时间推移，会自然通过分层过滤，淘尽渣滓，淬炼真金。虽然如此，当下部分网络语言带来的负面影响仍\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280676923,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["消化  沸沸扬扬", "再生  揣摩不透", "修复  接踵而至", "净化  不可小觑"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188069,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一组是\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"尽力也许并不能让我们的未来\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"              \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"，但是，\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"         \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"会让我们的明天\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"          \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。因为，真的，人生很贵，请别浪费。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524299357072,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["一帆风顺  一定  辉煌灿烂", "风光无限  应该  义无反顾", "无忧无虑  至少  无怨无悔", "万事大吉  可能  天晴月朗"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187502,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一组是\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"婺源被淡淡炊烟笼罩的马头墙、山间梯田____的线条、暮色中骑在牛背上的村童，俨然一幅山高水远的中国水墨画，_______；而瑶里古镇的光芒一直被婺源所遮掩，但正因如此，它才保留了最原始的美景。无论是水墨画一般的徽派建筑，还是保留原貌的小镇，都会给人带来一种____的感觉。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 6,
+  "createdTime": 1524280364491,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["丰富  浑然天成  亲切", "抽象  恍若隔世  纯朴", "奇妙  清新淡雅  怡人", "流畅  浓妆淡抹  惊艳"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187447,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"法国大革命前，化学家拉瓦锡用巨大的凸透镜把阳光聚焦在钻石上，结果钻石飘逸地烧掉了，和石墨一样。拉瓦锡有一颗坚硬的心，他的实验击穿了“________”这一美丽的谎言。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"填入横线部分最恰当的广告词是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524279920870,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["爱她就给她最好的", "爱可倾城，钻石永恒", "不在乎天长地久，只在乎曾经拥有", "钻石恒久远，一颗永留传"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188039,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"记得有一阵经常加班，晚上回到家，已经错过饭点，家里人用不耐烦的腔调甩出一句：“怎么才回来？”这让我感觉很有压力，明明辛苦了一天筋疲力尽，回到家还要小心翼翼，承受家人情绪的暴力。当我忍不住说出这种感受时，我妈妈很吃惊：“我们怎么会对你不满呢？抱怨几句，是因为觉得你太辛苦呀。”可是，为什么我感受到的不是关心，而是被嫌弃呢！\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"对这段话所蕴含的道理概括最准确的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524299058295,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["及时沟通是消除误会的一剂良方", "好意还需好好表达", "恶语良言自带冷暖", "有些感情伤害往往来自不经意间"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187451,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"注入科学基因的文化项目，科学价值是基础，也是它的灵魂，如果这方面放松了或者做得不扎实，遗址公园就会失去生命力。正所谓“皮之不存，毛将焉附”。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"文中的“皮”和“毛”分别是指\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524279957435,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["科学研究  文化基因", "考古发掘  技术支持", "科学价值  文化项目", "科普教育  遗址公园"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188048,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"也许，谁也不会想到，“握手”这件在当今世界人际交往中发挥着很大作用且畅通无阻的“法宝”，在古代的中国却是非常耐人寻味的。众所周知，中国古人常用的见面礼仪是“作揖”，即两人相见，抱拳拱手，躬身施礼，更为隆重的见面礼仪便是跪拜乃至磕头。而“握手”却与丧葬有关。因此，从这个意义上说，______________。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"填入划横线部分最恰当的一项是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 3,
+  "createdTime": 1524299124423,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["古人对握手的使用发挥了想象力", "握手在古代是一个不吉利的动作", "现代握手礼仪是近代从西方传入", "握手不大可能促进人与人的交流"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187507,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"17、18世纪西方人十分渴望了解中国文化的方方面面，大量中国丝绸、瓷器和茶叶通过广州港出口至欧洲，中国人艺术化的生活用品，例如扇子、墙纸、漆器、家具等也随之西传，给欧洲人带去诗情画意的清新感受。当时欧洲的家居陈设，中国瓷器、漆器和墙纸都是十分时尚的物品，甚至在一些大型欧洲风景花园里，都会小规模地仿制中国建筑物来点缀其间。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字意在论证\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 3,
+  "createdTime": 1524280408847,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["17、18世纪中西文化的交融达到了鼎盛", "17、18世纪欧洲社会比较流行“中国风”", "17、18世纪中国还是一个较神秘的国度", "17、18世纪中国与欧洲商业交流很频繁"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187444,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"一项调查表明，自1960年以来，夏季奥运会的平均投入大约是52亿美元，这只是直接用于各种比赛场馆和奥运村的建设费用，不包括道路等相关基础设施建设的开支。绝大多数主办城市的最终投入都会超支，且平均超支高达\",\"children\":[]},{\"name\":\"tex\",\"value\":\"GWBO360plnKudeBzireIng==?widthRatio=2.286&heightRatio=1.286\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字能直接说明的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524279869483,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["规避奥运投资风险是世界性的难題", "主办奥运的高投入未必就有高回报", "主办奥运会意味着巨大的经费投入", "奥运场馆赛后利用曾经被寄予厚望"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188052,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"①近来，中国的一些网购、外卖也被曝出存在利用大数据“杀熟”的情况\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"②甚至反过来操控数据的提供者本身\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"③但脸书用户数据泄露这类丑闻让人们发现\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"④大数据分析曾被寄予厚望\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"⑤同一商品或服务对不同人显示不同的价格\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"⑥大数据可能被恶意利用\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"将以上6个句子重新排列，语序正确的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524299171354,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["①④②③⑤⑥", "④③②①⑥⑤", "④③⑥②①⑤", "①④②⑥③⑤"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187534,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"本来，小吃吸引人的地方，在于它的新鲜、特异，以及不同的口味。这种“不同”，不仅体现在与其他吃食不同，也同样体现在同一类小吃的口味差异上。好的小吃，绝非满大街的小吃摊都是一个味儿。这是中式小吃的特色所在，也是其难以“标准化”的根源所在。如果硬性规范、约束小吃，或许会克隆出一批小吃店，但很可能会以牺牲人的味蕾为代价。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"从这段文字可以看出作者的主要态度是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524281081219,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["反对小吃标准化", "小吃标准化不能一刀切", "鼓吹小吃标准化", "对小吃标准化表示担忧"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187527,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列句子中没有使用拟人修辞法的一项是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 3,
+  "createdTime": 1524280953547,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["我们睡着的时候，以为风睡了，树也睡了，以为日月星辰虎豹虫豸都睡着了。待拂晓醒来，天，已连夜画好了一幅朝霞", "“传统儿童游戏”不该只属于博物馆，利用好了，它也有春天", "冬天，花朵儿们并不躲懒。它们不太看重季节，春夏秋冬，开了落，落了开，一切都自然", "墙角处，花骨朵儿小小的头颅昂扬在细细的草茎上。风一吹，沾着的雨水轻轻滑落，花骨朵儿柔韧地颤动几下"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187448,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"近年来，支付科技发展迅猛，特别是随着生物识别技术的快速发展，人体固有的生理特性和行为特征也开始被用于金融创新。比如，俗称“刷脸”的人脸识别技术，易用性、普适性较强，目前已在身份核查、刷脸取款、刷脸支付等金融场景中得到应用。未来，包括指纹、人脸、声纹、静脉、虹膜等多种识别方式，将越来越多进入金融领域。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"对这段文字的理解最为准确的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279922613,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["生物识别技术在金融领城可谓应用前景广阔", "支付科技发展的最终结果就是“无现金社会”", "金融领域成为生物识别技术创新的“试验区”", "金融科技创新对个人隐私保护形成新的威胁"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188054,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"我的阅读经验告诉我，对经济学不见得要学到特别精深的程度，但是了解它的一些基本思维方法，无疑是一种改造自己世界观的最好武器。我们读一点经济学，接受了它的思维方法，就可以把自己从那种日常直觉中拯救出来，我们的世界立即焕然一新。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字表达的主要观点是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 6,
+  "createdTime": 1524299196624,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["经济学可以帮助我们纠正日常生活中产生的错觉", "学习经济学，第一步应该掌握它的基本思维方法", "经济学的基本思维方法可以改造一个人的世界观", "对于经济学，非专业人士懂一点它的皮毛就可以"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188057,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"凤，作为百鸟之王，自古便与龙纹相合成为华夏文明鲜明的文化符号。传说百鸟取下身上最漂亮的一支羽毛插于凤身，凤便成了世上最美丽的鸟。凤戏牡丹、鸾凤和鸣、游龙戏凤，这些耳熟能详的凤纹题材无不在我们的日常生活中彰显着某些吉祥寓意，这在我们的丝织文明中有着最直接的体现。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"接下来最有可能讲述的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524299217630,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["中国丝织文明中的凤纹题材", "古代凤纹题材的种类及图样", "中国丝织文明如何向西流传", "凤纹题材象征意义的演变史"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187454,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"用笔墨描绘，使理想的中国男人获得了一种完全不同于西方美男子的形象。或者轮廓柔和慈眉善目，或者高贵富态威风凛凛，或者瘦小精干骨骼清奇，\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                               \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。中国画家不对人写生，他们观察或想象，把性格特征牢牢记在心中，再画出来。他们想表现的不是生理特征和服饰外表，而是人的心相。工笔也好，写意也罢，重点在传神。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"填入划横线部分最恰当的一句是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524279996843,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["画的是人，表达的是画家的价值观", "中式审美与帅气无关，与传神有关", "国画中美髯？可以有；腹肌？不存在", "画家心目中的理想男人与俊美无关"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187460,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"泱泱中华五千年，诞生了数不清的灿烂文化，楚文化是其中一朵奇葩。从河姆渡文化开启的漆器历史中，楚漆器又是其中一座高峰。髹饰绝艳的漆器，展示出楚人精湛的造物技术和清奇的美学品格，传达出无与伦比的智慧和自由浪漫的精神。楚漆器的造型艺术和审美追求，是楚文化“巫、道、骚”三种思想相互交织的集中体现\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字意在说明\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280032012,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["楚漆器有非凡的思想性艺术性", "漆文化堪称楚文化的金字塔尖", "楚漆器是漆文化中的典型代表", "楚文化究竟是怎样的一朵奇葩"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188034,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"有位作家说：“负能量是在鞭笞别人的不好、责骂社会的不公；正能量是在讲完后告诉你，即使再苦，我依旧可以通过努力去改变一些。”有人先天是乐观向上的，当身边出现越来越多的负能量的人时，你会发现他很快就会显示出一副疲惫的状态。那是因为情绪最容易感染人，当人总是处在这样的氛围时，心情也就自然容易变得抑郁起来。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字的言外之意是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 6,
+  "createdTime": 1524299025728,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["要鄙视那些充满负能量的人", "负能量的消极影响显而易见", "人的情绪均由客观事物引起", "要靠近那些富有正能量的人"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187481,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"瘙痒是令人非常难受的，但从生物进化的角度来看，如果瘙痒带给生物体的只是负面的影响，为什么会在进化过程中保留下来呢?实际上，瘙痒是保护个体生存的一道非常重要的防线，瘙痒所诱发的搔抓行为可以把已经入侵皮肤的一些有害物质去掉，因此\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                                   \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"填入横线处最恰当的一项是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 6,
+  "createdTime": 1524280111130,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["瘙痒对动物个体生存也有积极作用", "瘙痒对人类健康来说可谓喜忧参半", "瘙痒虽令人感到不适却能增强体质", "生物的进化过程总要在博弈中完成"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188041,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"最容易吸引人们快乐的是那些能迅速实现的快感，也就是通过金钱消费能立刻得到的物质层面的满足。但是，这种对快感的追求，其实很难使我们获得真正意义上的满足感。而这种对消费的追逐却最能侵占我们的心灵，让我们深陷其中并且乐此不疲。其实，更深层次的满足感源于那些非具象的快乐。例如，经过不懈的努力最后在考试中取得好成绩；或者挑战自己的极限，完成了一个实现突破自我的作品，等等。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"以下说法与原文不相符的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 6,
+  "createdTime": 1524299062626,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["一味追逐过度消费，无法获得真正快乐", "全身心投入到工作让人有深层次满足感", "休息和娱乐能让大多数人感到真正快乐", "经过不懈努力取得成功会让人真正满足"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188045,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"我在家常常一人站在窗前向楼下看，安静的院子里有一群流浪猫。流浪猫有其自己的生活。天蒙蒙亮时就会慵懒地走动，等待好心人送来的猫粮。它们三五成群，吃饱了就打打闹闹，累了就找地歇息，高高兴兴地过上一天。我发现其中有一只花猫不怎么合群，老是独自游走或静卧幽处，仿佛心里有事。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这是一篇文章的开头，接下来最可能讲述的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524299102830,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["这群流浪猫的奇闻趣事", "人怎样与动物和谐相处", "楼下为什么聚集流浪猫", "那只不合群的猫的故事"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188050,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"如今的年轻人，难免面对着工作的压力、竞争的焦虑以及对成功的渴望等，选择嘻哈作为一种放松的方式，无可厚非。嘻哈也是属于年轻人的文化，其中蕴含着对公平正义的追求和对自由的渴望。某些说唱者认为血腥暴力、毒品色情正是嘻哈文化的特色，但这种想法恰恰偏离了嘻哈的本质，嘻哈文化真正关注的是人们真实经历的喜怒哀乐，它是给予个人自由与激情，和平与爱的一种信仰。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字针对的社会现象是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524299150094,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["低俗的嘻哈在世界范围内遭到了抵制", "嘻哈文化在年轻人中受欢迎的程度高", "某些说唱者把低俗当嘻哈文化的特色", "把脏话当态度，拿低俗当个性的风气"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187464,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"我曾经有一个坏习惯：不是在晚饭后坐在沙发上看手机，就是睡觉前躺在床上看手机——打开微信，将当天的朋友圈从头看到尾，一直刷到没有新动态为止；打开微博，看看谁因为什么又上了热搜榜；打开头条，看看它推送给我的星座分析······结果可想而知，时间轻松被刷没，除了一堆无用的信息，我什么也没得到。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字意在说明\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524280052514,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["玩物丧志的说法是有一定道理的", "智能手机使打发时间变得很容易", "做没有意义的事无异于慢性自杀", "不应沉迷于那些没有价值的信息"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188033,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"对第一段的主要观点概括最准确的是\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195113,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"阅读下面的短文，回答\",\"children\":[]}]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"56-60\",\"children\":[]}]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"题\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"互联网江湖，永远不缺风口。2018年伊始，直播答题迅速成为全民娱乐，一批“撞脸”的APP几乎同时出现，参与人数与专场奖金均进入百万量级。有人说，这是一场知识“买卖”的狂欢。知识消费，挺好。这种手机版“开心辞典”，在直播平台上爆发出新的生命力，是一次不错的创新尝试。但仔细一想，知识“买卖”就是一种买卖，只是它穿着知识的外衣，通过娱乐的方式，打着商业的算盘，玩着资本的游戏，收割着用户的注意力。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"进入移动互联时代，中国在互联网应用上的创新取得了惊人成就，外国人眼中的“新四大发明”中，就有3个来自互联网，创新活力可窥一斑。然而，“一窝蜂式创新”同样存在，低质化、同质化竞争反复出现，每当新风口出现，大家蜂拥而入，但模式基本相同，门槛低，比烧钱，却较少顾及更完善的体验、不一样的设计，以及持续创新能力的培育，全民答题热就面临这样的\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"担忧\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"烧钱时，一窝蜂进入；没钱了，一窝蜂散去。大浪淘沙之后，气短力竭的玩家黯然退场，活下来的选手再瓜分地盘，这样的竞争很“市场”，但就是这样的“一窝峰”，很容易造成资源的极大浪费和社会治理成本的激增。产生的后果，不得不由我们所有人来承受。正因如此，许多所谓创新在走红的同时，吐槽和质疑纷飞伴舞，也在情理之中。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"以利相交，利尽则散；以心相交，友不失矣。火热的知识消费模式，需要更高的知识含量，互联网应用的创新，也需要更加走心。否则，利尽则友散，所谓的创新产品也就如浮萍一般，\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                                  \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524299012202,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["直播答题成为互联网业新“风口”", "直播答题是天下熙熙，皆为利来", "直播答题是知识搭台，资本唱戏", "直播答题是“开心辞典”的翻版"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188036,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"第二段中“担忧”的对象\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不包括\",\"children\":[]}]}]}]}",
+  "material": {
+    "id": 195113,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"阅读下面的短文，回答\",\"children\":[]}]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"56-60\",\"children\":[]}]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"题\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"互联网江湖，永远不缺风口。2018年伊始，直播答题迅速成为全民娱乐，一批“撞脸”的APP几乎同时出现，参与人数与专场奖金均进入百万量级。有人说，这是一场知识“买卖”的狂欢。知识消费，挺好。这种手机版“开心辞典”，在直播平台上爆发出新的生命力，是一次不错的创新尝试。但仔细一想，知识“买卖”就是一种买卖，只是它穿着知识的外衣，通过娱乐的方式，打着商业的算盘，玩着资本的游戏，收割着用户的注意力。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"进入移动互联时代，中国在互联网应用上的创新取得了惊人成就，外国人眼中的“新四大发明”中，就有3个来自互联网，创新活力可窥一斑。然而，“一窝蜂式创新”同样存在，低质化、同质化竞争反复出现，每当新风口出现，大家蜂拥而入，但模式基本相同，门槛低，比烧钱，却较少顾及更完善的体验、不一样的设计，以及持续创新能力的培育，全民答题热就面临这样的\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"担忧\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"烧钱时，一窝蜂进入；没钱了，一窝蜂散去。大浪淘沙之后，气短力竭的玩家黯然退场，活下来的选手再瓜分地盘，这样的竞争很“市场”，但就是这样的“一窝峰”，很容易造成资源的极大浪费和社会治理成本的激增。产生的后果，不得不由我们所有人来承受。正因如此，许多所谓创新在走红的同时，吐槽和质疑纷飞伴舞，也在情理之中。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"以利相交，利尽则散；以心相交，友不失矣。火热的知识消费模式，需要更高的知识含量，互联网应用的创新，也需要更加走心。否则，利尽则友散，所谓的创新产品也就如浮萍一般，\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                                  \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524299036875,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["直播答题游戏的用户体验难尽人意", "直播答题节目跟风式创新后劲乏力", "直播答题平台管理缺乏完善的制度", "直播答题游戏的品牌异质性不突出"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188037,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"能从第三段文字得出的结论是\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195113,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"阅读下面的短文，回答\",\"children\":[]}]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"56-60\",\"children\":[]}]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"题\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"互联网江湖，永远不缺风口。2018年伊始，直播答题迅速成为全民娱乐，一批“撞脸”的APP几乎同时出现，参与人数与专场奖金均进入百万量级。有人说，这是一场知识“买卖”的狂欢。知识消费，挺好。这种手机版“开心辞典”，在直播平台上爆发出新的生命力，是一次不错的创新尝试。但仔细一想，知识“买卖”就是一种买卖，只是它穿着知识的外衣，通过娱乐的方式，打着商业的算盘，玩着资本的游戏，收割着用户的注意力。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"进入移动互联时代，中国在互联网应用上的创新取得了惊人成就，外国人眼中的“新四大发明”中，就有3个来自互联网，创新活力可窥一斑。然而，“一窝蜂式创新”同样存在，低质化、同质化竞争反复出现，每当新风口出现，大家蜂拥而入，但模式基本相同，门槛低，比烧钱，却较少顾及更完善的体验、不一样的设计，以及持续创新能力的培育，全民答题热就面临这样的\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"担忧\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"烧钱时，一窝蜂进入；没钱了，一窝蜂散去。大浪淘沙之后，气短力竭的玩家黯然退场，活下来的选手再瓜分地盘，这样的竞争很“市场”，但就是这样的“一窝峰”，很容易造成资源的极大浪费和社会治理成本的激增。产生的后果，不得不由我们所有人来承受。正因如此，许多所谓创新在走红的同时，吐槽和质疑纷飞伴舞，也在情理之中。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"以利相交，利尽则散；以心相交，友不失矣。火热的知识消费模式，需要更高的知识含量，互联网应用的创新，也需要更加走心。否则，利尽则友散，所谓的创新产品也就如浮萍一般，\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                                  \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524299056100,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["直播答题因其自身的缺陷而遭到吐槽和质疑", "互联网业没有不靠撒币就能生存的商业模式", "知识竞猜节目不会成为大众娱乐的主流方式", "直播答题将在爆发式野蛮生长后被政策严管"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188043,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"填入第四段横线处最恰当的一项是\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195113,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"阅读下面的短文，回答\",\"children\":[]}]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"56-60\",\"children\":[]}]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"题\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"互联网江湖，永远不缺风口。2018年伊始，直播答题迅速成为全民娱乐，一批“撞脸”的APP几乎同时出现，参与人数与专场奖金均进入百万量级。有人说，这是一场知识“买卖”的狂欢。知识消费，挺好。这种手机版“开心辞典”，在直播平台上爆发出新的生命力，是一次不错的创新尝试。但仔细一想，知识“买卖”就是一种买卖，只是它穿着知识的外衣，通过娱乐的方式，打着商业的算盘，玩着资本的游戏，收割着用户的注意力。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"进入移动互联时代，中国在互联网应用上的创新取得了惊人成就，外国人眼中的“新四大发明”中，就有3个来自互联网，创新活力可窥一斑。然而，“一窝蜂式创新”同样存在，低质化、同质化竞争反复出现，每当新风口出现，大家蜂拥而入，但模式基本相同，门槛低，比烧钱，却较少顾及更完善的体验、不一样的设计，以及持续创新能力的培育，全民答题热就面临这样的\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"担忧\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"烧钱时，一窝蜂进入；没钱了，一窝蜂散去。大浪淘沙之后，气短力竭的玩家黯然退场，活下来的选手再瓜分地盘，这样的竞争很“市场”，但就是这样的“一窝峰”，很容易造成资源的极大浪费和社会治理成本的激增。产生的后果，不得不由我们所有人来承受。正因如此，许多所谓创新在走红的同时，吐槽和质疑纷飞伴舞，也在情理之中。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"以利相交，利尽则散；以心相交，友不失矣。火热的知识消费模式，需要更高的知识含量，互联网应用的创新，也需要更加走心。否则，利尽则友散，所谓的创新产品也就如浮萍一般，\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                                  \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524299073137,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["成为互联网经济大潮中的裸泳者", "极易被雨打风吹去", "只能无奈的随波逐流", "在行业大战中自生自灭"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188044,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"最适合做这篇短文标题的是\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195113,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"阅读下面的短文，回答\",\"children\":[]}]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"56-60\",\"children\":[]}]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"题\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"互联网江湖，永远不缺风口。2018年伊始，直播答题迅速成为全民娱乐，一批“撞脸”的APP几乎同时出现，参与人数与专场奖金均进入百万量级。有人说，这是一场知识“买卖”的狂欢。知识消费，挺好。这种手机版“开心辞典”，在直播平台上爆发出新的生命力，是一次不错的创新尝试。但仔细一想，知识“买卖”就是一种买卖，只是它穿着知识的外衣，通过娱乐的方式，打着商业的算盘，玩着资本的游戏，收割着用户的注意力。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"进入移动互联时代，中国在互联网应用上的创新取得了惊人成就，外国人眼中的“新四大发明”中，就有3个来自互联网，创新活力可窥一斑。然而，“一窝蜂式创新”同样存在，低质化、同质化竞争反复出现，每当新风口出现，大家蜂拥而入，但模式基本相同，门槛低，比烧钱，却较少顾及更完善的体验、不一样的设计，以及持续创新能力的培育，全民答题热就面临这样的\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"担忧\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"烧钱时，一窝蜂进入；没钱了，一窝蜂散去。大浪淘沙之后，气短力竭的玩家黯然退场，活下来的选手再瓜分地盘，这样的竞争很“市场”，但就是这样的“一窝峰”，很容易造成资源的极大浪费和社会治理成本的激增。产生的后果，不得不由我们所有人来承受。正因如此，许多所谓创新在走红的同时，吐槽和质疑纷飞伴舞，也在情理之中。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"以利相交，利尽则散；以心相交，友不失矣。火热的知识消费模式，需要更高的知识含量，互联网应用的创新，也需要更加走心。否则，利尽则友散，所谓的创新产品也就如浮萍一般，\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                                  \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524299102010,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["直播答题游戏，创新的前提是用心", "互联网创新，一哄而上必行之不远", "互联网“风口上的猪”，不那么好当", "直播答题爆红又速死，折射了什么"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187456,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"噪光，是指环境中超过人体的生理承受范围，使人感到厌烦，进而对人的心理或生理健康产生一定影响乃至危害的光辐射现象。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不属于\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"噪光的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280007825,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["调酒师在酒吧工作时，在旋转灯、魔球灯的彩光照射下，他感觉头晕恶心", "行人在街上行走时，路边建筑物的单向透视玻璃反射阳光，使他感觉目眩", "司机在驾驶过程中，车辆灯光照射到玻璃幕墙上形成反光，使他产生幻觉", "建筑工人在施工时，在阳光下操作起重机升降的过程中，他感觉光线耀眼"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188084,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"柏金赫现象，是指人眼在低照明水平时，会产生视感觉的敏感性向光谱蓝端迁移的现象。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列利用了柏金赫现象的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524300376083,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["将同样的红玫瑰花，印制在薄尼龙纱窗及粗厚的沙发织物上，可以形成既配套又独具材质变化魅力的装饰效果", "面积较大的房间，使用奶黄、浅咖啡色等暖色调来装修，既可以使人感到温馨愉快，又可以避免给人以空旷感", "创作一幅用于悬挂在较暗室内环境中的磨漆画时，在色彩构成方面，选用蓝、绿等冷色调优于红、橙等暖色调", "医院手术室环境及医护人员工作服都选用蓝绿色，可以使医生注视了蓝绿色后，更易看清细小的血管、神经等"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188085,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"轻率概括，是指在没有积累足以进行概括的材料的情况下，只依据少数个例就草率地作出普遍性结论的一种逻辑错误。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不属于\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"轻率概括的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524300448965,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["做微商都很容易赚钱！我的一个亲戚，年初开始做微商，现在已经买车了", "为了与2000万精英做共同的选择，请赶快来购买我们的在线付费课程吧", "我的朋友说她的哲学课很难，我的哲学课也很难，可见哲学课必定都很难", "我几乎每天都吃汉堡，但是我的体重却没有变，所以吃汉堡不会导致肥胖"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188088,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"艺术直觉是人们在艺术活动中，对事物的特征、本质、意义，不经过逻辑推理和分析而直接地感受和领悟。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列属于艺术直觉的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524300472243,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["某技术工人在一次技术操作中突然发现合理的操作方法", "某歌手经多次演出找到适合自己的歌唱方式和表演方式", "某游客在欣赏毕加索的画时突然领悟到作品的独特内涵", "某艺术鉴赏家通过多次对比发现了梵高绘画作品的特征"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188090,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"循环论证是一种逻辑错误，是指论据和论点不是相互独立，而是拥有相同的内容，其论证过程是用不同的语言重复一样的内容。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不属于\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"循环论证的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524300495137,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["你完全错了，因为你说得没有道理", "外星人是存在的，因为你证明不了他不存在", "你应该相信世上有神，因为神确实是存在的", "他不值得你这么爱他，因为他不配"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188078,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"市场行为：购买：销售\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524300289306,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["修辞：夸张：排比", "思想家：孔子：政治家", "飞机：汽车：轮船", "无机物：硫铁矿：氨基酸"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187426,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"缺锌：生长迟缓\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279571857,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["成年：参加选举", "吃药：感冒痊愈", "迁徙：季节变化", "加热：温度升高"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187430,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"若明若暗：雾里看花\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279612314,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["如醉如梦：一清二楚", "如日中天：日薄西山", "如火如荼：无声无息", "如履薄冰：如临深渊"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188081,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"混合物：空气\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524300318577,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["财务报表：利润表", "金属：绝缘体", "合唱团：团员", "满族：维吾尔族"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188082,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"紫外线 对于（  ），相当于 单晶体 对于（  ）\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524300343815,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["臭氧层  晶体", "电磁波  石英", "可见光  非晶体", "红外线  石墨"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188105,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"①痛定思痛募武丁\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"②国富军弱遭欺凌\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"③苛求稳定罢刀兵\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"④将兵奋发起五更\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"⑤报效沙场边疆宁\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524301014579,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["②①④⑤③", "③②④⑤①", "②④①⑤③", "③②①④⑤"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188106,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"①双手交叠之后，推及患者的上腹部\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"②反复地实施，直至阻塞物吐出为止\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"③冲击压力使腹部残留空气形成气流\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"④立即从后方环抱住患者，进行急救\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"⑤气道阻塞造成窒息，患者意识清醒\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524301040943,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["⑤④③①②", "④①③②⑤", "⑤④①③②", "④③②①⑤"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188107,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"①合成两种额外的抗原蛋白\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"②进行基因工程技术的改造\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"③准确找到并杀死肿瘤细胞\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"④将患者自身的T细胞取出\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"⑤大量扩增注射回患者体内\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524301060601,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["②①④③⑤", "④②①⑤③", "④①②③⑤", "②①④⑤③"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188108,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"①水土流失人烟稀少\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"②生态破坏日趋荒芜\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"③宣战沙漠憧憬家园\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"④气候温润草丰木茂\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"⑤四方牧者纷至沓来\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524301080907,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["④⑤②①③", "③②①⑤④", "③④⑤①②", "①②③⑤④"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188109,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"①某国的家庭规模不断地缩小\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"②便利店市场的增长势头持续\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"③前往大超市采购的需求降低\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"④生育率和结婚率不断地降低\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"⑤倾向近距离小批量购买模式\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524301104342,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["④①②⑤③", "①④⑤③②", "①④③②⑤", "④①③⑤②"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188086,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"某公司公布了公司员工年终考核结果，现择其一部分内容列表如下：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e7cc7ff1c14c.png?width=433&height=111\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述信息，下列论断最为准确的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524300465524,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["由于所列人员分处不同的年龄段，所以所列的考核结果一定是所有的考核结果类型", "由于所列人员不一定展示所有的考核结果类型，所以所列的考核结果可能不是所有的考核结果类型", "由于所列人员并非公司的所有人员，所以所列的考核结果一定不是所有的考核结果类型", "由于所列人员涉及了所有的部门，所以所列的考核结果一定是所有的考核结果类型"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187445,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"脊髓性肌萎缩症是一种罕见的致死性遗传病，大多数患儿活不到20个月。近日，有研究人员使用一种新的基因疗法，研发了一种生物技术药物Spinraza，通过在患者脊髓周边注射给药，Spinraza使73名受试患者中的近一半患者不同程度的恢复了运动机能。研究人员据此得出结论：这种新的基因疗法将为脊髓性肌萎缩症的治疗带来突破性进展。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"以下哪项如果为真，最能支持上述论证\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279891244,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["该项研究的具体程序设计较为科学合理", "这种基因疗法也可用于其他疾病的治疗", "美国药监局已经批准了这一新药的上市", "对照组的所有患者都没有恢复运动机能"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187455,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在一场关于“传承和创新哪个更重要”的辩论赛中，正方和反方进行了激烈的辩论。正方二辩在发言中提出一种观点：“先后性就等于重要性。”\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"作为对上述观点的反驳，以下最为有力的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280005452,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["吃一碗面，加点醋是必要的。但你说是以吃面为主，还是以吃醋为主？", "我必须先拧开瓶盖，才能喝到水。这不正说明拧瓶盖是必要的步骤吗？", "正所谓“雄鸡一唱天下白”，但你总不能说天白就是雄鸡唱出来的吧！", "我穿鞋时总习惯先穿左脚，再穿右脚，这就说明左脚比右脚更重要吗？"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188095,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"长江后浪推前浪，一代更比一代强。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列与题干论证方法相同的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524300628940,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["鹬蚌相争，渔翁得利", "少壮不努力，老大徒伤悲", "路遥知马力，日久见人心", "一叶障目，不见泰山"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188096,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在某公司的一次会议上，甲说：“我们部门的工作不受重视，什么事总是低人一头！”乙听了说：“你不想低人一头，那就只能选择努力高人一头了。”\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"与题干中乙所犯的逻辑错误相同的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524300644037,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["文学作品的叙述方法，不是顺叙，就是倒叙，二者必居其一", "经验主义不能一概反对。例如，工作经验就不应该反对", "我很相信一位哲人的名言：世界上没有任何东西是可信的", "凡是犯罪行为都是违法行为，所以违法行为都是犯罪行为"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188122,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"某出版商认为：加工成本在近5年上升了\",\"children\":[]},{\"name\":\"tex\",\"value\":\"8lHCgOBfm9m7Uj4N/Y2Pwg==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"~\",\"children\":[]},{\"name\":\"tex\",\"value\":\"/sbV9mpAKQaj5NnLRN4r/g==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；原材料成本上升了\",\"children\":[]},{\"name\":\"tex\",\"value\":\"8lHCgOBfm9m7Uj4N/Y2Pwg==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"~\",\"children\":[]},{\"name\":\"tex\",\"value\":\"f7uV5w7yKIwGyEF/yOL1rg==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；销售及广告成本上升了\",\"children\":[]},{\"name\":\"tex\",\"value\":\"8lHCgOBfm9m7Uj4N/Y2Pwg==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"以上。将所有这些加起来的话，总成本至少上升了\",\"children\":[]},{\"name\":\"tex\",\"value\":\"nev9CXG69YgDgsl1FKM3pg==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。这仅是对大型出版社而言，如果是小出版社，总成本至少上升了\",\"children\":[]},{\"name\":\"tex\",\"value\":\"bZbhz+hbnkZ/uS4m6A5+BA==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。可见，书价的上涨主要是成本的上涨造成的，因此我反对提高作家的版权收入。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"对上述论证的评价，最恰当的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524301938836,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["未提供加工成本上涨的具体证据", "忽略了导致书价上涨的其他原因", "错误地计算了总成本上涨的比例", "忽略了对中型出版社的统计数据"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188123,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"社会经济越是发展，一个企业越是要勇于承担责任，产品的品质、品牌、社会责任，这三样一个都不能少，少了任何一个，消费者都不会买单。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下面哪项陈述，最能削弱以上观点\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524301959522,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["某名牌企业被检出产品的质量不达标，产品销售量明显降低", "某企业产品的质量较差，但凭借促销手段，销售量持续增长", "某名牌企业一直依法纳税，热心公益事业，销售量稳步提升", "某名牌企业在被曝出偷税漏税丑闻后，产品销售量明显降低"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187475,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"光镊是用高度会聚的激光束形成的三维势阱来俘获、操纵和控制微小颗粒的一项技术。与机械镊子相比，光镊是以非机械接触的方式来完成夹持和操纵细胞的，它先对目标细胞进行非接触式的捕获和固定，再对细胞进行精确的操作。因为光镊对细胞产生的损伤非常小，所以在生命科学研究中，几乎所有的单细胞操作都采用光镊的方式来进行操控。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"由此可以推出\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280092789,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["所有对细胞进行精确操作的方法，对细胞的损伤都非常小", "对目标细胞进行非接触式的捕获和固定只能使用光镊方式", "几乎所有的非单细胞操作都不采用光镊的方式来进行操控", "所有以机械接触方式来夹持和操纵细胞的都不是光镊方式"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187467,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"某企业拟开设4门培训课程：《企业文化培训》《劳动法培训》《商务礼仪培训》《销售培训》。员工甲乙丙丁4人各选修了其中一门课程。已知：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"①他们4人选修的课程各不相同；\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"②法律专业毕业的丙选修的是非法律类课程；\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"③甲选修的不是《企业文化培训》就是《商务礼仪培训》。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"补充以下哪个条件，能确定丙选修的是《销售培训》\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280064963,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["丁选修的不是《劳动法培训》", "丁选修的是《企业文化培训》", "丁选修的是《劳动法培训》", "丁选修的不是《销售培训》"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187477,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"文化自信是主体对自身文化的认同、肯定和坚守。文化自觉是文化自信的前提，没有深刻的文化自觉，就不可能有高度的文化自信。没有高度的文化自信，就没有文化的繁荣昌盛，就没有中华民族的伟大复兴。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"由上文推知，下列一定正确的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280100208,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["没有文化的繁荣昌盛，就一定没有深刻的文化自觉", "只要有了高度的文化自信，就会有文化的繁荣昌盛", "没有深刻的文化自觉，就没有中华民族的伟大复兴", "有了高度的文化自信，就会有中华民族的伟大复兴"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188071,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2.1，3.4，（  ），8.16，13.25\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524299840112,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["4.3", "7.8", "5.9", "5.1"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188072,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"1，3，4，8，15，27，（  ）\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524299875710,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["45", "65", "58", "50"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188073,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"VTrdua9N5EDHg65xKeLgBTM97XTe+DYBUh6qrSwzUmk=?widthRatio=0.714&heightRatio=2.0\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，\",\"children\":[]},{\"name\":\"tex\",\"value\":\"f9t9mlCUgGOhsL5stx/Co7deeN0INw18b567K/bu4Vg=?widthRatio=0.714&heightRatio=2.0\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，\",\"children\":[]},{\"name\":\"tex\",\"value\":\"L0pydOm94yzpxlGjCLz2nRjSPZdlmidoi0G7c2v0zUQ=?widthRatio=1.143&heightRatio=2.0\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，（  ），\",\"children\":[]},{\"name\":\"tex\",\"value\":\"5QAdIOyPj382wowgMMbFTQJrtOXZn2zJflPYPBp5Exc=?widthRatio=1.643&heightRatio=2.0\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524300072049,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"HrFmwfuSx6AmvBX5KHwZfh31trHC60eHpgs374I8U+Y=?widthRatio=1.143&heightRatio=2.0\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"aLwKia4h0MD2bn60EAnr1qO66t86IE5lv3OIAzRD/U8=?widthRatio=1.143&heightRatio=2.0\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"+eede57Vvm/0NyYvwVnB+VvyJKg1g6OGvaKYTAEtd0w=?widthRatio=1.143&heightRatio=2.0\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"eYhJ+K24Mt6myod4vSUG8ZL2VOn6cS16ORudu4HWyas=?widthRatio=1.143&heightRatio=2.0\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188076,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"8LOZvfaA060x3KUZsCwudJ0rlt7eVdAqpKOvBVsRV4U=?widthRatio=0.714&heightRatio=2.0\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，\",\"children\":[]},{\"name\":\"tex\",\"value\":\"8LOZvfaA060x3KUZsCwudJ0rlt7eVdAqpKOvBVsRV4U=?widthRatio=0.714&heightRatio=2.0\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，\",\"children\":[]},{\"name\":\"tex\",\"value\":\"gGd4hQXm4rCGVPjyFz21LHUM//V5gN+zXNKmmiKMvOs=?widthRatio=1.143&heightRatio=2.0\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，（  ），\",\"children\":[]},{\"name\":\"tex\",\"value\":\"1dkan7+Cg2heMnwWPn+NwUTVqS5jV8vEjnEv53LH4lM=?widthRatio=1.143&heightRatio=2.0\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，\",\"children\":[]},{\"name\":\"tex\",\"value\":\"4WgL0axWxKHg3nJh3vNrX/Qn5dYPwJgkCV/ckl7YsEA=?widthRatio=1.143&heightRatio=2.0\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524300230054,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"z4vhNuZMmWmLbJJ5jfwNs+4AYfgE0WQP047JdZPOctc=?widthRatio=1.143&heightRatio=2.0\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"XqCxfBBOTNRxN0YOrX+OdREQ82+M2fwsxptXSRfNTbo=?widthRatio=1.143&heightRatio=2.0\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"3FgYsk4wPYjOa5QSO8vHZk17ORl6tqtNecBvWq2DkzQ=?widthRatio=1.143&heightRatio=2.0\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"M6rK8MLw+XFXdnTWqOexlBp8na+nPNQLDzTKYSBf4PM=?widthRatio=1.143&heightRatio=2.0\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188079,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"1，\",\"children\":[]},{\"name\":\"tex\",\"value\":\"4HxptsXXGVzE18Uu2hj3h6C5Sxg2DM0D87ElHtd7URI=?widthRatio=0.714&heightRatio=2.0\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，3，2，7，5，（  ），（  ），31，23\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524300300678,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["6，7", "15，11", "10，11", "7，9"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188083,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"某景区门票定价为每位游客100元。节假日按团队人数采取以下优惠办法：10人及以下的团队按照原价售票，超过10人的团队，其中10人按原价售票，超过10人部分的游客按照8折售票。某导游在10月1日带团到该景点旅游，买门票花掉2600元，则该旅游团共有游客\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524300346724,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["15人", "30人", "25人", "20人"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187567,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"一长方形纸板长为4cm，宽为3cm，将其折叠后，折痕为AF，如图所示，则阴影三角形的周长是\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e6eb297587d9.png?width=276&height=225\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524282011399,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"E4dfche4evkKEuXfbh/mFw==?widthRatio=2.286&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"HDipPnP96HvFgfBwewTOeQ==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"NZl7VJz3NKVPAoV2hnTCkfOzZQeeCkb6V1GuDHXjIpA=?widthRatio=2.286&heightRatio=2.0\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"Om0pVoPsE/hF1cbVZvzHzfvsmH2E+QPSZwUzYqJBv6o=?widthRatio=5.5&heightRatio=1.286\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188074,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"某单位财务主管准备去办理公积金业务，他在时钟的时针和分针重合时准时出发，当他办理完业务返回时，时针刚好旋转30度，此时分针旋转过的角度是时针旋转过的角度的\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524300100537,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["8倍", "15倍", "12倍", "10倍"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2188075,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"一位乒乓球学员手中拿着装有7只乒乓球的不透明口袋，其中3只黄球，4只白球。他随机取出一只乒乓球，观察颜色后放回袋中，同时放入2只与取出的球同色的球。这样连续取2次，则他取出的两只球中第1次取出的是白球，第2次取出的是黄球的概率是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524300180446,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"Uksb+En5FMJBMFHgF+DsGnR3HlY0Uanv2sFiMlamotk=?widthRatio=1.143&heightRatio=2.0\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"CuSc1A/hcI7YMlXnggOUbqDXEo6J0rtL5BUbazv1fJk=?widthRatio=1.143&heightRatio=2.0\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"v8tEU26vY72HZmGAnEvgj5kdUasI9AnVq39TvnH8cyY=?widthRatio=1.143&heightRatio=2.0\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"EZ6TibqyEruFEQG0AW4Hl3x0kET+l7dQjPeKpUUtOqk=?widthRatio=0.714&heightRatio=2.0\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188080,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"将5个不同颜色的锦囊放入4个不同的锦盒里，如果允许锦盒是空的，则所有可能的放置方法有\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524300304798,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"rkc+kGU75Lxrg+7Qb4hXmw==?widthRatio=1.214&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"种\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"Th0KP/St3C72+sDWNJHTcQ==?widthRatio=0.929&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"种\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"nTuYRK8wepTRBxc5TVHCXg==?widthRatio=0.929&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"种\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"y7frZFKeyWrw45YqFXzeNA==?widthRatio=1.143&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"种\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188098,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"中国民营企业500强出口总额增速最快的年份是\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195114,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据下面资料回答96-100题\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2017年8月24日，全国工商联发布《2017中国民营企业500强》榜单。2016年，民营企业500强出口总额出现大幅回升，达到1495.4亿美元，占我国出口总额的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NZwqNUc1aCEogRAry5W79w==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，较2015年增加395.79亿美元，增幅为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"Gsfs3fpKEI0cXHAur4Q26w==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，海外投资项目达到1659项，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NUDPuLEjlpvsrP2TFaaKRw==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；投资总额达515.32亿美元；进行海外投资的企业数量也比2015年的201家增加了113家。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        据统计，民营企业500强中，共有210家企业参与“一带一路”建设。从地区分布看，有144家企业分别位于浙江、江苏、广东、山东和福建等东部沿海经济发达地区。从行业分布看，有121家企业为制造业企业，有25家建筑业企业。另外，有287家民营企业在未来三年对于“一带一路”有投资意向，比2015年增加28家，比2015年提高5.6个百分点。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e77f3af18dce.png?width=889&height=623\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e76dfc0b9cdb.png?width=1002&height=569\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 3,
+  "createdTime": 1524300712705,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["2013年", "2016年", "2015年", "2014年"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188099,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2015年我国民营企业500强出口总额约为\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195114,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据下面资料回答96-100题\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2017年8月24日，全国工商联发布《2017中国民营企业500强》榜单。2016年，民营企业500强出口总额出现大幅回升，达到1495.4亿美元，占我国出口总额的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NZwqNUc1aCEogRAry5W79w==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，较2015年增加395.79亿美元，增幅为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"Gsfs3fpKEI0cXHAur4Q26w==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，海外投资项目达到1659项，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NUDPuLEjlpvsrP2TFaaKRw==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；投资总额达515.32亿美元；进行海外投资的企业数量也比2015年的201家增加了113家。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        据统计，民营企业500强中，共有210家企业参与“一带一路”建设。从地区分布看，有144家企业分别位于浙江、江苏、广东、山东和福建等东部沿海经济发达地区。从行业分布看，有121家企业为制造业企业，有25家建筑业企业。另外，有287家民营企业在未来三年对于“一带一路”有投资意向，比2015年增加28家，比2015年提高5.6个百分点。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e77f3af18dce.png?width=889&height=623\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e76dfc0b9cdb.png?width=1002&height=569\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 3,
+  "createdTime": 1524300732847,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["1070亿美元", "2085亿美元", "1177亿美元", "1100亿美元"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2188100,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2016年，民营企业500强海外投资企业平均每家投资金额约为\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195114,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据下面资料回答96-100题\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2017年8月24日，全国工商联发布《2017中国民营企业500强》榜单。2016年，民营企业500强出口总额出现大幅回升，达到1495.4亿美元，占我国出口总额的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NZwqNUc1aCEogRAry5W79w==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，较2015年增加395.79亿美元，增幅为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"Gsfs3fpKEI0cXHAur4Q26w==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，海外投资项目达到1659项，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NUDPuLEjlpvsrP2TFaaKRw==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；投资总额达515.32亿美元；进行海外投资的企业数量也比2015年的201家增加了113家。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        据统计，民营企业500强中，共有210家企业参与“一带一路”建设。从地区分布看，有144家企业分别位于浙江、江苏、广东、山东和福建等东部沿海经济发达地区。从行业分布看，有121家企业为制造业企业，有25家建筑业企业。另外，有287家民营企业在未来三年对于“一带一路”有投资意向，比2015年增加28家，比2015年提高5.6个百分点。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e77f3af18dce.png?width=889&height=623\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e76dfc0b9cdb.png?width=1002&height=569\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524300750228,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["1.6亿美元", "4.6亿美元", "3.6亿美元", "2.6亿美元"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2188101,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2016年与2014年相比，民营企业500强出口总额呈现出\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195114,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据下面资料回答96-100题\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2017年8月24日，全国工商联发布《2017中国民营企业500强》榜单。2016年，民营企业500强出口总额出现大幅回升，达到1495.4亿美元，占我国出口总额的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NZwqNUc1aCEogRAry5W79w==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，较2015年增加395.79亿美元，增幅为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"Gsfs3fpKEI0cXHAur4Q26w==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，海外投资项目达到1659项，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NUDPuLEjlpvsrP2TFaaKRw==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；投资总额达515.32亿美元；进行海外投资的企业数量也比2015年的201家增加了113家。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        据统计，民营企业500强中，共有210家企业参与“一带一路”建设。从地区分布看，有144家企业分别位于浙江、江苏、广东、山东和福建等东部沿海经济发达地区。从行业分布看，有121家企业为制造业企业，有25家建筑业企业。另外，有287家民营企业在未来三年对于“一带一路”有投资意向，比2015年增加28家，比2015年提高5.6个百分点。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e77f3af18dce.png?width=889&height=623\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e76dfc0b9cdb.png?width=1002&height=569\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524300769201,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["增量提高、增速变大", "增量减少、增速变小", "增量减少、增速变大", "增量提高、增速变小"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2188102,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列说法\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"错误\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195114,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据下面资料回答96-100题\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2017年8月24日，全国工商联发布《2017中国民营企业500强》榜单。2016年，民营企业500强出口总额出现大幅回升，达到1495.4亿美元，占我国出口总额的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NZwqNUc1aCEogRAry5W79w==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，较2015年增加395.79亿美元，增幅为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"Gsfs3fpKEI0cXHAur4Q26w==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，海外投资项目达到1659项，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NUDPuLEjlpvsrP2TFaaKRw==?widthRatio=3.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；投资总额达515.32亿美元；进行海外投资的企业数量也比2015年的201家增加了113家。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        据统计，民营企业500强中，共有210家企业参与“一带一路”建设。从地区分布看，有144家企业分别位于浙江、江苏、广东、山东和福建等东部沿海经济发达地区。从行业分布看，有121家企业为制造业企业，有25家建筑业企业。另外，有287家民营企业在未来三年对于“一带一路”有投资意向，比2015年增加28家，比2015年提高5.6个百分点。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e77f3af18dce.png?width=889&height=623\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e76dfc0b9cdb.png?width=1002&height=569\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524300797612,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["2016年，参与“一带一路”的民营企业500强中制造业企业占据半壁江山", "2016年，参与“一带一路”的民营企业500强中东部沿海发达地区居多", "参与“一带一路”民营企业500强中，江浙地区的发展比广东后劲强劲", "2011-2016年间，民营企业500强出口总额及增速均呈起伏变动"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}]

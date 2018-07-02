@@ -1,0 +1,1721 @@
+[{
+  "id": 2187413,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"习近平主席在一系列重要讲话和文章中引经据典，展现了独特的语言风格和人格魅力。他在博鳌亚洲论坛2018年年会中讲到“幸福和美好不会自己出现，成功属于勇敢而笃行的人”时，引用的经典名句是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279221397,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["但愿苍生俱饱暖，不辞辛苦出山林", "修其心治其身，而后可以为政于天下", "积土而为山，积水而为海", "其身正，不令而行；其身不正，虽令不从"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187416,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"国务院机构改革优化了创新引擎。一方面，重组科学技术部，加强、优化、转变政府科技管理和服务职能；另一方面，重组国家知识产权局，强化知识产权创造、保护和运用，让“第一动力”更有劲头。这段话蕴含的哲理是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279253554,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["社会存在状况决定社会意识", "上层建筑应与经济基础相适应", "生产关系应与生产力相适应", "社会意识一定要适应社会存在"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187418,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在十三届全国人大一次会议上，宪法修正案经表决，获得高票通过。此次宪法修改的一项重要内容就是将习近平新时代中国特色社会主义思想载入国家根本法，体现党和国家事业发展的新成就、新经验、新要求，在总体保持宪法的连续性、稳定性、权威性的基础上推动宪法与时俱进，完善发展。宪法修改体现的哲理是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279306380,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["事物发展的本质是克服", "事物发展的本质是抛弃", "事物发展的本质是扬弃", "事物发展的本质是保留"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187419,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"以“也门撤侨”的真实事件改编的军事题材的电影《红海行动》，展现了人民解放军官兵不畏危险、不畏艰苦，宁可牺牲自己，也要捍卫国家荣誉，保卫人民安全。该影片叫好又叫座，这表明\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279357562,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["观众的喜好是评判艺术作品优秀与否的根本标准", "艺术作品的创作需要立足于社会生活实践", "艺术作品的创作需要源于作家的创新思维", "维护和平的共同心愿是创作优秀艺术作品的源泉"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187421,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"习近平主席曾用“牛顿力学三定律”来阐述中德关系的大方向：一是牢牢把握中德合作的“\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"      \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"”；二是通过深化务实合作提升中德关系的“\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"      \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"”；三是减少两国关系发展的“\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"      \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"”。将下列力学概念依次填入横线处，正确的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279394413,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["惯性  加速度  反作用力", "惯性  合外力  作用力", "速度  加速度  作用力", "速度  合外力  反作用力"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187392,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"公元前3世纪，古希腊数学家欧几里得提出：“三角形内角之和等于180度。”19世纪，德国数学家黎曼提出：“在球面上，三角形内角之和大于180度。”后来，俄国数学家罗巴切夫斯基又提出：“在凹面上，三角形内角之和小于180度。”这一认识过程说明\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524278560734,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["真理具有绝对性", "真理具有唯一性", "真理具有客观性", "真理具有相对性"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187393,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"某电视专题片介绍了三位富有诗书才华的古代帝王，片中先后出现了《玉树后庭花》“千古词帝”“瘦金体”等内容。这三位帝王分别是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524278582444,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["南朝梁武帝萧衍、南唐后主李煜、隋炀帝杨广", "南朝陈后主陈叔宝、南唐后主李煜、宋徽宗赵佶", "魏文帝曹丕、南朝陈后主陈叔宝、唐玄宗李隆基", "南朝梁武帝萧衍、唐玄宗李隆基、宋徽宗赵佶"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187394,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列流行语与其所反映的哲理对应\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"错误\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524278604322,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["正能量——发挥社会意识正确导向作用", "新常态——静止的、无条件的", "接地气——从实际出发，密切联系群众", "中国式——共性寓于个性之中"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187400,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列加划线的称谓使用正确的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524278820132,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"顾恺之是中国美术史上画人物的\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"宗师\",\"children\":[]}]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"她向人夸赞道：“\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"家夫\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"为人十分谦和。”\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"皇后谓皇帝道：“\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"哀家\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"不便干涉朝政。”\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"海灯法师曾经是观雾山极乐寺的\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"主持\",\"children\":[]}]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187401,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列表述的内容与自身民族生活相符合的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524278835598,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["壮族同胞说：“‘三月三’歌节是我们传统的盛大节日”", "朝鲜族同胞说：“我们种的莲雾又获得丰收”", "黎族同胞说：“我们每年举行盛大的赛马会”", "高山族同胞说：“我们用青稞酒招待远方来客”"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187395,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列对联悬挂于不同的省份，其中对应\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"错误\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524278717192,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["只手挽残局，常归谈笑；鞠躬悲尽瘁，剩有讴歌——四川", "风声雨声读书声声声入耳，家事国事天下事事事关心——江苏", "青山有幸埋忠骨，白铁无辜铸佞人——浙江", "对江楼阁参天立，全楚山河缩地来——湖南"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187396,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列诗句中，“青”字代表的颜色依次是\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"①高堂明镜悲白发，朝如青丝暮成雪\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"②青云杳杳无力飞，白露苍苍抱枝宿\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"③两个黄鹂鸣翠柳，一行白鹭上青天\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"④两岸青山相对出，孤帆一片日边来\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524278766792,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["白色、黑色、绿色、蓝色", "白色、黑色、蓝色、绿色", "黑色、白色、蓝色、绿色", "黑色、白色、绿色、蓝色"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187397,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列做法符合公文处理规则的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524278784185,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["县民政局向本县所属乡镇政府发布指令性公文", "镇党委书记以党委负责人名义向县委报送公文", "镇政府向县政府报送的报告中带有请示事项", "县科技局和林业局联合行文中只标注了主办机关的发文字号"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187398,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"某高校行政管理专业开展研究性教学活动，老师让学生提出关于“如何提升基层政府公信力”的建议。在学生给出的建议中，\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"错误\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524278801270,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["接受监督，让群众成为决策主体", "注重诚信，避免“塔西佗陷阱”", "关注民生，提高行政管理能力", "优化服务，与群众保持和谐关系"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187399,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"某面馆每位服务员胸前都佩戴一个牌子，上面印有二维码，并写着“感谢打赏3元”的字样。每当顾客用完餐结账时，服务员就会建议顾客扫码打赏。从法律角度看， 这种扫码打赏属于\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524278818896,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["侵犯了消费者的合法权益", "消费者的道德义务", "赠与行为", "不合法的变相收费"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187403,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"甲国国家领导人出访乙国，乙国的接待做法\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不符合\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"涉外交际礼仪惯例的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524278977526,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["邀请甲国领导人发表演讲时，将演讲台放置于主席台的右前方", "用轿车接送时，安排甲国领导人坐后排右座，翻译坐副驾驶座", "面对行进方向，在轿车右侧悬挂甲国国旗，左侧悬挂乙国国旗", "在乙国安排的招待宴会上，应将甲国领导人安排在主位的左侧"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187404,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"发源于长白山的松花江滋养了东北大地，与东北人的生活息息相关。下列关于松花江表述\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"错误\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279004816,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["松花江是东北境内航运价值较大的河流", "松花江流域属温带大陆性季风气候", "松花江是中国黑龙江最小的支流", "吉林市位于松花江沿岸"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187405,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"“个性化定制”就在我们身边，“互联网+”大背景下，我们可以张扬更多的个性，从一件T恤到一本书，只要你愿意，生活中就会充满惊喜。这种消费属于\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279029573,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["求异心理引发的消费", "攀比心理引发的消费", "从众心理引发的消费", "求同心理引发的消费"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187406,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列区域中，地热资源、太阳能、水能资源均丰富的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279050953,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["塔里木盆地", "海南岛", "青藏高原", "四川盆地"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187407,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"关于人的大脑，下列说法正确的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279072469,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["男性大脑比女性大脑更适合学数学", "成人也能够长出新的脑细胞", "昏迷其实是一种深度睡眠", "有人是左脑型性格，有人是右脑型性格"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187402,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"食品添加剂被誉为现代食品工业的灵魂。下列食品工业中所应用的食品添加剂与其所属类型，对应\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"错误\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524278854237,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["制作罐头时使用的山梨酸钾——防腐剂", "制作香肠时使用的谷氨酸钠——增味剂", "制作老豆腐时使用的盐卤——凝固剂", "制作面包时使用的碳酸氢钠——酸度调节剂"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187408,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"关于维生素，下列说法\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"错误\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279106764,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"维生素\",\"children\":[]},{\"name\":\"tex\",\"value\":\"J8WVYH/UfLHFbGCSBP0iIA==?widthRatio=1.143&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"可用于治疗脚气病\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"维生素\",\"children\":[]},{\"name\":\"tex\",\"value\":\"tV/RTxcJ1mkeL4RfVW8DTA==?widthRatio=1.143&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"可用于治疗周围神经炎\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"维生素\",\"children\":[]},{\"name\":\"tex\",\"value\":\"pi/GsQ3apuRt43V3XQq/tA==?widthRatio=0.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"可用于防治夜盲症\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"维生素\",\"children\":[]},{\"name\":\"tex\",\"value\":\"VawXZm4blBbRxee6GdlxNg==?widthRatio=1.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"可用于治疗巨幼细胞性贫血\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187410,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"钛和钛合金被誉为21世纪最有前途的金属材料。它具有熔点高、抗腐蚀能力强等特点，尤其与人体器官具有很好的生物相容性。下列用途\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不切合\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"实际的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279151219,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["钛可以用来制造人造膝关节", "钛合金用于制造潜艇的壳体", "极细的钛粉是造火箭的材料", "钛往往被用来制作钢化玻璃"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187412,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"生态环境部正在制定蓝天保卫战三年作战计划。下列措施\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不利于\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"“蓝天保卫战”的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279184018,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["开发利用新能源汽车", "加大石油、天然气、煤炭的开采力度", "大力实施绿化工程", "让水、风、光在能源生产中发挥重要作用"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187414,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"超市卖的农产品包装上，有的贴“绿色食品”，有的贴“有机食品”，有的贴“无公害食品”。绿色食品、有机食品、无公害食品标准对产品的要求由高到低依次排列为\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279226633,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["无公害食品、有机食品、绿色食品", "绿色食品、无公害食品、有机食品", "绿色食品、有机食品、无公害食品", "有机食品、绿色食品、无公害食品"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187461,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"填入划横线部分最恰当的一项是\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"“愤怒”是对德国作家格拉斯个人风格的准确概括。然而，在他的盖棺之作《万物归一》里，这种“愤怒”似乎已经不那么\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"了。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524280043040,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["司空见惯", "锋芒毕露", "引人注目", "显而易见"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187482,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"填入划横线部分最恰当的一项是\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"“移风易俗”的口号喊了很多年，然而好的“新民俗”能否诞生，不但需要有良好的愿望，还要有懂得民俗心理的“新创意”。这种创意，既衔接传统文化，又紧搭时代脉搏。唯有如此，才有可能让这种“新民俗”\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280114426,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["久盛不衰", "约定俗成", "相沿成俗", "蔚然成风"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187489,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一组是\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"让城市温暖起来，无须轰轰烈烈。每一种安顿都来自家园的呼唤，那些让人嫣然一笑的都市情愫，无论白天黑夜，都会在心头热乎乎地弥漫。就像芦苇或者巴茅，生在水乡泽国或深山老林，那叫\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"；生在闹市区，那就有了表情，会笑，会唱歌，会舞蹈，会流露出一座城市的\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280185555,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["天然  情之所钟", "原味  生机勃勃", "纯净  丰富多彩", "本色  情深意长"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187495,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一组是\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"社会在变，家庭也在变。但不管交通如何便捷，通信如何发达，过年回家，都是每个家庭最\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的梦想。此后时空流转，纵使百转千回，改善生活也好，追逐理想也罢，走出去的中国人，还是会被故土的浓烈情思所\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524280267080,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["朴实  牵绊", "终极  引领", "美好  吸引", "寻常  羁绊"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187500,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一组是\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在文化大交融的南北朝时期，被完全汉化的箜篌逐渐成为中原民族定型的传统乐器。箜篌最辉煌的岁月是在唐朝，\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"           \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"在民间也很流行，\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"           \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"会弹奏箜篌是衡量一个女子有才学的标志之一。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524280342908,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["即使  甚至", "由此  还将", "哪怕  是否", "不但  而且"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187511,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一组是\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"“山一程，水一程，身向榆关那畔行，夜深千帐灯。”在文化节目《经典咏流传》的舞台上，当纳兰性德的《长相思·山一程》被棋手柯洁用深情的歌声唱出时，这句\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                  \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的词句还是给予我惊艳和陌生。那份数百年前的故园情思、羁旅感慨因悠扬的旋律被再度激活，令人\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                  \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280475769,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["耳熟能详  耳目一新", "耳闻能诵  赏心悦目", "目知眼见  心旷神怡", "驾轻就熟  焕然一新"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187512,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一组是\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"语言系统其实具有自我\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"           \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"能力，随着时间推移，会自然通过分层过滤，淘尽渣滓，淬炼真金。虽然如此，当下部分网络语言带来的负面影响仍\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280676923,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["消化  沸沸扬扬", "再生  揣摩不透", "修复  接踵而至", "净化  不可小觑"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187515,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一组是\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"文化节目应当追求“慢”与“深”，要坚持自主原创、应提高外国版权引进门槛、\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"               \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"进行本土化改造和创新，实现从“模式引进”到“中国创造”的改变，并形成\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"           \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的竞争力、传播力和影响力。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280750806,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["精雕细琢  持久", "群策群力  强劲", "洋为中用  良性", "因地制宜  广泛"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187498,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一组是\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"红色文化是中国特色社会主义文化的有机组成部分，是中国共产党人留给中华儿女最宝贵的精神财富。正在兴起的红色旅游正是三者的完美结合，“旅游”是____，“文化”是____，“红色”是____。大众在饱览祖国大好河山的同时，可以了解中国共产党为人民利益而奋斗的光辉历史，激发心底的爱国热情。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280306496,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["载体  血液  内涵", "介质  灵魂  标志", "平台  基因  传统", "媒介  本质  特色"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187502,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"依次填入划横线部分最恰当的一组是\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"婺源被淡淡炊烟笼罩的马头墙、山间梯田____的线条、暮色中骑在牛背上的村童，俨然一幅山高水远的中国水墨画，_______；而瑶里古镇的光芒一直被婺源所遮掩，但正因如此，它才保留了最原始的美景。无论是水墨画一般的徽派建筑，还是保留原貌的小镇，都会给人带来一种____的感觉。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 6,
+  "createdTime": 1524280364491,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["丰富  浑然天成  亲切", "抽象  恍若隔世  纯朴", "奇妙  清新淡雅  怡人", "流畅  浓妆淡抹  惊艳"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187447,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"法国大革命前，化学家拉瓦锡用巨大的凸透镜把阳光聚焦在钻石上，结果钻石飘逸地烧掉了，和石墨一样。拉瓦锡有一颗坚硬的心，他的实验击穿了“________”这一美丽的谎言。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"填入横线部分最恰当的广告词是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524279920870,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["爱她就给她最好的", "爱可倾城，钻石永恒", "不在乎天长地久，只在乎曾经拥有", "钻石恒久远，一颗永留传"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187450,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"日前，我认真拜读了一位老领导的回忆录，为他认真做事的态度而深深感动。他曾是一位县委书记，后来担任了市长，可他的第一份工作却是生产队的记分员。所谓记分员，就是负责记录队员每日工作情况的农民。这个在旁人看来“不起眼”的工作，他却十分喜爱，干得起劲。记分，一丝不苟，不偏不漏，客观公正，做到了让队长满意，让群众满意。因此，6年后被提拔为公社干部。他在回忆录中写道：基层6年，为以后40多年的工作打下了坚实基础。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段话对做好机关工作最主要的启示是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279948981,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["要尽量把每一件事都做好", "要以客观公正为准则做事", "要认真做好“不起眼”的小事", "要从最基层的工作做起"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187448,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"近年来，支付科技发展迅猛，特别是随着生物识别技术的快速发展，人体固有的生理特性和行为特征也开始被用于金融创新。比如，俗称“刷脸”的人脸识别技术，易用性、普适性较强，目前已在身份核查、刷脸取款、刷脸支付等金融场景中得到应用。未来，包括指纹、人脸、声纹、静脉、虹膜等多种识别方式，将越来越多进入金融领域。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"对这段文字的理解最为准确的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279922613,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["生物识别技术在金融领城可谓应用前景广阔", "支付科技发展的最终结果就是“无现金社会”", "金融领域成为生物识别技术创新的“试验区”", "金融科技创新对个人隐私保护形成新的威胁"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187451,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"注入科学基因的文化项目，科学价值是基础，也是它的灵魂，如果这方面放松了或者做得不扎实，遗址公园就会失去生命力。正所谓“皮之不存，毛将焉附”。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"文中的“皮”和“毛”分别是指\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524279957435,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["科学研究  文化基因", "考古发掘  技术支持", "科学价值  文化项目", "科普教育  遗址公园"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187454,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"用笔墨描绘，使理想的中国男人获得了一种完全不同于西方美男子的形象。或者轮廓柔和慈眉善目，或者高贵富态威风凛凛，或者瘦小精干骨骼清奇，\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                               \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。中国画家不对人写生，他们观察或想象，把性格特征牢牢记在心中，再画出来。他们想表现的不是生理特征和服饰外表，而是人的心相。工笔也好，写意也罢，重点在传神。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"填入划横线部分最恰当的一句是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524279996843,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["画的是人，表达的是画家的价值观", "中式审美与帅气无关，与传神有关", "国画中美髯？可以有；腹肌？不存在", "画家心目中的理想男人与俊美无关"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187507,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"17、18世纪西方人十分渴望了解中国文化的方方面面，大量中国丝绸、瓷器和茶叶通过广州港出口至欧洲，中国人艺术化的生活用品，例如扇子、墙纸、漆器、家具等也随之西传，给欧洲人带去诗情画意的清新感受。当时欧洲的家居陈设，中国瓷器、漆器和墙纸都是十分时尚的物品，甚至在一些大型欧洲风景花园里，都会小规模地仿制中国建筑物来点缀其间。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字意在论证\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 3,
+  "createdTime": 1524280408847,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["17、18世纪中西文化的交融达到了鼎盛", "17、18世纪欧洲社会比较流行“中国风”", "17、18世纪中国还是一个较神秘的国度", "17、18世纪中国与欧洲商业交流很频繁"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187501,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"唐初名相娄师德，做兵部尚书时巡察并州，在当地与众人一起吃饭时，发现自己碗里的饭白且细，而他人的饭却黑且粗，就问属下。属下惶恐回答，仓促间没能准备更多浙米。娄说：有仓促的客人，没有仓促的主人嘛，吃粗饭有什么关系！便令人换粗饭来吃。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这个故事所蕴含的“为官理政”的道理有\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"①从来治国者，宁不忘渔樵\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"②为人臣者，以富民为功\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"③为上能自爱，群属必畏钳\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"④与百姓同其甘苦\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"⑤为政，通下情为急\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 6,
+  "createdTime": 1524280356620,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["①④⑤", "①③⑤", "③④⑤", "②④⑤"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187504,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"送餐员、网约车司机、网约厨师、保洁工、保健师……“网约工”已经形成了一种新的就业形态。但他们没有社会保险、不签劳动合同，因此遇事故常遭平台“甩锅”，医药费或修车费往往需要个人买单，对顾客投诉产生的罚款没有博弈和解释空间。这构成了一种吊诡的现象：不断穿梭在城市大街小巷的送餐员、网约车司机每天刷着存在感，却在权益保护上成为了隐形人。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字用“隐形人”来说明\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524280385760,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["工作平台对网约工的权益推卸了责任", "作为新的就业形态网约工还不被熟知", "网约工的权益保障是公共政策的难点", "网约工处于劳动权益保障的灰色地带"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187506,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在传统饮食文化中，“如何吃”的仪式和流程比“吃什么”还重要。寻常百姓，至少要做到孔子说的“食不言，寝不语”，招待客人，也要严格按照地位、辈分、官位等主次有序落座。吃个饭还这么累，现代青年人玩不起也玩不转这繁琐的饮食套路。外卖，把“怎么吃”的繁文缛节全部去掉了，直接回归了“吃什么”的本质。从品类来说，外卖的口味相当丰富，不输堂食。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"对这段文字的主旨概括最准确的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524280406550,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["“点外卖”正在改变中国传统饮食文化", "传统烹饪的精华无法在外卖中得到体现", "重视进餐仪式满足了审美与礼节的需求", "外卖已成为都市年轻人主流的饮食方式"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187509,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"①雨水刚刚过去，春的气息便扑面而来\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"②“好雨知时节，当春乃发生。”\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"③窗外淅沥的春雨，正映衬着杜甫的诗句，原来这春，已经来了\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"④也是，季节交替总是不经意悄悄地进行着，当你感觉到了时其实早已浸润了大地\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"⑤那春的讯息最先是在冬时就已经吐露花蕊的梅，所以才会有梅是专门来报春之说\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"将以上5个句子重新排列，语序正确的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524280425885,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["⑤③④①②", "①②③⑤④", "②①③⑤④", "③②①④⑤"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187534,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"本来，小吃吸引人的地方，在于它的新鲜、特异，以及不同的口味。这种“不同”，不仅体现在与其他吃食不同，也同样体现在同一类小吃的口味差异上。好的小吃，绝非满大街的小吃摊都是一个味儿。这是中式小吃的特色所在，也是其难以“标准化”的根源所在。如果硬性规范、约束小吃，或许会克隆出一批小吃店，但很可能会以牺牲人的味蕾为代价。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"从这段文字可以看出作者的主要态度是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524281081219,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["反对小吃标准化", "小吃标准化不能一刀切", "鼓吹小吃标准化", "对小吃标准化表示担忧"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187525,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"最近，一家英国公司用人工智能（AI）算法自动编写了《哈利·波特》续集——《哈利·波特与看起来像一大坨灰烬的肖像》。该公司表示，他们是想用AI与人类智慧结合的新手段制造出一些单凭人类或者电脑都无法实现的作品。虽然目前的《哈利·波特》续集有些四不像，但说不定在未来的文艺体系中，人机结合的作品真的能自成一派。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字意在表明\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280914152,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["AI小说充分体现了英国人的游戏精神", "人机结合的作品只能让读者啼笑皆非", "AI小说引起世界各大主流媒体的关注", "人机结合可能会成为创作的一种方式"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187527,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列句子中没有使用拟人修辞法的一项是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 3,
+  "createdTime": 1524280953547,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["我们睡着的时候，以为风睡了，树也睡了，以为日月星辰虎豹虫豸都睡着了。待拂晓醒来，天，已连夜画好了一幅朝霞", "“传统儿童游戏”不该只属于博物馆，利用好了，它也有春天", "冬天，花朵儿们并不躲懒。它们不太看重季节，春夏秋冬，开了落，落了开，一切都自然", "墙角处，花骨朵儿小小的头颅昂扬在细细的草茎上。风一吹，沾着的雨水轻轻滑落，花骨朵儿柔韧地颤动几下"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187529,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"阅读推广，是向公众提供的一项重要的阅读服务。每个社会成员，既是阅读推广的对象，也是阅读推广的触角。实践已经证明，让每个社会成员养成阅读的自觉和习惯，把阅读当作日常生活不可或缺的内容，是阅读推广中最难的事情，其难度远远超过阅读氛围的营造。而这件难事，也恰恰最有价值。社会成员若无自觉和习惯，全民阅读可能就只停滞于想象层面，这显然不利于书香杜会的建设。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据文意，作者认为阅读推广最难的事是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280986717,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["阅读服务的提升", "阅读习惯的养成", "阅读氛围的营造", "阅读价值的创造"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187531,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"马赛克留给中国大众的印象，或是广泛使用在建筑外墙、卫浴装修中的装饰建材，或是图像被模糊成一个个小格子，少有人想起它的艺术属性。其实在西方，镶嵌艺术历史悠久，尤以镶嵌壁画最多。近现代，镶嵌艺术在墨西哥、西班牙、俄罗斯、美国、日本等国都有杰出展现。每个国家因应本国不同的文化传统与材料资源在镶嵌工艺上的不同发挥，成就镶嵌壁画艺术更加多元的面貌。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这是一篇文章的开头，接下来最可能谈论的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524281015342,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["马赛克在镶嵌壁画艺术创作中的应用", "西方国家马赛克镶嵌艺术的发展历史", "中国发展马赛克镶嵌艺术的资源条件", "镶嵌壁面创作对镶嵌材料的特殊要求"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187444,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"一项调查表明，自1960年以来，夏季奥运会的平均投入大约是52亿美元，这只是直接用于各种比赛场馆和奥运村的建设费用，不包括道路等相关基础设施建设的开支。绝大多数主办城市的最终投入都会超支，且平均超支高达\",\"children\":[]},{\"name\":\"tex\",\"value\":\"GWBO360plnKudeBzireIng==?widthRatio=2.286&heightRatio=1.286\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字能直接说明的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524279869483,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["规避奥运投资风险是世界性的难題", "主办奥运的高投入未必就有高回报", "主办奥运会意味着巨大的经费投入", "奥运场馆赛后利用曾经被寄予厚望"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187452,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"社会生活的变迁，也深刻影响着艺术创作。改革开放以来，随着城乡之间融合发展步伐的加快，人民生活获得巨大改善。①与此同时，城乡居民的日常生活模式也在逐渐趋同。②类似的生活模式导致类似美术作品的出现。③以此解释艺术创作趋同的现象，似乎有其合理性，但必须意识到，艺术绝不是机械地反映生活。④仅仅把目之所见的生活片段记录下来，固然是对生活的反映，但只是浅层次的再现，说明作者对生活的理解还很肤浅。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"“艺术是生活的反映”是文中的一句话，其最恰当的位置是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279981885,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["③", "②", "①", "④"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187460,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"泱泱中华五千年，诞生了数不清的灿烂文化，楚文化是其中一朵奇葩。从河姆渡文化开启的漆器历史中，楚漆器又是其中一座高峰。髹饰绝艳的漆器，展示出楚人精湛的造物技术和清奇的美学品格，传达出无与伦比的智慧和自由浪漫的精神。楚漆器的造型艺术和审美追求，是楚文化“巫、道、骚”三种思想相互交织的集中体现\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字意在说明\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280032012,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["楚漆器有非凡的思想性艺术性", "漆文化堪称楚文化的金字塔尖", "楚漆器是漆文化中的典型代表", "楚文化究竟是怎样的一朵奇葩"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187464,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"我曾经有一个坏习惯：不是在晚饭后坐在沙发上看手机，就是睡觉前躺在床上看手机——打开微信，将当天的朋友圈从头看到尾，一直刷到没有新动态为止；打开微博，看看谁因为什么又上了热搜榜；打开头条，看看它推送给我的星座分析······结果可想而知，时间轻松被刷没，除了一堆无用的信息，我什么也没得到。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字意在说明\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524280052514,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["玩物丧志的说法是有一定道理的", "智能手机使打发时间变得很容易", "做没有意义的事无异于慢性自杀", "不应沉迷于那些没有价值的信息"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187481,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"瘙痒是令人非常难受的，但从生物进化的角度来看，如果瘙痒带给生物体的只是负面的影响，为什么会在进化过程中保留下来呢?实际上，瘙痒是保护个体生存的一道非常重要的防线，瘙痒所诱发的搔抓行为可以把已经入侵皮肤的一些有害物质去掉，因此\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                                   \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"填入横线处最恰当的一项是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 6,
+  "createdTime": 1524280111130,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["瘙痒对动物个体生存也有积极作用", "瘙痒对人类健康来说可谓喜忧参半", "瘙痒虽令人感到不适却能增强体质", "生物的进化过程总要在博弈中完成"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187514,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"填入第一段横线处最恰当的一组是\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195078,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"组建文化和旅游部，是新一轮国务院机构改革的重头戏之一。不过，新部门尚未正式“揭开\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\" ”，朋友圈里的一张图片倒是为这个部门\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"了一把。看着照片里的“文化和旅游部”，很多网友\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"：“诗和远方终于在一起了。”\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"网友的感叹很有道理，诗属于文化范畴，而旅游总是关于远方的。其实，这并不仅仅是文字游戏，也寄托了人们对这个新成立部门的希望、对未来生活的向往。旅游和文化越来越接近了，或者说它已经成为广义文化的一部分。诗和远方在一起，美好的灵魂和美好的地方在一起，这就注定了这个部门的职责和人们正在日益增长的对美好生活的需求息息相关。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"“诗和远方在一起”的蕴涵是惬意的，但是文化和旅游部处处关系着人们对生活的体验与感知，注定不会是清闲的。中国的文化、旅游业已经发展到一个庞大的体量，而且未来的发展速度可能会更快。而这个过程中也需要解决不少棘手的问题。比如，很多人怀着一腔诗意去了远方，却被远方旅游景区的宰客以及种种糟糕的体验败尽兴致。这就是“怀着诗意去远方，远方却让你没诗意”。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"······ \",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"此前，文化部和国家旅游局各司其职，如今在一块“新的牌子”下聚合，意味着一种重新出发。“诗和远方”是人们的美好祝愿、美好期待，而要实现“诗意”地抵达，却需要风雨兼程。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524280736580,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["盖头  预热  打趣", "帷幕  预演  戏言", "谜底  彩排  揶揄", "面纱  热身  调侃"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187517,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列陈述与第二段内容无关的一项是\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195078,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"组建文化和旅游部，是新一轮国务院机构改革的重头戏之一。不过，新部门尚未正式“揭开\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\" ”，朋友圈里的一张图片倒是为这个部门\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"了一把。看着照片里的“文化和旅游部”，很多网友\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"：“诗和远方终于在一起了。”\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"网友的感叹很有道理，诗属于文化范畴，而旅游总是关于远方的。其实，这并不仅仅是文字游戏，也寄托了人们对这个新成立部门的希望、对未来生活的向往。旅游和文化越来越接近了，或者说它已经成为广义文化的一部分。诗和远方在一起，美好的灵魂和美好的地方在一起，这就注定了这个部门的职责和人们正在日益增长的对美好生活的需求息息相关。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"“诗和远方在一起”的蕴涵是惬意的，但是文化和旅游部处处关系着人们对生活的体验与感知，注定不会是清闲的。中国的文化、旅游业已经发展到一个庞大的体量，而且未来的发展速度可能会更快。而这个过程中也需要解决不少棘手的问题。比如，很多人怀着一腔诗意去了远方，却被远方旅游景区的宰客以及种种糟糕的体验败尽兴致。这就是“怀着诗意去远方，远方却让你没诗意”。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"······ \",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"此前，文化部和国家旅游局各司其职，如今在一块“新的牌子”下聚合，意味着一种重新出发。“诗和远方”是人们的美好祝愿、美好期待，而要实现“诗意”地抵达，却需要风雨兼程。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280790825,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["人们对美好生活的需求使旅游的文化属性日益突出", "“诗和远方在一起”表达了人们对美好生活的新期待", "满足群众对美好生活的需求是“新部门”的责任", "进入大众旅游时代以来我国文化旅游在持续升温"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187519,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"第三段文字意在说明\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195078,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"组建文化和旅游部，是新一轮国务院机构改革的重头戏之一。不过，新部门尚未正式“揭开\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\" ”，朋友圈里的一张图片倒是为这个部门\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"了一把。看着照片里的“文化和旅游部”，很多网友\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"：“诗和远方终于在一起了。”\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"网友的感叹很有道理，诗属于文化范畴，而旅游总是关于远方的。其实，这并不仅仅是文字游戏，也寄托了人们对这个新成立部门的希望、对未来生活的向往。旅游和文化越来越接近了，或者说它已经成为广义文化的一部分。诗和远方在一起，美好的灵魂和美好的地方在一起，这就注定了这个部门的职责和人们正在日益增长的对美好生活的需求息息相关。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"“诗和远方在一起”的蕴涵是惬意的，但是文化和旅游部处处关系着人们对生活的体验与感知，注定不会是清闲的。中国的文化、旅游业已经发展到一个庞大的体量，而且未来的发展速度可能会更快。而这个过程中也需要解决不少棘手的问题。比如，很多人怀着一腔诗意去了远方，却被远方旅游景区的宰客以及种种糟糕的体验败尽兴致。这就是“怀着诗意去远方，远方却让你没诗意”。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"······ \",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"此前，文化部和国家旅游局各司其职，如今在一块“新的牌子”下聚合，意味着一种重新出发。“诗和远方”是人们的美好祝愿、美好期待，而要实现“诗意”地抵达，却需要风雨兼程。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280828471,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["旅游产品因质量问题而使消费体验大打折扣", "文化和旅游部肩负引领旅游业发展的重任", "中国旅游业的发展规模和速度前所未有", "旅游从业者的服务意识和服务水平亟待提高"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187521,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"文中的省略号代表略去的第四段，这段最可能强调的是\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195078,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"组建文化和旅游部，是新一轮国务院机构改革的重头戏之一。不过，新部门尚未正式“揭开\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\" ”，朋友圈里的一张图片倒是为这个部门\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"了一把。看着照片里的“文化和旅游部”，很多网友\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"：“诗和远方终于在一起了。”\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"网友的感叹很有道理，诗属于文化范畴，而旅游总是关于远方的。其实，这并不仅仅是文字游戏，也寄托了人们对这个新成立部门的希望、对未来生活的向往。旅游和文化越来越接近了，或者说它已经成为广义文化的一部分。诗和远方在一起，美好的灵魂和美好的地方在一起，这就注定了这个部门的职责和人们正在日益增长的对美好生活的需求息息相关。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"“诗和远方在一起”的蕴涵是惬意的，但是文化和旅游部处处关系着人们对生活的体验与感知，注定不会是清闲的。中国的文化、旅游业已经发展到一个庞大的体量，而且未来的发展速度可能会更快。而这个过程中也需要解决不少棘手的问题。比如，很多人怀着一腔诗意去了远方，却被远方旅游景区的宰客以及种种糟糕的体验败尽兴致。这就是“怀着诗意去远方，远方却让你没诗意”。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"······ \",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"此前，文化部和国家旅游局各司其职，如今在一块“新的牌子”下聚合，意味着一种重新出发。“诗和远方”是人们的美好祝愿、美好期待，而要实现“诗意”地抵达，却需要风雨兼程。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280850486,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["旅游景区需要通过产业升级来创造品牌效应", "旅游服务企业可以协会制度来强化行业自律", "文化和旅游部需以更完善的制度来加强监管", "广大旅游者应提高维权意识以保障自身权益"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187524,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"最适合做这篇短文标题的是\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195078,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"组建文化和旅游部，是新一轮国务院机构改革的重头戏之一。不过，新部门尚未正式“揭开\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\" ”，朋友圈里的一张图片倒是为这个部门\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"了一把。看着照片里的“文化和旅游部”，很多网友\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"：“诗和远方终于在一起了。”\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"网友的感叹很有道理，诗属于文化范畴，而旅游总是关于远方的。其实，这并不仅仅是文字游戏，也寄托了人们对这个新成立部门的希望、对未来生活的向往。旅游和文化越来越接近了，或者说它已经成为广义文化的一部分。诗和远方在一起，美好的灵魂和美好的地方在一起，这就注定了这个部门的职责和人们正在日益增长的对美好生活的需求息息相关。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"“诗和远方在一起”的蕴涵是惬意的，但是文化和旅游部处处关系着人们对生活的体验与感知，注定不会是清闲的。中国的文化、旅游业已经发展到一个庞大的体量，而且未来的发展速度可能会更快。而这个过程中也需要解决不少棘手的问题。比如，很多人怀着一腔诗意去了远方，却被远方旅游景区的宰客以及种种糟糕的体验败尽兴致。这就是“怀着诗意去远方，远方却让你没诗意”。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"······ \",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"此前，文化部和国家旅游局各司其职，如今在一块“新的牌子”下聚合，意味着一种重新出发。“诗和远方”是人们的美好祝愿、美好期待，而要实现“诗意”地抵达，却需要风雨兼程。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280891946,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"文化\",\"children\":[]},{\"name\":\"tex\",\"value\":\"BtzJZPM8PjZ/5w9M2YJSYQ==?widthRatio=0.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"旅游，开启中国文旅产业新时代\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"请与“诗和远方”约会吧\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"“诗和远方在一起”，是一种可预期的美好\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"“诗和远方在一起”，是对新部门的美好期待\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187456,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"噪光，是指环境中超过人体的生理承受范围，使人感到厌烦，进而对人的心理或生理健康产生一定影响乃至危害的光辐射现象。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不属于\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"噪光的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280007825,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["调酒师在酒吧工作时，在旋转灯、魔球灯的彩光照射下，他感觉头晕恶心", "行人在街上行走时，路边建筑物的单向透视玻璃反射阳光，使他感觉目眩", "司机在驾驶过程中，车辆灯光照射到玻璃幕墙上形成反光，使他产生幻觉", "建筑工人在施工时，在阳光下操作起重机升降的过程中，他感觉光线耀眼"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187458,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"反向谬论，是指依据某观点若成立(或不成立)所产生的结果好坏，来判断一个观点是否正确的一种逻辑错误。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列存在反向谬论的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280029287,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["因为你迟到，客户生气了，公司损失一个大合同，所以都是你的错", "尽管担心加税会对选民生活产生不利影响，政治家仍表示支持加税", "如果你不听我的话，我就会扣你的零用钱，所以你听我的话是对的", "自从做眼保健操以来，我的视力急剧地下降，可见做眼保健操不好"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187474,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"墙面色彩的确定，首先要考虑房间的朝向。南向和东向的房间，光照充足，墙面宜采用浅蓝、浅绿等冷色调；北向房间，墙面应以奶黄等暖色调为主。墙面的色彩对于家具起背景衬托作用，所以宜用浅色调。另外，宽敞的房间采用暖色装修，可以避免给人以空旷感；面积小的房间采用冷色装修，在视觉上让人感觉大一些。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列最符合上述室内色彩设计基本原则的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280089717,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["南向的大餐厅，墙面使用浅蓝色", "北向的小卧室，墙面使用浅蓝色", "东向的小书房，墙面使用浅绿色", "西向的大客厅，墙面使用深蓝色"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187480,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"众数是一组数据中出现次数最多的一个数据。平均数是一组数据中表示平均每份的数量。中位数是一组数据按大小顺序排列，位于最中间的一个数据。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列说法\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"错误\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280107249,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["平均数说明的是整体的平均水平，中位数说明的是生活中的中等水平", "日常生活中诸如“最佳”“最受欢迎”的评选，一般都与众数有关系", "平均数通过计算得出，中位数通过排序得出，众数是通过计数得出的", "个别极端数据对平均数的影响不明显，对众数和中位数的影响则较大"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187484,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"众包，是指公司或者机构把原来由员工执行的工作任务，以自愿的形式外包给非特定大众网络的一种合作模式。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列属于众包的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280126840,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["某公司面向网络平台上的广大汽车爱好者，募集合作者，专门为公司研发的一款新型概念车进行功能定义和命名", "高校教师小王为了参加一场业余模特大赛，通过微信联系了高中同学小丽，请她帮忙设计了一套漂亮的参赛服装", "以系统研发为核心竞争力的软件公司M，雇用了另一家网站开发实力较强的H公司，为自己公司进行网站架构", "美国芝加哥的某T恤公司拥有一个庞大的T恤爱好者网络社区，每天都会收到不同爱好者发来的大量交流信息"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187488,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"稻草人谬误，是指反驳者在没有任何证据或推理可用时，偷换对方的论点，然后把这个论点当作是对方的论点加以推翻的一种逻辑错误。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列反驳中存在稻草人谬误的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280184251,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"正方：心灵美比外表美更重要。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"反方：你是说你愿意娶一个奇丑的女人？多么荒谬！\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"正方：“距离产生美”这句话正确吗？\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"反方：那你说，如果距离不产生美，那能产生什么？\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"正方：某大学开设了炒作学专业，所以炒作是有益的。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"反方：某大学还开设了犯罪学专业呢！犯罪也有益？\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"正方：请对方辩友正面回答我的问题！\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"反方：对方的观点根本就是无稽之谈，不需要回答。\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187497,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"哲学家史蒂芬·图尔敏认为：一个清晰完整的论证包括六个部分：主张、根据、担保、反驳、佐证和强度。六个部分之间的关系如下：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e65dd074065b.png?width=566&height=407\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上图，下列说法错误的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280303415,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["强度用以评估主张的可靠程度", "佐证是支持担保的事实或理由", "根据及其担保是论证的出发点", "反驳旨在削弱对方主张可信度"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187499,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"遥感物探，是指在距离相当遥远的位置上，用各种传感器探知地面物体辐射（或反射）的电磁波信息，以查明地质的或地学的各种情况的方法。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列属于遥感物探的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280339327,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["医生用X光透视检查病人身体器官的病变", "侦察兵利用探雷装置发现埋在地下的地雷", "科学家通过“天眼”系统观测外太空星体", "科学家用卫星对某沿海地区进行地质探测"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187503,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"人为环境异常，是指一定地域范围内，因人类行为造成自然环境的某个或多个环境要素发生显著变化，破坏生态系统的相对平衡关系的现象。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列属于人为环境异常的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280365811,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["某地地下贮藏着丰富的石油资源，近日附近村庄的井水变得浑浊，并伴有刺鼻气味，经检测含有大量重金属，不宜饮用", "某地因地震出现地表下陷，暴雨过后，部分区域严重积水，致使这些区域农田里的农作物、果园里的果树发生烂根枯萎", "某地沿河工业园区近来订单大量增加，废水排放量也随之激增，结果造成河流下游的鱼虾大量死亡，沿岸庄稼成片枯死", "某地火山爆发喷出的有毒元素散落到地表，改变了土壤中原有化学成分，形成了高氟、高汞的土壤，影响了作物的生长"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187508,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"光的散射，是指太阳光射入大气层后，跟空气分子相撞，向四面八方散去的现象。其中，由大气中烟、尘埃、小水滴及气溶胶等较大的颗粒引起的散射，被称之为米氏散射。米氏散射的特征是所有波长的光均等发生散射，混合在一起，从而呈现白色。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列属于米氏散射的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280423441,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["赤红色的晚霞", "蓝色海水", "七色彩虹", "正午晴空的云"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187426,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"缺锌：生长迟缓\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279571857,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["成年：参加选举", "吃药：感冒痊愈", "迁徙：季节变化", "加热：温度升高"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187428,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"丝竹：音乐\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279590545,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["汗青：史册", "烽烟：干戈", "学生：桃李", "战争：戎马"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187430,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"若明若暗：雾里看花\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279612314,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["如醉如梦：一清二楚", "如日中天：日薄西山", "如火如荼：无声无息", "如履薄冰：如临深渊"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187431,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"单价：数量：总价\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279631040,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["现状：问题：方案", "被除数：除数：商", "本金：利息：利率", "速度：时间：路程"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187433,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"漫画：推理漫画：连环漫画\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279663048,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["大气：对流层：中间层", "离子：阳离子：阴离子", "可见光：红光：紫光", "文物：馆藏文物：史前文物"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187436,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"我：认识：你\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279719309,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["尔：就是：你", "他：喜欢：她", "八：大于：六", "你：矮于：她"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187437,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"经理：法官：公务员\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279759752,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["农具：沙发：家具", "原告：被告：当事人", "总统：明星：演员", "蛋白质：花岗岩：无机物"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187439,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"声母：韵母：声调\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279782612,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["满族：汉族：白族", "比拟：拟人：拟物", "本体：喻体：喻词", "车轮：车胎：车门"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187440,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"（  ）对于冶炼  相当于  创作对于（  ）\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279793243,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["工人  作品", "提纯  表演", "矿物  作者", "选矿  发表"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187441,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"（  ）对于社会科学  相当于  蝗虫对于（  ）\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279809322,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["物理学  蜻蜓", "经济学  昆虫", "自然科学  害虫", "超声波  大雁"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187457,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"《英国医学杂志》发表的一篇研究成果显示：吃白米饭最多的人和最少的人相比，患糖尿病的风险会增加\",\"children\":[]},{\"name\":\"tex\",\"value\":\"eSWBFpuPz9SqJkZNq8RP/w==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。有人据此得出结论，多吃白米饭易患糖尿病。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"以下哪项如果为真，最能削弱上述结论\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280018190,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["遗传等其他多种因素，也会增加患糖尿病风险", "长期不吃或者少吃主食的人，也容易患糖尿病", "白米饭缺少人体每天所需的膳食纤维等营养素", "吃白米饭多的人，其他类型食物的摄入量也高"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187466,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"近年来，很多学生选择了去海外留学。他们认为镀金可以为未来就业增加竞争力。然而，《2017海归就业力调查报告》中的数据显示：海归回国求职并不容易，\",\"children\":[]},{\"name\":\"tex\",\"value\":\"CHG0oBxaN57yFsW8UK8ByQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"的海归认为自己在就业中存在一定劣势。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"以下哪项如果为真，最能解释上现象\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280056052,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["海归身份的受欢迎程度与行业有较大的关系", "多数海归不熟悉国内的就业形势与企业需求", "大部分海归的实际薪资水平达不到其期望值", "牛津等海外名校毕业生依然受到雇主的青睐"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187471,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"昨天你们IT部门进行了一次服务器升级，晚上我的电脑就不能开机了，你们能不能把服务器恢复原状？\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"以下归因方式与题干最相似的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280081340,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["琼斯总统提高了税收，暴力犯罪数量随之上升，因此，不应当提高税收", "物价上涨是通货膨胀的主要原因，所以控制住物价，就抑制了通货膨胀", "作为家长，不能让孩子输在起跑线上，所以请选择小星星幼儿智力开发", "你要是不好好念书，将来就考不上大学，找不着工作，我看你该怎么办"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187477,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"文化自信是主体对自身文化的认同、肯定和坚守。文化自觉是文化自信的前提，没有深刻的文化自觉，就不可能有高度的文化自信。没有高度的文化自信，就没有文化的繁荣昌盛，就没有中华民族的伟大复兴。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"由上文推知，下列一定正确的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280100208,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["没有文化的繁荣昌盛，就一定没有深刻的文化自觉", "只要有了高度的文化自信，就会有文化的繁荣昌盛", "没有深刻的文化自觉，就没有中华民族的伟大复兴", "有了高度的文化自信，就会有中华民族的伟大复兴"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187485,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"随着移动支付的普及和知识内容消费观念的逐渐养成，知识付费逐渐成为人们普遍接受的学习方式。自2015年以来，各种知识付费平台纷纷上线，用户数量快速增长。相关报告显示，2017年我国知识内容付费用户规模达1.88亿人，知识付费正在成为人们从海量信息中突围的利器。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"以下哪项如果为真，最能解释上述现象\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280127482,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["知识付费可以随时满足广大网友广泛的兴趣爱好", "当代青年人对于新知识和新技能的渴求日趋提高", "知识付费能满足人们低门槛、高效率的学习需要", "粉丝可以通过知识付费方式随时向知识偶像请教"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187445,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"脊髓性肌萎缩症是一种罕见的致死性遗传病，大多数患儿活不到20个月。近日，有研究人员使用一种新的基因疗法，研发了一种生物技术药物Spinraza，通过在患者脊髓周边注射给药，Spinraza使73名受试患者中的近一半患者不同程度的恢复了运动机能。研究人员据此得出结论：这种新的基因疗法将为脊髓性肌萎缩症的治疗带来突破性进展。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"以下哪项如果为真，最能支持上述论证\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524279891244,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["该项研究的具体程序设计较为科学合理", "这种基因疗法也可用于其他疾病的治疗", "美国药监局已经批准了这一新药的上市", "对照组的所有患者都没有恢复运动机能"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187455,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在一场关于“传承和创新哪个更重要”的辩论赛中，正方和反方进行了激烈的辩论。正方二辩在发言中提出一种观点：“先后性就等于重要性。”\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"作为对上述观点的反驳，以下最为有力的是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280005452,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["吃一碗面，加点醋是必要的。但你说是以吃面为主，还是以吃醋为主？", "我必须先拧开瓶盖，才能喝到水。这不正说明拧瓶盖是必要的步骤吗？", "正所谓“雄鸡一唱天下白”，但你总不能说天白就是雄鸡唱出来的吧！", "我穿鞋时总习惯先穿左脚，再穿右脚，这就说明左脚比右脚更重要吗？"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187459,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"有研究人员收集合并了30项纵向干预研究，其中11项评估了上涨不健康食品价格的影响，19项评估了降低健康食物价格的影响。合并分析结果显示，利用价格引导人们消费健康食品，有助于人们改进饮食习惯，对公共健康是有好处的。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"以下哪项如果为真，能够削弱上述结论\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280031994,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"含糖饮料价格的变化，会影响人们的身体质量指数（BMI）\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不健康快餐的价格每上涨\",\"children\":[]},{\"name\":\"tex\",\"value\":\"8lHCgOBfm9m7Uj4N/Y2Pwg==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，他们的销量就会下降\",\"children\":[]},{\"name\":\"tex\",\"value\":\"uKx+Yllq/LyuhtOSK9l8fQ==?widthRatio=1.286&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"水果和蔬菜的价格每降低\",\"children\":[]},{\"name\":\"tex\",\"value\":\"8lHCgOBfm9m7Uj4N/Y2Pwg==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，它们的销量就会增加\",\"children\":[]},{\"name\":\"tex\",\"value\":\"UZAy1Es5CviEawxh0uEFmw==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"食品和饮料价格的变化，只在短期内影响消费者购买行为\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187467,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"某企业拟开设4门培训课程：《企业文化培训》《劳动法培训》《商务礼仪培训》《销售培训》。员工甲乙丙丁4人各选修了其中一门课程。已知：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"①他们4人选修的课程各不相同；\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"②法律专业毕业的丙选修的是非法律类课程；\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"③甲选修的不是《企业文化培训》就是《商务礼仪培训》。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"补充以下哪个条件，能确定丙选修的是《销售培训》\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280064963,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["丁选修的不是《劳动法培训》", "丁选修的是《企业文化培训》", "丁选修的是《劳动法培训》", "丁选修的不是《销售培训》"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187475,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"光镊是用高度会聚的激光束形成的三维势阱来俘获、操纵和控制微小颗粒的一项技术。与机械镊子相比，光镊是以非机械接触的方式来完成夹持和操纵细胞的，它先对目标细胞进行非接触式的捕获和固定，再对细胞进行精确的操作。因为光镊对细胞产生的损伤非常小，所以在生命科学研究中，几乎所有的单细胞操作都采用光镊的方式来进行操控。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"由此可以推出\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280092789,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["所有对细胞进行精确操作的方法，对细胞的损伤都非常小", "对目标细胞进行非接触式的捕获和固定只能使用光镊方式", "几乎所有的非单细胞操作都不采用光镊的方式来进行操控", "所有以机械接触方式来夹持和操纵细胞的都不是光镊方式"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187535,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2，3，6，18，（  ），1944\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524281108575,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["102", "96", "58", "108"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187543,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"zbh99gCsUQshnA/e3yhmvQ==?widthRatio=0.929&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，\",\"children\":[]},{\"name\":\"tex\",\"value\":\"bZTGZ4nR7s06fEmOhzMHuw==?widthRatio=0.929&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，\",\"children\":[]},{\"name\":\"tex\",\"value\":\"K3PUzHyMfjykP+2RkPOd/A==?widthRatio=1.286&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，(  )，\",\"children\":[]},{\"name\":\"tex\",\"value\":\"1TlJ6QG5xnzGMY7qgAejIw==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524281529885,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"iVIOSjoSBHsL7NeJYVK9uA==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"v6s7Mq+1cJbS6pmhgzxaoA==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"lIULZm+KuqouTiPACAPzag==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"2bBy/j10B/Di4T+twS98oA==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187546,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"一位女士为了寻找曾经帮助她的司机，向新闻媒体提供了她记得的车牌信息。女士看到的车牌号为“吉AC****”，最后一位是字母，其他三位全是奇数，且数字逐渐变大，那么符合要求的车牌有\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524281593152,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["380个", "260个", "180个", "460个"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187547,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"某业务处长和科员两人属相相同，科员在第一个本命年时处长是第三个本命年。科员今年20岁，当处长年龄是科员年龄的2倍时，需要经过的时间是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524281643630,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["5年", "6年", "7年", "4年"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187567,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"一长方形纸板长为4cm，宽为3cm，将其折叠后，折痕为AF，如图所示，则阴影三角形的周长是\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e6eb297587d9.png?width=276&height=225\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524282011399,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"E4dfche4evkKEuXfbh/mFw==?widthRatio=2.286&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"HDipPnP96HvFgfBwewTOeQ==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"NZl7VJz3NKVPAoV2hnTCkfOzZQeeCkb6V1GuDHXjIpA=?widthRatio=2.286&heightRatio=2.0\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"Om0pVoPsE/hF1cbVZvzHzfvsmH2E+QPSZwUzYqJBv6o=?widthRatio=5.5&heightRatio=1.286\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187537,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"某市出租车采用分段计价办法：2.5公里及以内收费5元，超过2.5公里按每公里1.5元计价，每次加收1元燃油附加费。某位乘客有22.5元零钱，最多能走的距离是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524281322812,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["14公里", "13.5公里", "12公里", "15.5公里"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187540,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"某仓库存放三个厂家生产的同一品牌洗衣液，其中甲厂生产的占\",\"children\":[]},{\"name\":\"tex\",\"value\":\"cfNnkej4m+YAaUwLiNeCeA==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，乙厂生产的占\",\"children\":[]},{\"name\":\"tex\",\"value\":\"nev9CXG69YgDgsl1FKM3pg==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，剩余为丙厂生产的，且三个厂家的次品率分别为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"fLHFlO4n5NsC1PZWjExNyA==?widthRatio=1.286&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，\",\"children\":[]},{\"name\":\"tex\",\"value\":\"ZLkpzAsjs+9d8bJlcZmlBw==?widthRatio=1.286&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，\",\"children\":[]},{\"name\":\"tex\",\"value\":\"fLHFlO4n5NsC1PZWjExNyA==?widthRatio=1.286&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，则从仓库中随机取出一件是次品的概率为\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524281430277,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"ezy6Qc+lL3UitxkgYsJtPg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"yIxlX34q8uaU5noyfyw3/w==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"fLHFlO4n5NsC1PZWjExNyA==?widthRatio=1.286&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"ZLkpzAsjs+9d8bJlcZmlBw==?widthRatio=1.286&heightRatio=1.286\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187541,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"某商场柜台销售一款时装，若将进价的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"cfNnkej4m+YAaUwLiNeCeA==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"作为利润，则销售价为240元。若该款时装销售价为300元时，此时利润率是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524281497351,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"bZbhz+hbnkZ/uS4m6A5+BA==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"JAA53FXPn/IBfC5T8hBAqg==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"lHXVAwSPKLuPlno1uJUdTg==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"sm519gGbZFCOyRrLfZ8VUA==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187542,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"甲乙两个工程队承担了精准扶贫村公路的修筑任务，先是甲工程队单独修了10天，完成了总工程的四分之一，接着乙工程队加入合作，完成剩余工程。在第14天完成到总工程的一半，则按照这种进度完成全部工程所用的天数比由甲单独完成这项工程少用的天数是\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524281524415,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["18天", "16天", "12天", "20天"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187545,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"王老师将天然蜂蜜和矿泉水混合成蜂蜜水，现有一瓶浓度为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"8lHCgOBfm9m7Uj4N/Y2Pwg==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"的蜂蜜水100克，如果需要将蜂蜜水的浓度提高\",\"children\":[]},{\"name\":\"tex\",\"value\":\"8lHCgOBfm9m7Uj4N/Y2Pwg==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，需加入天然蜂蜜\",\"children\":[]},{\"name\":\"tex\",\"value\":\"mRKL/orzOudCEARA8qn3Kw==?widthRatio=0.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"克和矿泉水\",\"children\":[]},{\"name\":\"tex\",\"value\":\"B32Tl9FzSPNJHINd73NgqA==?widthRatio=1.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"克，那么后加入的蜂蜜是原来的\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524281590942,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["2倍", "1.5倍", "1倍", "2.5倍"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187526,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2016年与2015年相比，我国新闻出版产业营业收入\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195079,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据下面资料回答101-105题：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       2017年7月24日，国家新闻出版广电总局发布的《2016年新闻出版产业分析报告》指出，2016年全国出版、印刷和发行服务实现营业收入23595.8亿元，较2015年增加1939.9亿元，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"fwoYrA6HwfVkWbPhaa5yqA==?widthRatio=1.286&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。其中，数字出版实现营业收入5720.85亿元，比2015年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"x5bT7P3djGjqoABrf78zow==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，对全行业营业收入增长贡献超三分之二。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       2016年，全国共出版图书、期刊、报纸、音像制品和电子出版物512.53亿册（份、盒、张）。其中，出版图书49.99万种，重版、重印23.75万种。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e8c2b6f63f18.png?width=486&height=247\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e89838f5e359.png?width=499&height=293\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280921410,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["增量提高、增速变大", "增量减少、增速变大", "增量提高、增速变小", "增量减少、增速变小"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187528,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2016年我国图书重版、重印率约为\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195079,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据下面资料回答101-105题：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       2017年7月24日，国家新闻出版广电总局发布的《2016年新闻出版产业分析报告》指出，2016年全国出版、印刷和发行服务实现营业收入23595.8亿元，较2015年增加1939.9亿元，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"fwoYrA6HwfVkWbPhaa5yqA==?widthRatio=1.286&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。其中，数字出版实现营业收入5720.85亿元，比2015年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"x5bT7P3djGjqoABrf78zow==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，对全行业营业收入增长贡献超三分之二。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       2016年，全国共出版图书、期刊、报纸、音像制品和电子出版物512.53亿册（份、盒、张）。其中，出版图书49.99万种，重版、重印23.75万种。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e8c2b6f63f18.png?width=486&height=247\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e89838f5e359.png?width=499&height=293\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524280981052,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"gIliC2xBw1OIHSRa1r+YqA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"iONIrTBww/Y1AQVJbe8PGg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"0DGLK5rEpbZIi/EHkkN+6w==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"8ycgcZbJI356IQiokIYZfg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187530,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2016年我国音像制品出版业营业收入约为\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195079,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据下面资料回答101-105题：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       2017年7月24日，国家新闻出版广电总局发布的《2016年新闻出版产业分析报告》指出，2016年全国出版、印刷和发行服务实现营业收入23595.8亿元，较2015年增加1939.9亿元，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"fwoYrA6HwfVkWbPhaa5yqA==?widthRatio=1.286&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。其中，数字出版实现营业收入5720.85亿元，比2015年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"x5bT7P3djGjqoABrf78zow==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，对全行业营业收入增长贡献超三分之二。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       2016年，全国共出版图书、期刊、报纸、音像制品和电子出版物512.53亿册（份、盒、张）。其中，出版图书49.99万种，重版、重印23.75万种。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e8c2b6f63f18.png?width=486&height=247\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e89838f5e359.png?width=499&height=293\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524281005764,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["47亿元", "28亿元", "12亿元", "62亿元"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187532,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2016年与2012年相比, 我国数字出版业营收和新闻出版产业营收\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195079,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据下面资料回答101-105题：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       2017年7月24日，国家新闻出版广电总局发布的《2016年新闻出版产业分析报告》指出，2016年全国出版、印刷和发行服务实现营业收入23595.8亿元，较2015年增加1939.9亿元，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"fwoYrA6HwfVkWbPhaa5yqA==?widthRatio=1.286&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。其中，数字出版实现营业收入5720.85亿元，比2015年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"x5bT7P3djGjqoABrf78zow==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，对全行业营业收入增长贡献超三分之二。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       2016年，全国共出版图书、期刊、报纸、音像制品和电子出版物512.53亿册（份、盒、张）。其中，出版图书49.99万种，重版、重印23.75万种。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e8c2b6f63f18.png?width=486&height=247\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e89838f5e359.png?width=499&height=293\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524281025682,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["二者同步增长", "后者增长快于前者", "前者增长快于后者", "二者均出现下降态势"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187533,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"从上述资料中可以得出\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195079,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据下面资料回答101-105题：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       2017年7月24日，国家新闻出版广电总局发布的《2016年新闻出版产业分析报告》指出，2016年全国出版、印刷和发行服务实现营业收入23595.8亿元，较2015年增加1939.9亿元，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"fwoYrA6HwfVkWbPhaa5yqA==?widthRatio=1.286&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。其中，数字出版实现营业收入5720.85亿元，比2015年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"x5bT7P3djGjqoABrf78zow==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，对全行业营业收入增长贡献超三分之二。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       2016年，全国共出版图书、期刊、报纸、音像制品和电子出版物512.53亿册（份、盒、张）。其中，出版图书49.99万种，重版、重印23.75万种。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e8c2b6f63f18.png?width=486&height=247\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e89838f5e359.png?width=499&height=293\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524281050082,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["2012-2016年间，我国数字出版业营收增量保持增长势头", "2016年，对我国新闻出版产业营收增长贡献最大的是印刷复制业", "2016年，我国数字出版业营收占新闻出版产业营收的比例超过三分之二", "2016年图书出版物营收与电子出版物营收相当"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}]

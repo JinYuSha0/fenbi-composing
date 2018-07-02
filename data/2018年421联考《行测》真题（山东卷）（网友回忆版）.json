@@ -1,0 +1,2001 @@
+[{
+  "id": 2187730,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"我们中有很多人并不甘心，想叛逆，想抵抗，他们不惜将世人视同生命的“安全感”抛之脑后。人们\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的“安全而平庸的幸福” 对他们而言无异于毒药，而世人避之不及的\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的状态，却恰恰是他们最赖以生存的空气。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524285768178,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["心驰神往  大起大落", "求之不得  波翻浪涌", "梦寐以求  危机四伏", "众星捧月  动荡不安"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187743,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"从碎片化、孤立化应用为主的起步阶段，迈入跨界融合、集成创新的新阶段，物联网大规模爆发式增长的序幕已经开启。智能硬件、可穿戴设备、联网车辆发展迅猛，正是物与物、物与人加速连接的\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。物联网将信息化与传统领域深度融合，也在重塑生产组织方式，\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"产业形态。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285851652,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["诱因  调整", "条件  创新", "结果  构建", "印证  变革"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187761,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"儒家在对“君子”进行阐述的时候，采取了一种极为\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的理论技巧。那就是，不直接定义“君子”，只是反复\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"它的对立面。“君子”的对立面，就是“小人”。用一系列的否定，来完成一种肯定。这种方法，在逻辑学上，是通过\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"外延，来包围内涵。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286013571,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["罕见  列举  缩小", "精当  强调  剔除", "巧妙  叙述  限制", "高明  描绘  确认"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187766,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"数字世界的革命固然玄妙，但其经济规模和在人们生活中的重要程度，直到今天，仍旧不能与实体世界\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286041548,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["同日而语", "旗鼓相当", "一决高下", "平分秋色"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187722,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在会展场馆、组展商实力和展会项目三大指标上全面领跑，使德国得以称雄全球会展业。德国企业\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"              \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"，大量中小企业从家门口举办的国际高品质展会中获益匪浅，“德国制造”和“优质展会”\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"              \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"，共同助推德国经济的发展。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524285684280,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["蜂拥而至  相辅相成", "近水楼台  相得益彰", "不期而遇  并驾齐驱", "摩拳擦掌  同舟共济"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187728,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"或许，技术的进步总会带来焦虑，尼采曾对“短暂之物”报纸的出现怒不可遏。后来，“热闹”的电视取代了“冷静”的报纸；今天，“\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"         \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"”的网络又取代了“群聚”的电视。技术的\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"               \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"可以改变我们的相处方式，但情感的交互却从来不是技术可以替代的。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524285760858,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["孤独  更新迭代", "隔离  日新月异", "单一  此消彼长", "寂寞  革故鼎新"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187738,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"女性争取平等权利的步伐从未停止，她们总会寻找各种途径，与\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"               \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的性别歧视进行抗争。如抗议企业招聘中的性别歧视，\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"国民教育为女性提供更多平等的受教育机会等。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285818634,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["根深蒂固  呼吁", "形形色色  倡议", "司空见惯  要求", "习以为常  迫使"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187745,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"媒体和科学家所追求的目标是不一致的：媒体追求的是新闻性，而科学则需要\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"         \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的方法。新闻记者们需要用通俗的标题来传达简单而新奇的内容，而科学方法则强调知识的积累、不同术语间的细微差别和对一切事物的质疑态度。然而，等到某一领域的科学知识真正到了值得用来投资或能够改变生活的时候，这些早就变成\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"               \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"了。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285867489,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["系统  不刊之论", "理性  泛泛之谈", "简洁  齿牙余论", "严谨  明日黄花"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187731,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"当下的功夫片质量普遍粗糙，丢失了功夫片_______的优良传统。此外，一些功夫片过于强调动作，未找到更新的故事表达方法，使得作品越来越套路化，造成了生产和消费之间的____，这些都是导致部分中国功夫片遭遇市场困境的原因。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 3,
+  "createdTime": 1524285770603,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["精雕细琢  错位", "脚踏实地  脱节", "革故鼎新  鸿沟", "一丝不苟  差异"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187736,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"“大众娱乐”这个标签并非贬义，恰恰相反，要想让消费者_______地为娱乐埋单，其实很是考验创作者的能力。艺术家们或许会对商业叙事作品的生产者们开发出的一整套完备的叙事模式_______，但这也是一种能力的体现。\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285799354,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["乐此不疲  漠然置之", "毫不犹豫  不屑一顾", "心甘情愿  嗤之以鼻", "趋之若鹜  冷眼相对"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187744,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"文化的基本使命是立人，通过文化的教化和积淀，有效地协调人与自然、社会及自我的关系，培养健全的、充分发展的社会的人。文化对于人的塑造体现在人的自立、自强、自尊、自信等文化心态的确立以及人类社会人文氛围的形成上。在人类历史的长河中，文化以道德、宗教、艺术、教育等各种生活内容存在，并通过家庭启蒙、社会心理、社会舆论等多种手段向整个社会和民族传播和教化，使社会形成一种文化的氛围，并获得可持续发展的可能。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字主要阐述了文化具有：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285858290,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["塑造功能", "濡化功能", "调节功能", "传播功能"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187752,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"农业危机根本上也是资源危机，关键是土地资源。我们总希望自己的住房大一点，然而，土地是有存量没有增量的要素，人类的需求却是没有止境的。所以，更多的农业用地被工业侵占，更多的农村土地被城市侵占，农业危机的根源就在这里。发达国家已经完成工业化，进入所谓后现代社会了，已经没有改弦更张的可能了。__________。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"填入画横线部分最恰当的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285905711,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["因此，我们应该把为数不多的土地做成高附加值的东西", "我们所能做的，就是改变过度消耗资源的产业体系", "我们要提高技术进步对经济增长的贡献率，改变生产和生活方式", "这就提醒我们：面临资源环境压力，在产业升级中要保护好农田"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187726,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"英国人在印度发展种茶业，从一开始就明确了以需求为导向——\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                              \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。19世纪上半叶，迷上喝茶的英国人为了摆脱中国对茶叶生产的控制，将茶树种子连同加工技艺一起，偷偷从中国带到了印度。从印度的阿萨姆和大吉岭地区开始，英国彻底改变了红茶的命运。到了1860年，投资者就明确意识到，在印度种茶是个能够赚钱的行当。伦敦和加尔各答等地的先行者开始购买茶园股份，在英属印度政府优惠政策的鼓励下，公司和有能力的欧洲人纷纷租地种茶。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"填入画横线部分最恰当的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285737178,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["为了让茶叶变得廉价易得", "殖民者为了获取更多的利润", "满足英国国内对茶叶的极大需求", "解决英国本土茶叶供应不足的问题"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187734,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"长期以来，研究人员认为人类是从大约500万年前的非洲猿分化而来的，不过最新发表的一项研究报告提出，欧洲发生的这种分化要早得多。关于人类起源的这一新假说的依据是，在希腊和保加利亚洞穴里发现了720万年前的前人类遗骸。来自多个国家的研究人员对两个已知样本的牙根进行了分析。他们利用专门的X射线，即计算机断层检查技术，对来自希腊的下颌化石和来自保加利亚的上前臼齿化石进行了扫描，发现其特征表明这两个古猿——外号“希腊人”，可能是前人类，即原始人类。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据这段文字，以下说法正确的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285788378,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["原始人类从欧洲古猿分化而来", "“希腊人”古猿具有人的特征", "研究人员只找到了欧洲古猿的牙根", "X射线技术能准确测算古猿人的年代"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187740,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"美籍华裔物理学家李政道说“中国的算盘是世界上最古老的计算机”，英国学者李约瑟也把算盘誉为“中国第五大发明”。那么，算盘为何有如此魅力，以致得到两位学者这样高的推崇呢？就是它以框梁档珠的简单结构，配以形象精妙的珠算口诀，解决了加减乘除乃至开方的计算问题。在没有计算机的年代里，它对推动社会经济发展发挥了不可估量的作用。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字主要介绍了：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524285827798,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["算盘的结构和原理", "算盘受推崇的原因", "算盘对社会经济的作用", "算盘在科技史上的地位"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187748,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"规模化是工业现代化的重要方式之一，中国农业发展是否适应大规模农业生产模式还值得商榷。美国多年的大农场生产方式已经证明，集约化的农业生产会造成农业生态环境退化、生物多样性被破坏，进而影响到粮食安全。当前，我国人均耕地面积仅1.52亩，只有世界平均水平的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"JAA53FXPn/IBfC5T8hBAqg==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，更远低于美国的人均水平，所以美国的大农场模式并不一定适合中国的发展。同时，我国农业现代化起步较晚，相较于美国等发达国家，无论是在农业科技还是经营管理方式上还存在一定差距，现代化的“步子”骤然迈得太大，很有可能造成上下层“脱节”。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字接下来最可能说的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285877328,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["农业改革不应操之过急，而应稳扎稳打", "发展大规模农业生产模式应吸取国外教训", "农业生产的规模化应量体裁衣、因地制宜", "生产环节的脱节是农业规模化发展的瓶颈"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187735,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"①没有细菌和感染的知识，就不会有无菌操作的概念\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"②知识，是人类认识自然的总结\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"③比如说，没有人体解剖和血型的知识，就无法成功输血\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"④这种总结的过程是连续的，由浅入深，由简单到复杂\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"⑤如果没有人体解剖、输血和无菌操作技术，就无法进行手术\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"⑥杰出的人物，只是把这种认识的过程大大向前推进，但他们也并不能跳过连续的认识发展过程而前进\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"将以上6个句子重新排列，语序正确的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 3,
+  "createdTime": 1524285789399,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["⑤①④③②⑥", "⑥④③①②⑤", "①⑤②④③⑥", "②④⑥③①⑤"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187737,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"①随着商业在社会生活中地位的提高，商家的文化意识日益增强\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"②牌匾艺术熔书法、装饰和建筑艺术于一炉，呈现出丰富的形式\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"③尤其是经营长久的老字号，牌匾多出自名人名家手笔\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"④商业牌匾早期大多用于说明商号的经营性质\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"⑤虽然各自风格神韵不同，但大都具有深厚的造诣\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"⑥在文人的参与下，牌匾文雅含蓄，常有典故出处\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"将以上6个句子重新排列，语序正确的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524285810683,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["②④①⑥③⑤", "②③④①⑥⑤", "④②③⑥⑤①", "④①②③⑤⑥"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187742,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"量子力学是关于微观客体的基本理论框架，关于微观客体的所有科学规律都在此框架中。微观客体基本上是指原子或者更微观的粒子，比如电子和光子。宏观物体是由微观粒子构成，那么\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                                        \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"？有一种理论说原则上量子力学也适用于更大的客体，但是它们与环境耦合，从而失去量子行为。实验室里，确实有比原子大的东西被孤立，从而表现量子行为。虽然目前尚无定论，但可以肯定的是对于我们所在的现实宏观世界，不能直接套用量子力学。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"填入画横线部分最恰当的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 3,
+  "createdTime": 1524285844894,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["如何判断二者之间的明确界限", "怎么确定量子力学的适用范围", "该如何定义量子力学的构成条件", "量子力学的研究客体该如何界定"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187749,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"地理结构上，中国大陆是一个面积辽阔、平坦完整的区块，是自给自足的一大片土地。南方的寮、越、高棉等，有丘陵峡谷高原等相隔，历史上从来没有北侵并造成困扰过。西边有沙漠阻绝，形成天然的屏障。零星的商旅僧人，可能往返跋涉，但是很难发生大规模的军事行动。东边是大海，在坚船利炮之前，安全是不成问题的。剩下的，只有北方来的强敌。因此，只要能挡得住北方的威胁，\",\"children\":[]},{\"name\":\"u\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"                                         \",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"填入画横线部分最恰当的一项是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285883949,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["中央政权就会有意识地排斥地方势力", "中国大地便自成体系，唯我独尊", "中原大地内部的诸多力量便取得平衡", "大一统的思维便会应运而生"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187760,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在付费知识的市场宣传重点中，最吸引人的莫过于能有效地利用碎片时间，如在等公共汽车、跑步时进行学习和提升自我，进而有效管理时间。这种碎片化学习的方式虽然看似很灵活，并可以提高时间利用率，但科学研究表明，它不能真正地让你吸收学到的知识，不符合大脑吸收知识的运行机制。那些让你啧啧称奇的金句，那些让你醍醐灌顶的时刻，过不了几日就会被忘得精光，更别提知识内化和迁移了。正如快餐虽然好吃，也有饱腹感，但并不代表有营养。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字意在强调：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524285980458,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["付费知识领域前景尚未明朗", "付费知识的宣传导向言不符实", "学习是一个长期而艰苦的过程", "“碎片化学习”的方式并不理想"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187762,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"近代以来人类的技术发展过程与古代不同。古代技术发展只是偶发事件，如火药、指南针等，尽管在军事史上产生过重大影响，由于结构简单，后续没有重大改进。而近代技术则不然，从织布机到蒸汽机，进而到内燃机、电动机，技术的进步是连续的，也是一个可期待的线性过程，因此可瞄准未来，进行过程上的超前式跨越。如钱学森在中国基础工业非常薄弱的情况下，就主张重点发展导弹而不是飞机；美国在人造地球卫星和载人航天落后于苏联的情况下，便直接推出阿波罗登月计划。这些都是跨越式发展的典型表现。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字意在强调：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286017033,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["跨越式发展是抢占技术发展先机的前提", "现代技术发展的路径与古代有本质的区别", "勇气和魄力是支持跨越式发展的精神品质", "对技术改进的无限追求才能实现跨越式发展"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187768,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"无论原著多么丰富精彩，文学经典改编成电视剧都是一次再创作。电视剧要尽可能地呈现原著复杂而沉重的主题，也要通过改编使片段式的故事汇成线条式的人物命运。古老土地的历史变迁、民族生存的生命反思、儒家文化的辉煌与没落、人性欲望的压抑与张扬······文学经典的母题，必须经由改编之手重新诠释。而且，无论怎么改，情节的推进，人物的塑造，剧情的发展，其本身都要符合人物内在的行为逻辑。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"关于文学经典改编成电视剧的原则，文中没有涉及：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 3,
+  "createdTime": 1524286056060,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["要突出文学经典的主题", "要有比较明确的主线", "应具有合理的内在逻辑", "要使用必要的夸张手法"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187770,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"近日，国家多部委联合发布了《关于办理刑事案件严格排除非法证据若干问题的规定》，从侦查、起诉、辩护、审判等方面，明确非法证据的认定标准和排除程序。所谓刑事案件中的“证据”，乃是定罪量刑的“依据”。根据我国的证据标准，只有达到“事实清楚、证据确实充分”的标准，才能判决一个公民有罪。如果证据材料不符合《刑事诉讼法》的“8种法定形式”，或者取得程序违反法律规定，就不属于合法证据，不能为法院所采信。尽管法律规定“白纸黑字”，严格排除非法证据，但从司法实践看，这类证据犹如顽固的牛皮癣禁而不止、杜而不绝。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字接下来最可能讲的是： \",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524286090681,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["非法证据无法严格排除的原因", "《刑事诉讼法》“8种法定形式”的内容", "非法证据对司法工作的影响", "新规定出台的现实背景"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187764,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"当代社会呈城乡一体化发展趋势，文化的阶层和地域区别越来越小，民俗的地域性和群体性差别消失，民俗作为地区和人群的标识或认同的意义逐渐微弱。民俗也在审美化的趋势和背景下，成为时尚的，而非实用的。比如旅游场域中的刺绣或帽子等等，基本不会拿来用，而是用来装饰和收藏。民俗变为了一种浪漫的、时尚的消费品，沦为大众文化的一部分。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字主要说的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286028487,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["应从美学角度来重构作为大众文化的民俗审美观", "大众流行文化影响了普通百姓对民俗的审美品味", "文化阶层与地域的差距缩小使民俗成为大众文化", "城乡一体化的快速发展的趋势改变了民俗的性质"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187729,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"①展望未来，第四次科技革命同样面临着诸多社会问题的考验，人类的未来也可能发生根本性重塑\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"②自动化逐渐代替人力，就业市场对教育和技能较低工人的需求下降，这次科技革命客观上正在造成一定的失业规模\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"③就像史蒂芬•霍金担心的，未来20年中机器将通过人工智能超越人类，发展出与人类相冲突的意志，从而导致人类文明史的终结\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"④当大部分人失去谋生手段时，必然会加剧社会关系的紧张\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"⑤历史上每一次重大科技进步在给人类带来惊喜和显性好处的同时，也给部分个体以及整个社会带来潜在的挑战\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"⑥科技创新是把双刃剑，它所带来的繁荣并不会成为真正的“百家乐”\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"将以上6个句子重新排列，语序正确的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285768063,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["⑤⑥①②③④", "①③②④⑥⑤", "⑥⑤①③②④", "①②④③⑤⑥"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187733,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"民俗是文化的一种表现形态，即传统与文化的活态形式。它是经过千百年岁月的淘洗留下来的文化精华与现实结合的产物。民俗对于特定的群体有强烈的认同功能，对于当代社会的建设，具有不可替代的作用。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字是从什么角度来定义“民俗”的？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285784308,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["群体建构", "社会功能", "价值观念", "文化传承"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187723,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"“天下为公”的基本含义是，天下是天下人所共有的，不是一个集团、一个群体的。在“天下为公”观念背后，我们看到的是中国人最基本的政治观念，也是过去四千年来中国政治运作的基本原则，那就是政治平等，人人都有参与天下之治理的机会。当然，参与方式非常多样，一个普普通通的人，也可以参与天下之治理，比如修身、齐家，这就是治国、平天下的内容和基础。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字主要介绍了：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 6,
+  "createdTime": 1524285698758,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["中国政治运作的基本原则", "“天下为公”的含义和表现", "人们参与治理国家的多种形式", "“天下为公”所反映的政治观念"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187732,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"历朝历代的皇家、文人以及社会主流，对北宋五大名窑瓷器倍加宠爱，深为以青色为基调的天然淡雅而倾倒。至今，神秘的“柴窑”未见影踪，珍稀的“汝窑”，于青色之中淡酝霞光，存世仅几十件，苏富比拍了一件，价逾千万。南宋时，“龙泉窑”的青瓷成为主流，于今也备受崇尚。我们看到的许多古瓷器，仍然闪烁着青釉色的高贵，人们对其的喜爱依旧是器物审美中的主流之一。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段表述旨在说明：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285778112,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["官窑瓷器有极高的收藏价值", "青色对瓷器审美意义非凡", "色彩决定瓷器价值而非窑口", "古往今来瓷器备受人们喜爱"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187739,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在宇宙完成大爆炸的那一刻，物质不断向四面八方飞散，这就是宇宙的膨胀。在宇宙膨胀的过程中，各种物质的密度存在微弱的差异，这使得宇宙中各个部分的物质在引力的作用下，朝着附近物质密度稍高一点的地方集中。引力随着物质的集中而逐渐提高和增大，而引力越大则越会令物质更加集中，这个集中的过程便无法停止。每一处物质集中时的区域范围都非常大，甚至可能超过数十万光年。如此庞大的区域，最终形成的结构就是星系。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"这段文字主要说的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524285820721,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["星系是如何形成的", "宇宙膨胀的物理过程", "宇宙为什么会发生大爆炸", "物质集中过程中的引力作用"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187741,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列自然现象，解释正确的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285830891,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["冬天热汤会冒白气，是汽化现象", "樟脑丸会越来越小，是蒸发现象", "洗澡时卫生间的镜子有一层小水珠，是液化现象", "报废的电灯泡取下发现变黑了，是腐蚀引起的"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187746,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"关于北斗系统，下列说法\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"错误\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285871019,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["是中国自主研制的全球卫星导航系统", "北斗系统的卫星都是静止轨道卫星", "可实现高精度授时的功能", "能够实现汉字的短报文通信"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187751,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"一位西方旅行家如果于二十世纪初来到中国，他\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不可能\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"看到下列哪一处景观？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285900669,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["北京紫禁城", "秦始皇陵兵马俑", "敦煌莫高窟", "万里长城"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187758,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"关于袋鼠，下列描述\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不正确\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285965202,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["哺乳动物中跳得最远", "在澳大利亚广泛分布", "是草食性动物", "有胎盘"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187765,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"关于洋流，下列说法\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"错误\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286033779,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["墨西哥湾暖流与拉布拉多寒流交汇形成了闻名世界的纽芬兰渔场", "哥伦布航海横跨大西洋前往美洲时，可以利用墨西哥湾暖流顺水航行", "美国西海岸发生原油泄漏后，污染物有可能随加利福尼亚寒流污染赤道地区", "由于秘鲁寒流的强大影响，可以在赤道附近的科隆群岛看到企鹅"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187686,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列属于我国基层民主自治工作的一组是：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"①某村村民直接参与投票选举村委会干部\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"②某社区居委会定期向居民会议汇报工作\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"③某区妇女联合会实行事务公开的制度\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"④某厂职工代表大会依法选举职工代表\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524284834684,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["①②", "②③", "③④", "①④"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187688,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列和宪法有关的表述正确的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524284855864,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["在我国，矿藏、水流和森林属于国家所有", "世界上第一部资产阶级国家的成文宪法是1791年通过的法国宪法", "人民代表大会制度是中华人民共和国的根本制度", "中央军事委员会主席对全国人民代表大会和全国人民代表大会常务委员会负责"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187690,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列哪种情形\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不能\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"解除劳动关系？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524284873506,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["用人单位和劳动者协商一致", "试用期内提前一天通知用人单位", "合同期内，提前三十天以书面形式通知用人单位", "劳动者同时与其他用人单位建立劳动关系，对完成本单位的工作任务造成严重影响"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187692,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列与证件有关的说法\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"错误\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524284908813,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["未满十六周岁的公民不得申领居民身份证", "驾驶机动车上路行驶必须随车携带行驶证", "公共场所直接为顾客服务的人员须有健康证", "港澳通行证由我国公安部出入境管理局签发"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187693,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列行政行为属于行政处罚的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524284928110,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["质监部门将甲生产的涉嫌违法使用添加剂的香肠予以先行登记保存", "土地管理部门对于乙、丙之间宅基地权属纠纷作出裁处", "卫生部门对感染传染病病毒的患者丁进行强制隔离", "消防部门对未经消防安全检查擅自营业的戊茶楼作出责令停产停业的决定"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187694,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"《山东省新旧动能转换重大工程实施规划》提出，加快形成“三核引领、多点突破、融合互动”的新旧动能转换总体布局。这里的“三核”指的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524284947008,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["济南  青岛  潍坊", "济南  青岛  烟台", "烟台  威海  日照", "泰安  威海  德州"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187695,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"关于洲际导弹下列说法\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"错误\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524284968107,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["射程在8000公里以上", "目前仅有中、美、俄三国拥有", "弹头一般采用核弹头", "中国的东风5型属于洲际导弹"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187697,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"关于古诗中提到的“雨”的成因，下列解释正确的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524284986008,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["君问归期未有期，巴山夜雨涨秋池——冷锋雨", "夜来风雨声，花落知多少一一台风雨", "东边日出西边雨，道是无晴却有晴一一对流雨", "好雨知时节，当春乃发生一地形雨"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187698,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下图所反映的历史事件是：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e8296ccdb834.png?width=356&height=258\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285017089,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["周平王迁都洛邑", "汉光武帝定都洛阳", "北魏孝文帝迁都", "武周以洛阳为神都"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187700,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列关于雷电的说法\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"错误\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524285035920,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["人们总是先看见闪电后听见打雷", "直击雷的破坏性比球形雷小", "闪电时可能伴随着臭氧的生成", "雷电一般发生在对流层"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187674,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"京剧，曾称平剧，腔调以西皮、二黄为主，用胡琴和锣鼓等伴奏，被视为中国国粹。它是由哪些戏剧进京演出融合而成的？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524284484269,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["豫剧、越剧", "汉剧、川剧", "徽剧、汉剧", "粤剧、沪剧"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187675,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列有关急救知识的叙述正确的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524284501631,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["对等待急救的脑出血病人不宜随意搬动", "发生烫伤后的伤口可用酱油或牙膏涂抹", "胸外心脏按压的频率为每分钟30～50次", "严重烧伤的病人口渴时可以喝白开水"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187677,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列关于铁矿的说法正确的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524284525189,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["赤铁矿与铁锈的主要成分相同", "磁铁矿一般呈黄褐色", "“千锤百炼”是指铁矿石的开采过程", "我国的铁矿开采始于西汉时期"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187679,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列关于通讯技术的说法正确的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524284544740,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["蓝牙是一种短距离无线通信技术", "光纤通信抗电磁干扰能力差", "移动通信可直接使用无线电波通讯", "对讲机使用时需要网络支持"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187680,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下列哪一诗句\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"没有\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"反映古代农业丰收的场景？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524284563332,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["田家少闲月，五月人倍忙，夜来南风起，小麦覆陇黄", "新筑场泥镜面平，家家打稻趁霜晴", "瓯篓满篝，污邪满车，五谷蕃熟，穰穰满家", "桑柘悠悠水蘸堤，晚风晴景不妨犁"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187801,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"小张和小王18:00分别从甲、乙两地同时出发，沿相同道路匀速相向而行。18:20小张到达丙地停留，18:40两人在丙地碰面并均以出发时速度继续行进。18:50小王到达甲地，问小张在几点到达乙地？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286682025,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["20:00", "20:40", "19:00", "19:40"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187808,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"为响应城市节能减排政策，邻居小邢和小赵决定拼车上班。从小区开车35公里后到达小赵单位，继续直线行驶5公里后到达小邢单位。已知小赵、小邢的车在市区行驶百公里耗油分别为10L、12L，油价为每升6元。如开小赵的车，需先将小邢送至单位再原路折返回小赵单位。如开小邢的车，则无需折返。那么两种方案花费相差多少元？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286716402,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["0.9", "1.2", "1.8", "2.4"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187815,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"一艘船模出发后先逆流航行1分钟；掉头后顺流航行2分钟；再掉头后逆流航行3分钟……以此类推。已知船模顺流速度为30米/分钟，逆流速度为10米/分钟。问10分钟后船模的位置和20分钟后船模的位置相距多少米？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286752020,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["0", "30", "50", "100"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187840,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"某企业有不到100名员工，本月只有\",\"children\":[]},{\"name\":\"tex\",\"value\":\"lsvUj0BTzWDIMpBHm1+A+sd8UbNBaaO0NDRFK9eFwHg=?widthRatio=1.143&heightRatio=2.0\",\"children\":[]},{\"name\":\"txt\",\"value\":\"的员工未得到每人1000元的全勤奖，只有13名员工未得到每人1000元的绩效奖，两个奖都未得到的员工占员工总数的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"TETuN1EQZWyobK4zcbQzqpKms1zWWpsJEUypoAbvp6k=?widthRatio=1.143&heightRatio=2.0\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。问企业本月共发放全勤奖和绩效奖多少万元？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286885155,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["7.1", "12.6", "14.8", "16.8"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187847,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"某企业招聘一批新员工，有\",\"children\":[]},{\"name\":\"tex\",\"value\":\"bk8KM2REypcAxcxSTgPEnQ==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"的应聘者通过笔试，在面试环节有20人被淘汰，最终录取的人数占总应聘人数的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"bZbhz+hbnkZ/uS4m6A5+BA==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，企业将录取的新员工分成若干个小组进行业务培训，每个小组的人数都不相同，每组至少2人，问至多可以分成多少个组？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286927852,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["7", "8", "5", "6"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187849,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"甲、乙两个投资公司共同投资了A、B两个项目，甲公司在A项目中的投资额是B项目的2倍，乙公司在A项目中的投资额是B项目的一半，这两个投资公司在A项目的总投资额是B项目总投资额的1.2倍，问甲公司总投资额与乙公司总投资额之比为：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287043722,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"Ng0fbeRMCEPdXq5QYarUZw==?widthRatio=2.0&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"0FLBVvToAr0Wdj2XkQwYVA==?widthRatio=2.0&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"LfCc0UOKbNk02RF6n0inkA==?widthRatio=2.0&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"Go3eKMD1JyPE0JJXcZZXiA==?widthRatio=2.5&heightRatio=1.286\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187851,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"甲、乙、丙和丁四个依次相邻的农场分别饲养76头、82头、45头和93头牛，位置如下图所示（虚线位置为栅栏）。现由于两处栅栏损坏，有3个农场的牛混在一起。问最多需要分辨多少头牛，就一定能将所有牛还回原本的农场？\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e756bbc37d63.png?width=247&height=77\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287132599,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["219", "220", "250", "251"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187856,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"商店购入一批某种水果，如按定价销售，每千克盈利23元。销售总量的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"kLLts1I6tVcQO9aunDcFsxQiynd+aQ8YUceh8jCQP7M=?widthRatio=0.714&heightRatio=2.0\",\"children\":[]},{\"name\":\"txt\",\"value\":\"后，每千克降价8元卖出剩余部分，销售这批水果共盈利2275元。问按原定售价卖出了多少千克水果？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 4,
+  "createdTime": 1524287217720,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["60", "65", "75", "80"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187861,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"甲、乙、丙和丁四辆卡车运输一批货物，已知甲车满载可以装50箱，乙车满载可以装35箱。如果只使用甲车和丁车，满载4次正好可以运完；如果只使用乙车和丁车，满载5次正好可以运完；如果只使用丙车和丁车，满载6次正好可以运完。问丙车满载可以装多少箱？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287288345,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["18", "20", "25", "27"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187864,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"某市场调查公司3个调查组共40余人，每组都有10余人且人数各不相同。2017年重新调整分组时发现，若想分为4个人数相同的小组，至少需要新招1人；若想分为5个人数相同的小组，至少还需要新招2人。问原来3个组中人数最多的组比人数最少的组至少多几人？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 6,
+  "createdTime": 1524287318723,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["2", "3", "4", "5"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187820,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e7700fe029a5.png?width=327&height=73\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e7703558b923.png?width=229&height=87\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286782881,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["A", "B", "C", "D"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187832,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e77267234d2f.png?width=443&height=199\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286830394,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["A", "B", "C", "D"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187836,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e773a7a0daa9.png?width=206&height=204\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e773c6748053.png?width=263&height=101\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286864608,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["A", "B", "C", "D"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187841,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e774b6efb9a6.png?width=205&height=206\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e774dbb99235.png?width=271&height=114\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286890075,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["A", "B", "C", "D"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187846,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"把下面的六个图形分为两类，使每一类图形都有各自的共同特征或规律，分类正确的一项是：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e775c8483caf.png?width=544&height=129\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286923654,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["①④⑥，②③⑤", "①③④，②⑤⑥", "①②④，③⑤⑥", "①④⑤，②③⑥"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187814,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"把下面的六个图形分为两类，使每一类图形都有各自的共同特征或规律，分类正确的一项是：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e76f57e3d33d.png?width=553&height=132\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286745643,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["①④⑥，②③⑤", "①②③，④⑤⑥", "①③④，②⑤⑥", "①③⑤，②④⑥"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187823,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"把下面的六个图形分为两类，使每一类图形都有各自的共同特征或规律，分类正确的一项是：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e770d908fe96.png?width=553&height=149\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286786298,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["①②⑥，③④⑤", "①④⑤，②③⑥", "①④⑥，②③⑤", "①②⑤，③④⑥"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187830,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"左边给定的是纸盒的外表面，下面哪一项能由它折叠而成？\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e773124258e4.png?width=553&height=211\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286826106,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["A", "B", "C", "D"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187837,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下面四个选项中，符合左边立体图形的俯视图和左视图的是：\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e774cd36200f.png?width=553&height=241\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286877291,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["A", "B", "C", "D"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187842,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"下图和哪个选项一起可以拼接成一个封闭立体图形？\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e77600460310.png?width=385&height=308\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286912043,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["A", "B", "C", "D"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187810,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"化感作用是指一种植物通过向环境释放化学物质而对该种植物或周围植物（包括微生物）所产生的直接或间接的作用。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不属于\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"化感作用的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286735056,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["在人参上喷洒的农药被土壤吸收后，会杀死土壤中的硝化细菌和氨化细菌", "胡桃树的叶、皮会释放葡萄糖代胡桃醌从而杀死胡桃树下的植物", "桉树叶中分泌出来的酚类物质被雨水冲刷下来后对附近亚麻的生长有抑制作用", "黑麦残株经微生物分解后产生羟基肟酸，影响自身的生长发育"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187816,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"合义务的择一举动是指虽然行为人实施了违法行为，造成了结果，但即使其遵守法律，也不能避免该结果的情形。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列属于合义务的择一举动的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286759671,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["甲驾车正常行驶，行人王某从人行道上猛然冲向甲，结果王某被撞伤", "乙醉酒后驾车，行人王某同样喝醉了酒，从人行道上猛然冲向乙，结果王某被撞伤", "丙驾车超速行驶，行人王某横穿马路，丙来不及刹车，将王某撞伤", "丁驾车超载行驶，行人王某横穿马路，幸而丁紧急刹车，才没有撞到王某"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187821,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"认知失调是一个人在做出决定、采取行动或者接触到一些有违原先信念，情感或价值的信念后所体验到的冲突状态。当人们感到认知失调时，不协调的存在感将推动人们去努力减少不协调，除设法调整自身的行为或改变自己的态度外，人们还可以主动避开那些很可能使不协调增加的情境内外因素和信息因素。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列反映认知失调的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286783180,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["小明参与了一个很无聊的活动，从中得到了很少的报酬", "推销员说服小红用相对高的价格买了自已不是很需要的厨具，几天后小红觉得自已非常喜欢这套厨具", "小王因为考试没考好被爸爸批评了，他回到自己房间后认真思考了原因，决定以后更加努力学习", "勤奋的小宇参加了很多课外班，这导致每次练习钢琴都会迟到，他对钢琴老师表示非常抱歉"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187828,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"战略性新兴产业是以重大技术突破和重大发展需求为基础，对经济社会全局和长远发展具有重大引领带动作用，知识技术密集、物质资源消耗少、成长潜力大的产业。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不属于\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"战略性新兴产业的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286818468,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["食品加工业", "节能环保产业", "信息产业", "新材料产业"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187844,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"集合体是指由一定数量的同类个体组成的统一整体，组成集合体的个体通常并不必然具有该集合体的所有属性。集合概念是指以集合体为反映对象的概念。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列用黑体字显示的概念属于集合概念的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286916725,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"自然数\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"是不小于0的整数\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"人民\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"享有广泛的民主权利\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"我们班的同学\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"来自五湖四海\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"教师\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"是知识分子\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187860,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"水平迁移是指处于同一抽象和概括水平的经验之间的相互影响，是在难度、复杂程度上属于同一水平层次的两种经验之间的相互影响；垂直迁移是指处于不同抽象和概括水平的经验之间的相互影响，是具有较高概括水平的上位经验与具有较低概括水平的下位经验之间的相互影响。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列属于垂直迁移的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287284225,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["小学生在学会写“木”这个字后，有助于学会写“森”", "学习了“植物”“动物”等概念后，有助于对“生物”这一概念的学习", "学习了“老虎”“狮子”等概念后，有助于对不熟悉的鲸或海豚的识别", "学习了有关正方形的知识后，有助于对菱形、长方形等相关知识的学习"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187863,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"主观唯心主义认为人的主观精神（如目的、意志、感觉、经验、心灵等）是世界的本原，客观唯心主义认为上帝、理念等客观精神是先于物质世界并独立于物质世界而存在的本体，而物质世界不过是这种客观精神的外化，前者是本原的、第一性的，后者是派生的、第二性的。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列思想属于客观唯心主义的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287302114,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["相由心生，境由心转", "一花一世界，一草一灵魂", "一切事物的存在是因为它们被我们所感知到", "理是世界万事万物存在的根据"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187866,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"加害给付是指在履行合同的过程中，合同关系中的债务人所作出的履行行为不符合合同的规定，并且这种不适当履行行为造成了对债权人的履行利益以外的损害，这一损害包括人身损害或给付标的以外的其他财产损害。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"没有\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"反映加害给付的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287326401,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["甲公司与乙宾馆协议，约定在该宾馆举办答谢酒宴，结果在酒席中部分客人食用海鲜后出现了食物中毒的情况", "甲与乙一直有合作协议，2018年年初，甲将患有传染病的家禽卖给农场主乙，致使乙农场的其他家禽染病死亡", "甲电子商城与供货商乙签订采购协议，乙将有问题的充电宝供货给甲，一名消费者购买了甲商场的充电宝，使用时发生爆炸，一只手受伤", "甲水果店欲采购水果，于是与乙供货商签订合同，后发现乙送来的水果中部分已经腐烂，无法销售"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187868,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"正态曲线中间突起部分是“头”，两边相对平缓的部分叫“尾”。人们的大多数需求会集中在“头”部，分布在“尾”部的需求是个性化的、零散的、小量的。但这部分差异化的、少量的需求会在需求曲线上面形成一条长长的“尾”。所谓长尾效应是指，将所有分布在“尾”部的市场累加起来就会形成一个比“头”部市场还大的市场，强调“个性化”和“小利润大市场”，就是只赚每个人很少的钱，但是要赚很多人的钱。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上然定义，下列符合长尾效应的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287356948,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["小季开了一家网上书店，主管图书销售，手工艺者也可以在此销售自己手工制作的书签，书签很便宜但很受欢迎，销售额居然超过了图书的销售额", "随着网络图书销售的兴起，小张将实体书店改成“书吧”，不再销售图书。一段时间后，他发现每天的咖啡和茶点的销售额比原本的图书销售额还要高", "很多“白领”工作期间想喝咖啡却没时间去买，小王创办一家咖啡配送网站，到咖啡店买咖啡送到下单客户手中，虽然每杯只收2元服务费，但网站收益很不错", "小刘的电子商务网站原本做小家电销售和配送，后来他们拓展主营业务，配送杂志和鲜花，一段时间后，杂志和鲜花的订单和收益逐渐超过了家电配送"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187883,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在面临不希望发生的事情时，个体往往在回避或接纳事实之间调整以获得内心平衡，若出现一个新选择与内心平衡状态相近，就很容易接纳。因此，首先提出高要求，再提出较低要求，往往更容易为对方所接受。这在心理学上被称为“拆屋效应”。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据上述定义，下列\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不属于\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"拆屋效应的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287568799,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["某商家首先把价格抬高，然后开展打折活动，往往能吸引更多的顾客前来购买商品", "某学生犯错后离家出走，几天后安全返校，班主任反倒不再过多追究其之前的错误", "某朋友提出一个无理要求遭拒绝后，马上提出一个相对合理的要求，往往更易被接受", "某人在看到多数人作出某一选择时，即使该选择有多么不企理，也会选择妥协"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187879,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"宇航员：探月\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287539980,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["航空公司：飞行", "清洁工：保洁", "志愿者：组织", "药厂：制药"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187881,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"语言：德语\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287556469,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["图书馆：书本", "命题：概念", "有理数：正分数", "地球：卫星"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187884,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"有形损耗：无形损耗\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287570257,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["中国哲学：西方哲学", "蒸馏酒：葡萄酒", "急性中毒：慢性中毒", "有色金属：稀有金属"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187886,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"循规蹈矩：规矩\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287606530,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["年富力强：富强", "功成名就：成就", "待人接物：人物", "伶牙俐齿：牙齿"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187887,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"大豆：酱油\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287622599,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["柠檬：白醋", "淀粉：年糕", "花生：香油", "甘蔗：红糖"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187875,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"亭台：楼宇：砖瓦\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287508607,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["彩虹：阳光：蜃景", "电闪：雷鸣：电荷", "蛋糕：面包：面粉", "核聚变：核裂变：核能"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187878,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"小斑虎猫：虎猫属：猫科\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287534630,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["庄稼：粮食：谷物", "卷尺：尺子：工具", "小学：初中：高中", "少尉：少校：少将"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187882,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"批准：审查：申报\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287561224,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["烹饪：切菜：洗菜", "跑步：走路：爬行", "早退：迟到：报到", "痊愈：治疗：受伤"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187885,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"扇子 对于（  ）相当于（  ）对于 钢笔\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287584164,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["折扇  笔帽", "团扇  墨水", "空调  毛笔", "扇面  圆珠笔"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187888,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"（  ）对于 污染 相当于 起诉 对于（  ）\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287630627,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["防治  驳回", "排放  判决", "农药  原告", "工厂  法院"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187871,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"一般来说，幼儿的体温因阳光照射而上升的幅度比成人小。可是人们发现，在汽车车厢内，如果温度较高，幼儿很容易发生中暑，而成人几乎很少出现这一现象。甚至在\",\"children\":[]},{\"name\":\"tex\",\"value\":\"drhkhkXoEKuXPTcn2z6g3g==?widthRatio=1.857&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"的高温环境下待在车厢里一小时，也不会中暑。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"以下哪项如果为真，最能解释上述发现？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287379702,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在\",\"children\":[]},{\"name\":\"tex\",\"value\":\"uy1bwAyPaLtWCl/apGE5/Q==?widthRatio=2.286&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"岁的幼儿中，年龄越小的孩子，抵抗能力越弱\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"随着年龄的增长，人体内的水分占体液总量的比例变小，体温的变化也不再明显\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"车内属于密闭空间，当室外气温达到\",\"children\":[]},{\"name\":\"tex\",\"value\":\"dg+R1evogjTXL42EKyV5D7Gr+KLy5B2DNx0+UaR1g/g=?widthRatio=4.143&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"时，车内温度就能达到\",\"children\":[]},{\"name\":\"tex\",\"value\":\"drhkhkXoEKuXPTcn2z6g3g==?widthRatio=1.857&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，而成人在车内感到不适时很可能会打开车窗\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"中暑多在丧失了相当于体重\",\"children\":[]},{\"name\":\"tex\",\"value\":\"uKx+Yllq/LyuhtOSK9l8fQ==?widthRatio=1.286&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"的水分时发生，幼儿体重相对应的体表面积更大，能更快地吸收热量，由于汗腺数目与大人相同，水分流失速度更快\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187873,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"甲说：如果考试不合格，就不能被录取。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"乙说：不对。李明考试合格了，但没有被录取。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"乙的回答说明他将甲的话错误地理解为：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287417799,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["有些被录取的人考试合格了", "李明应该被录取", "只要考试合格，就要被录取", "并非所有考试合格的都要被录取"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187874,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在国家发展新兴产业的大背景下，某公司虽然在某产业长期处于领先地位，但上半年的生产数据显示，领先优势越来越小，在邀请专家进行企业诊断后，专家认为该公司领先优势缩小的原因在于公司虽然管理制度健全，但由于企业文化缺乏进取心，导致在好的政策环境下公司发展趋缓。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"以下哪项如果为真，\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不能\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"反驳专家的观点？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287448697,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["相较沿海地区同类公司受益于健全的产业链，公司处于内地，其发展有所受限", "发展趋缓的原因在于长期以来公司下半年的生产数据一般高于上半年", "公司一直注重加强企业文化建设，形成了和谐的企业氛围", "企业文化并不是一个公司的核心竞争力，关键问题在于新产品研发力度不够"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187877,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"美国幼儿教育注重培养孩子的“批判式思维”，其中重要一点就是区分事实陈述与观点陈述，事实陈述是可被验证的，有“真假”，无“好坏”；观点陈述则多为主观体验，受价值观等影响。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"以下广告语中，兼顾事实与观点的是：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287533682,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["金牌巧克力，唤醒你的甜蜜回忆", "量牌65英寸无边框全玻璃超薄电视，给您海一般视野", "喜酒沁人心脾，滴滴难舍，回味无穷", "水平对置发动机，左右对称全时四驱，成就捷牌汽车"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187880,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"自闭症患者往往认知水平低下，一些自闭症患者会表现出述情障碍，即无法理解情感，缺乏对自身或他人情感的认知能力，由于缺乏情感认知能力，人们通常认为自闭症患者比较冷漠。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"以下哪项如果为真，最能支持上述结论？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287552179,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在道德两难的困境中，自闭症患者会为了避免作出伤害性举动而承受强烈的情绪压力\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"述情障碍的发生率在自闭症患者中高达\",\"children\":[]},{\"name\":\"tex\",\"value\":\"lHXVAwSPKLuPlno1uJUdTg==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"左右，远远高于普通人\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"自闭症患者也会对他人产生正常的共情反应，甚至会比普通人更加关注别人的情绪\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"述情障碍虽会伴随自闭症出现，但二者并无必然联系，因为很多普通人也会出现\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187894,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"当人们在海洋游泳时，身体会释放一种看不见的电信号，科研人员根据这一种情况研制了海洋隐形衣，该隐形衣通过屏蔽掉身体释放的电信号，使得鲨鱼等海洋生物无法发现人们的踪迹。这样，人们就可以近距离接触并观察鲨鱼等海洋生物。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"以下哪项是科研人员假设的前提？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524290348388,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["有些海洋生物利用超声波进行信息交流、觅食、发现并躲避天敌", "部分鱼类其视网膜中含有很多视锥细胞，能够敏锐地感受水中细微的光线变化", "鲨鱼等海洋生物是凭借人体释放的电信号来发现人们踪迹的", "该隐形衣非常轻薄，对人们在水下的活动不会形成阻碍"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187895,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"为什么一些灵长类动物的大脑尺寸比其它动物要大？原因通常被认为是社会行为，即灵长类动物生活于更大更复杂的社会群体中，为了更好地处理各种社会关系，它们需要更大的大脑。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"以下哪项如果为真，\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不能\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"质疑上述观点？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524290382435,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["通过灵长类动物的饮食特点而非社群复杂性，能够更容易预测大脑的大小", "猩猩等一些灵长类动物通常是独居生活，但它们的大脑也很大", "大脑皮层的大小与大脑尺寸没有直接关联，但对于灵长类动物的认知、空间推理能力等非常重要", "灵长类动物中，食果类的大脑比食叶类大，这是因为果实在时间和空间上更分散，找到果实是一项更为复杂的任务"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187838,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"目前，人们通过在河流上筑坝建造水电站获得电能，但是地球上适合筑坝的地方为数不多，筑坝也会破坏生态环境。相比之下，海洋覆盖\",\"children\":[]},{\"name\":\"tex\",\"value\":\"crl0dnDnD+pPeIy8YlXZ+Q==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"的地球表面。海面上波涛滚滚，昼夜不息，蕴藏着巨大的能量，收集波浪能适合的海域广，生态环境破坏小。因此，收集波浪能用于发电将比在河流上筑坝发电更有优势。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"以下哪项如果为真，\",\"children\":[]},{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"不能\",\"children\":[]}]},{\"name\":\"txt\",\"value\":\"质疑上述结论？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286883509,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["据估计，全世界可开发利用的波浪能达2.5TW，目前一些小功率的波浪能设备已经推广应用于导航浮标、灯塔等", "河流的流向较为稳定，而波浪是海水的缓慢运动，方向并不固定，在此条件下设立的发电机效率非常低", "不管是在海床上建塔来支撑发电，还是把发电机固定在海床上都要耗费巨资，成本比河流电站要昂贵得多", "河水的水能易于收集，而深海地区及开阔洋面中的波浪能难以提取，可供利用的波浪能仅局限于靠近海岸的地方"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187845,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"甲、乙、丙、丁四人讨论本班同学完成作业的情况。甲说：班里所有同学都写完了作业。乙说：如果小李写完了作业，那么小赵就没有写完作业。丙说：小李写完了作业。丁说：班里有人没有写完作业。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"已知四人中只有一人说的不对，那么可推出下列哪项？\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286919981,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["甲说的不对，小赵没有写完作业", "乙说的不对，小李写完了作业", "丙说的不对，小赵没有写完作业", "丁说的不对，小赵写完了作业"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187848,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"在人际交往的过程中，容貌是最容易观察到的属性特征。和容貌普通的人相比，容貌有吸引力的个体，往往被认为具有较高的能力、较为积极的人格特征和较好的人际关系，甚至收入水平和个人幸福指数也会比较高。在工作中，相同的任务被不同人完成时，通常顾客会对容貌姣好员工的服务质量给予相对较高的评价。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"由此可以推出：\",\"children\":[]}]}]}",
+  "material": null,
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286984072,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["随着容貌吸引力越来越大，人们对其个性特征的评价越来越好", "企业应选择容貌姣好的人为员工，以提高顾客的服务满意度", "简历不应附带照片，因为照片会影响招聘者决策的公平性", "发表文章时提供作者的照片，可以提高读者对文章质量的评价"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187819,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年1～4月份，实物商品网上零售额占社会消费品零售总额的比重约为：\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195086,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据所给资料，回答101～105题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       2017年1～4月份，全国社会消费品网上零售额19180亿元，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"m9keSZRG7LHPkU29222mpg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。其中，实物商品网上零售额14617亿元，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"LmUJ4gJ0YaZqr53sRpCgYw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。在实物商品网上零售额中，吃、穿和用类商品零售额分别增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"MvmXNCLUUp2USwWAErcnZw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，\",\"children\":[]},{\"name\":\"tex\",\"value\":\"9RXg5VZU76DCoI2ofgMLSg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"和\",\"children\":[]},{\"name\":\"tex\",\"value\":\"++ElWEVm4EclKpi/KYphWw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e75975a697c5.png?width=987&height=1080\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286782602,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"HvyLyuBWwYlV3s/oMuuWIA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"JZmQb2f3STd1mQPrumvr3Q==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"oIJkCZtH22nUux+BlCFnDw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"YrQRokfE9Hcei2qESJj3Hg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187827,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年4月份，城镇消费品零售额约是乡村消费品零售额的多少倍？\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195086,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据所给资料，回答101～105题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       2017年1～4月份，全国社会消费品网上零售额19180亿元，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"m9keSZRG7LHPkU29222mpg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。其中，实物商品网上零售额14617亿元，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"LmUJ4gJ0YaZqr53sRpCgYw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。在实物商品网上零售额中，吃、穿和用类商品零售额分别增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"MvmXNCLUUp2USwWAErcnZw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，\",\"children\":[]},{\"name\":\"tex\",\"value\":\"9RXg5VZU76DCoI2ofgMLSg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"和\",\"children\":[]},{\"name\":\"tex\",\"value\":\"++ElWEVm4EclKpi/KYphWw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e75975a697c5.png?width=987&height=1080\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286811998,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["1.2倍", "5.2倍", "5.9倍", "6.2倍"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187833,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年4月份，表中各类商品限额以上单位零售额同比增量最多的是：\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195086,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据所给资料，回答101～105题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       2017年1～4月份，全国社会消费品网上零售额19180亿元，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"m9keSZRG7LHPkU29222mpg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。其中，实物商品网上零售额14617亿元，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"LmUJ4gJ0YaZqr53sRpCgYw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。在实物商品网上零售额中，吃、穿和用类商品零售额分别增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"MvmXNCLUUp2USwWAErcnZw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，\",\"children\":[]},{\"name\":\"tex\",\"value\":\"9RXg5VZU76DCoI2ofgMLSg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"和\",\"children\":[]},{\"name\":\"tex\",\"value\":\"++ElWEVm4EclKpi/KYphWw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e75975a697c5.png?width=987&height=1080\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286839675,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["服装鞋帽、针纺织品", "石油及制品", "汽车", "家用电器和音像器材"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187835,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2016年1～3月份，限额以上单位消费品零售额的绝对量约为多少万亿元？\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195086,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据所给资料，回答101～105题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       2017年1～4月份，全国社会消费品网上零售额19180亿元，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"m9keSZRG7LHPkU29222mpg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。其中，实物商品网上零售额14617亿元，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"LmUJ4gJ0YaZqr53sRpCgYw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。在实物商品网上零售额中，吃、穿和用类商品零售额分别增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"MvmXNCLUUp2USwWAErcnZw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，\",\"children\":[]},{\"name\":\"tex\",\"value\":\"9RXg5VZU76DCoI2ofgMLSg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"和\",\"children\":[]},{\"name\":\"tex\",\"value\":\"++ElWEVm4EclKpi/KYphWw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e75975a697c5.png?width=987&height=1080\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286860775,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["3.0", "3.5", "4.0", "4.5"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187843,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"能够从上述资料中推出的是：\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195086,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据所给资料，回答101～105题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       2017年1～4月份，全国社会消费品网上零售额19180亿元，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"m9keSZRG7LHPkU29222mpg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。其中，实物商品网上零售额14617亿元，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"LmUJ4gJ0YaZqr53sRpCgYw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。在实物商品网上零售额中，吃、穿和用类商品零售额分别增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"MvmXNCLUUp2USwWAErcnZw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，\",\"children\":[]},{\"name\":\"tex\",\"value\":\"9RXg5VZU76DCoI2ofgMLSg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"和\",\"children\":[]},{\"name\":\"tex\",\"value\":\"++ElWEVm4EclKpi/KYphWw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e75975a697c5.png?width=987&height=1080\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524286916223,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年1～4月份，限额以上单位餐饮收入同比增速快于限额以下单位餐饮收入\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年1～4月份，非实物类社会消费品网上零售额为5000多亿元\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年4月份，粮油、食品类限额以上单位商品零售额占限额以上单位商品零售总额的一成多\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2017年第一季度烟酒类限额以上单位商品零售额同比增速不超过\",\"children\":[]},{\"name\":\"tex\",\"value\":\"BLpNNubPXaFR9rw+jmvGzw==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187862,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"J省2015年规模以上工业取水量约为多少亿立方米？\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195088,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据所给资料，回答106～110题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       2016年，J省规模以上工业取水量为86.4亿立方米，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"Ma+Ct1Xv2Vovkg6IpVAsPA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。其中，直接采自江、河、淡水湖、水库等的地表淡水68.1亿立方米，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"g58uEo4P5pdYhFP3N02TZA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，所占比重比上年下降0.4个百分点；自来水取水量15.9亿立方米，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"WcRJB2LiTaJBg56Fn/6/SQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       2016年，规模以上工业重复用水量168.4亿立方米，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"E6ocyfosz4o9WQ21UCKZVg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；重复用水利用率\",\"children\":[]},{\"name\":\"tex\",\"value\":\"QJYy6FyHNrQaaivXIUQeTw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比上年提高0.1个百分点。其中，石油加工、黑色金属冶炼及压延加工、电力和化学原料等4个行业的重复用水总量占规模以上工业的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"vn/0VYlI1dIT1/tfh1XcIQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，重复用水利用率分别为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"XTl406ZHfSPJ2+YlGLvsyQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"、\",\"children\":[]},{\"name\":\"tex\",\"value\":\"RYw3dRWbeUMYbwpU/Jz0zQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"、\",\"children\":[]},{\"name\":\"tex\",\"value\":\"BVPq4XEuNqzZk4UHa3/FuA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"和\",\"children\":[]},{\"name\":\"tex\",\"value\":\"1h+gUvD8rDk+7isec86SoA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。全年用新水量超过2亿立方米的5个行业用新水量合计19.1亿立方米，占总用新水量的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"H2TYTpk/T7q1v9KEagpVGw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比重比上年下降0.9个百分点。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e75ce9723e83.png?width=1179&height=742\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e75d31483a4c.png?width=1724&height=651\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287297954,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["90", "83", "74", "65"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187867,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"J省2016年规模以上工业自来水取水量占总取水量的比重比上年：\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195088,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据所给资料，回答106～110题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       2016年，J省规模以上工业取水量为86.4亿立方米，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"Ma+Ct1Xv2Vovkg6IpVAsPA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。其中，直接采自江、河、淡水湖、水库等的地表淡水68.1亿立方米，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"g58uEo4P5pdYhFP3N02TZA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，所占比重比上年下降0.4个百分点；自来水取水量15.9亿立方米，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"WcRJB2LiTaJBg56Fn/6/SQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       2016年，规模以上工业重复用水量168.4亿立方米，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"E6ocyfosz4o9WQ21UCKZVg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；重复用水利用率\",\"children\":[]},{\"name\":\"tex\",\"value\":\"QJYy6FyHNrQaaivXIUQeTw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比上年提高0.1个百分点。其中，石油加工、黑色金属冶炼及压延加工、电力和化学原料等4个行业的重复用水总量占规模以上工业的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"vn/0VYlI1dIT1/tfh1XcIQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，重复用水利用率分别为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"XTl406ZHfSPJ2+YlGLvsyQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"、\",\"children\":[]},{\"name\":\"tex\",\"value\":\"RYw3dRWbeUMYbwpU/Jz0zQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"、\",\"children\":[]},{\"name\":\"tex\",\"value\":\"BVPq4XEuNqzZk4UHa3/FuA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"和\",\"children\":[]},{\"name\":\"tex\",\"value\":\"1h+gUvD8rDk+7isec86SoA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。全年用新水量超过2亿立方米的5个行业用新水量合计19.1亿立方米，占总用新水量的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"H2TYTpk/T7q1v9KEagpVGw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比重比上年下降0.9个百分点。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e75ce9723e83.png?width=1179&height=742\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e75d31483a4c.png?width=1724&height=651\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287333710,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["提高0.3个百分点", "下降0.3个百分点", "提高4个百分点", "下降4个百分点"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187870,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2016年J省用新水量最多的2个行业，用新水量占全省规模以上工业用新水总量的比重相差约多少个百分点？\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195088,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据所给资料，回答106～110题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       2016年，J省规模以上工业取水量为86.4亿立方米，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"Ma+Ct1Xv2Vovkg6IpVAsPA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。其中，直接采自江、河、淡水湖、水库等的地表淡水68.1亿立方米，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"g58uEo4P5pdYhFP3N02TZA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，所占比重比上年下降0.4个百分点；自来水取水量15.9亿立方米，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"WcRJB2LiTaJBg56Fn/6/SQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       2016年，规模以上工业重复用水量168.4亿立方米，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"E6ocyfosz4o9WQ21UCKZVg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；重复用水利用率\",\"children\":[]},{\"name\":\"tex\",\"value\":\"QJYy6FyHNrQaaivXIUQeTw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比上年提高0.1个百分点。其中，石油加工、黑色金属冶炼及压延加工、电力和化学原料等4个行业的重复用水总量占规模以上工业的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"vn/0VYlI1dIT1/tfh1XcIQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，重复用水利用率分别为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"XTl406ZHfSPJ2+YlGLvsyQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"、\",\"children\":[]},{\"name\":\"tex\",\"value\":\"RYw3dRWbeUMYbwpU/Jz0zQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"、\",\"children\":[]},{\"name\":\"tex\",\"value\":\"BVPq4XEuNqzZk4UHa3/FuA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"和\",\"children\":[]},{\"name\":\"tex\",\"value\":\"1h+gUvD8rDk+7isec86SoA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。全年用新水量超过2亿立方米的5个行业用新水量合计19.1亿立方米，占总用新水量的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"H2TYTpk/T7q1v9KEagpVGw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比重比上年下降0.9个百分点。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e75ce9723e83.png?width=1179&height=742\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e75d31483a4c.png?width=1724&height=651\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287378663,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["5.3", "6.7", "7.9", "9.5"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187872,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"J省2016年规模以上工业地表淡水取水量比地下淡水取水量高：\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195088,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据所给资料，回答106～110题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       2016年，J省规模以上工业取水量为86.4亿立方米，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"Ma+Ct1Xv2Vovkg6IpVAsPA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。其中，直接采自江、河、淡水湖、水库等的地表淡水68.1亿立方米，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"g58uEo4P5pdYhFP3N02TZA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，所占比重比上年下降0.4个百分点；自来水取水量15.9亿立方米，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"WcRJB2LiTaJBg56Fn/6/SQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       2016年，规模以上工业重复用水量168.4亿立方米，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"E6ocyfosz4o9WQ21UCKZVg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；重复用水利用率\",\"children\":[]},{\"name\":\"tex\",\"value\":\"QJYy6FyHNrQaaivXIUQeTw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比上年提高0.1个百分点。其中，石油加工、黑色金属冶炼及压延加工、电力和化学原料等4个行业的重复用水总量占规模以上工业的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"vn/0VYlI1dIT1/tfh1XcIQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，重复用水利用率分别为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"XTl406ZHfSPJ2+YlGLvsyQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"、\",\"children\":[]},{\"name\":\"tex\",\"value\":\"RYw3dRWbeUMYbwpU/Jz0zQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"、\",\"children\":[]},{\"name\":\"tex\",\"value\":\"BVPq4XEuNqzZk4UHa3/FuA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"和\",\"children\":[]},{\"name\":\"tex\",\"value\":\"1h+gUvD8rDk+7isec86SoA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。全年用新水量超过2亿立方米的5个行业用新水量合计19.1亿立方米，占总用新水量的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"H2TYTpk/T7q1v9KEagpVGw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比重比上年下降0.9个百分点。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e75ce9723e83.png?width=1179&height=742\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e75d31483a4c.png?width=1724&height=651\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287417424,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["68亿立方米以上", "67亿多立方米", "66亿多立方米", "66亿立方米以下"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187876,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"能够从上述资料中推出的是：\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195088,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据所给资料，回答106～110题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       2016年，J省规模以上工业取水量为86.4亿立方米，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"Ma+Ct1Xv2Vovkg6IpVAsPA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。其中，直接采自江、河、淡水湖、水库等的地表淡水68.1亿立方米，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"g58uEo4P5pdYhFP3N02TZA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，所占比重比上年下降0.4个百分点；自来水取水量15.9亿立方米，同比增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"WcRJB2LiTaJBg56Fn/6/SQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"       2016年，规模以上工业重复用水量168.4亿立方米，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"E6ocyfosz4o9WQ21UCKZVg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；重复用水利用率\",\"children\":[]},{\"name\":\"tex\",\"value\":\"QJYy6FyHNrQaaivXIUQeTw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比上年提高0.1个百分点。其中，石油加工、黑色金属冶炼及压延加工、电力和化学原料等4个行业的重复用水总量占规模以上工业的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"vn/0VYlI1dIT1/tfh1XcIQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，重复用水利用率分别为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"XTl406ZHfSPJ2+YlGLvsyQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"、\",\"children\":[]},{\"name\":\"tex\",\"value\":\"RYw3dRWbeUMYbwpU/Jz0zQ==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"、\",\"children\":[]},{\"name\":\"tex\",\"value\":\"BVPq4XEuNqzZk4UHa3/FuA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"和\",\"children\":[]},{\"name\":\"tex\",\"value\":\"1h+gUvD8rDk+7isec86SoA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。全年用新水量超过2亿立方米的5个行业用新水量合计19.1亿立方米，占总用新水量的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"H2TYTpk/T7q1v9KEagpVGw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，比重比上年下降0.9个百分点。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e75ce9723e83.png?width=1179&height=742\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e75d31483a4c.png?width=1724&height=651\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287512389,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"用新水量第4名的行业，重复用水利用率不到\",\"children\":[]},{\"name\":\"tex\",\"value\":\"Ir+3/C3/DT9uwiEduewaeQ==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2015年规模以上工业重复用水利用率为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"ee0J141hfQSr1Orud9YS5w==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2016年电力行业重复用水利用率高于石油加工行业\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2016年规模以上工业从其他水源取水不到1亿立方米\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187889,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"已知7月29日为星期六，问A影片8月6日票房至少要达到多少亿元，才能在上映后第二个周末（星期六和星期日）的票房不低于第一个周末票房的1.25倍？\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195089,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据所给资料，回答111～115题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e75e7b7c4b19.png?width=1086&height=599\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e75ee952ddc2.png?width=745&height=439\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"注：该影片上映时间为7月27日。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"0Z6FlSgULCLaQm5ea9GNTHoJ0//Nm+t0KiLFmf5WMPE=?widthRatio=3.929&heightRatio=1.286\",\"children\":[]},{\"name\":\"tex\",\"value\":\"clUaL9W3grFQ5JK2yyIf2tU5JkomzSD9KgDf+vd3CvH5w5yEMlY35iPrlPIR7lgB?widthRatio=10.5&heightRatio=1.286\",\"children\":[]},{\"name\":\"tex\",\"value\":\"irBOTJuAqidqw0Sl04TUbe343Z7XQaUGRoUTkkg0u6d7F6idaiMCngJ2rUxUyGC4U2JfnZsTOWcp0lOovUWNxw==?widthRatio=14.857&heightRatio=1.286\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524289602481,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["4.1", "4.25", "4.3", "4.45"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187890,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"8月3日，除A影片之外的其他影片票房总额在以下哪个范围内？\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195089,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据所给资料，回答111～115题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e75e7b7c4b19.png?width=1086&height=599\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e75ee952ddc2.png?width=745&height=439\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"注：该影片上映时间为7月27日。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"0Z6FlSgULCLaQm5ea9GNTHoJ0//Nm+t0KiLFmf5WMPE=?widthRatio=3.929&heightRatio=1.286\",\"children\":[]},{\"name\":\"tex\",\"value\":\"clUaL9W3grFQ5JK2yyIf2tU5JkomzSD9KgDf+vd3CvH5w5yEMlY35iPrlPIR7lgB?widthRatio=10.5&heightRatio=1.286\",\"children\":[]},{\"name\":\"tex\",\"value\":\"irBOTJuAqidqw0Sl04TUbe343Z7XQaUGRoUTkkg0u6d7F6idaiMCngJ2rUxUyGC4U2JfnZsTOWcp0lOovUWNxw==?widthRatio=14.857&heightRatio=1.286\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524289629487,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["不到1.6亿元", "在1.6亿～2.2亿元之间", "在2.2～2.8亿元之间", "高于2.8亿元"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187891,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"7月28日～8月5日间，A影片票房环比增速最快的单日，当日A影片占全国总票房的比例在该影片上映10天内排名：\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195089,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据所给资料，回答111～115题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e75e7b7c4b19.png?width=1086&height=599\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e75ee952ddc2.png?width=745&height=439\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"注：该影片上映时间为7月27日。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"0Z6FlSgULCLaQm5ea9GNTHoJ0//Nm+t0KiLFmf5WMPE=?widthRatio=3.929&heightRatio=1.286\",\"children\":[]},{\"name\":\"tex\",\"value\":\"clUaL9W3grFQ5JK2yyIf2tU5JkomzSD9KgDf+vd3CvH5w5yEMlY35iPrlPIR7lgB?widthRatio=10.5&heightRatio=1.286\",\"children\":[]},{\"name\":\"tex\",\"value\":\"irBOTJuAqidqw0Sl04TUbe343Z7XQaUGRoUTkkg0u6d7F6idaiMCngJ2rUxUyGC4U2JfnZsTOWcp0lOovUWNxw==?widthRatio=14.857&heightRatio=1.286\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524289647447,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["第7", "第6", "第5", "第4"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "0",
+    "type": 201
+  }
+}, {
+  "id": 2187892,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"如全国所有放映厅座位数相同，则8月5日B影片观影人次数约是C影片的多少倍？\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195089,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据所给资料，回答111～115题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e75e7b7c4b19.png?width=1086&height=599\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e75ee952ddc2.png?width=745&height=439\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"注：该影片上映时间为7月27日。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"0Z6FlSgULCLaQm5ea9GNTHoJ0//Nm+t0KiLFmf5WMPE=?widthRatio=3.929&heightRatio=1.286\",\"children\":[]},{\"name\":\"tex\",\"value\":\"clUaL9W3grFQ5JK2yyIf2tU5JkomzSD9KgDf+vd3CvH5w5yEMlY35iPrlPIR7lgB?widthRatio=10.5&heightRatio=1.286\",\"children\":[]},{\"name\":\"tex\",\"value\":\"irBOTJuAqidqw0Sl04TUbe343Z7XQaUGRoUTkkg0u6d7F6idaiMCngJ2rUxUyGC4U2JfnZsTOWcp0lOovUWNxw==?widthRatio=14.857&heightRatio=1.286\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524289669609,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["3", "4", "5", "6"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187893,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"以下信息中，能够从上述资料中推出的有几条？\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"①A影片上映第6～10日票房之和高于前5日票房之和\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"②8月2日全国总票房高于8月1日水平\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"③8月5日B影片票房占当日全国总票房的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"/Lh6tiSL4efMtwqcND79JA==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"以上\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"④8月5日A影片的上映场次是E影片的20多倍\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195089,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据所给资料，回答111～115题。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e75e7b7c4b19.png?width=1086&height=599\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"img\",\"value\":\"162e75ee952ddc2.png?width=745&height=439\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"注：该影片上映时间为7月27日。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"0Z6FlSgULCLaQm5ea9GNTHoJ0//Nm+t0KiLFmf5WMPE=?widthRatio=3.929&heightRatio=1.286\",\"children\":[]},{\"name\":\"tex\",\"value\":\"clUaL9W3grFQ5JK2yyIf2tU5JkomzSD9KgDf+vd3CvH5w5yEMlY35iPrlPIR7lgB?widthRatio=10.5&heightRatio=1.286\",\"children\":[]},{\"name\":\"tex\",\"value\":\"irBOTJuAqidqw0Sl04TUbe343Z7XQaUGRoUTkkg0u6d7F6idaiMCngJ2rUxUyGC4U2JfnZsTOWcp0lOovUWNxw==?widthRatio=14.857&heightRatio=1.286\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524289709847,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["1", "2", "3", "4"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187853,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2016年我国国内航线完成旅客吞吐量占总旅客吞吐量的比重比国内航线完成货邮吞吐量占总货邮吞吐量的比重：\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195087,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据所给资料，回答116～120题。\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2016年，我国境内民用航空（颁证）机场共218个（不含香港、澳门和台湾地区，以下简称境内机场）。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2016年我国境内机场全年完成旅客吞吐量101635.7万人次，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"AwXCXt23JbkBOvPES5uaUA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。分航线看，国内航线完成91401.7万人次，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"QOD/JaS8YIH+S3pVRDu/9g==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；其中内地至香港、澳门和台湾地区航线完成2764.5 万人次，下降\",\"children\":[]},{\"name\":\"tex\",\"value\":\"ZEetv9S+p/9ZbNc5Ml0yig==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。国际航线完成10234.0万人次，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"MvmXNCLUUp2USwWAErcnZw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        全年完成货邮吞吐量1510.4 万吨，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"oBg/lkLQzxz2NIIwQnt/VQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。分航线看，国内航线完成974.0 万吨，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"cBjN3auKU76IXHSRatS6Ug==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；其中内地至香港、澳门和台湾地区航线完成93.6万吨，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"/x6izx2W6qQ4aLk1ctU/kg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。国际航线完成536.4万吨，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"o4gvPO75ZLFinJGXytJceA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        全年完成飞机起降923.8万架次，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NqOxs7ekgTNAeGAEeML1mQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；其中运输架次为793.5万架次，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"63UupEt14PIiwRNAzE0XNA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。分航线看，国内航线完成842.8万架次，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"sI1fvXSTNRTh6SNLF2brMQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；其中内地至香港、澳门和台湾地区航线完成20.3万架次，下降\",\"children\":[]},{\"name\":\"tex\",\"value\":\"k9zwDgTfsovzIWc4d4LoIQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。国际航线完成81.0万架次，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"O0SeB7KKUPWvaU8SxCF47A==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2016年，年旅客吞吐量1000万人次以上的机场有28个，较上年净增2个，完成旅客吞吐量占全部境内机场旅客吞吐量的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"1xPQToRmurrPPEZyqscrXg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。年旅客吞吐量200～1000万人次的机场有21个，较上年净减1个，完成旅客吞吐量占全部境内机场旅客吞吐量的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"UPDpptFDrbtrubkrYIQ0Sg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。年旅客吞吐量200万人次以下的机场有169个，较上年净增7个，完成旅客吞吐量占全部境内机场旅客吞吐量的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"arFjWMqwSgoD+2KflakWJQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287168628,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["高5个百分点", "高25个百分点", "低5个百分点", "低25个百分点"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "1",
+    "type": 201
+  }
+}, {
+  "id": 2187857,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2016年我国完成的所有民用飞机起降中，不承担运输任务的架次数占比约为：\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195087,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据所给资料，回答116～120题。\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2016年，我国境内民用航空（颁证）机场共218个（不含香港、澳门和台湾地区，以下简称境内机场）。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2016年我国境内机场全年完成旅客吞吐量101635.7万人次，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"AwXCXt23JbkBOvPES5uaUA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。分航线看，国内航线完成91401.7万人次，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"QOD/JaS8YIH+S3pVRDu/9g==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；其中内地至香港、澳门和台湾地区航线完成2764.5 万人次，下降\",\"children\":[]},{\"name\":\"tex\",\"value\":\"ZEetv9S+p/9ZbNc5Ml0yig==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。国际航线完成10234.0万人次，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"MvmXNCLUUp2USwWAErcnZw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        全年完成货邮吞吐量1510.4 万吨，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"oBg/lkLQzxz2NIIwQnt/VQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。分航线看，国内航线完成974.0 万吨，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"cBjN3auKU76IXHSRatS6Ug==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；其中内地至香港、澳门和台湾地区航线完成93.6万吨，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"/x6izx2W6qQ4aLk1ctU/kg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。国际航线完成536.4万吨，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"o4gvPO75ZLFinJGXytJceA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        全年完成飞机起降923.8万架次，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NqOxs7ekgTNAeGAEeML1mQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；其中运输架次为793.5万架次，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"63UupEt14PIiwRNAzE0XNA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。分航线看，国内航线完成842.8万架次，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"sI1fvXSTNRTh6SNLF2brMQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；其中内地至香港、澳门和台湾地区航线完成20.3万架次，下降\",\"children\":[]},{\"name\":\"tex\",\"value\":\"k9zwDgTfsovzIWc4d4LoIQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。国际航线完成81.0万架次，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"O0SeB7KKUPWvaU8SxCF47A==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2016年，年旅客吞吐量1000万人次以上的机场有28个，较上年净增2个，完成旅客吞吐量占全部境内机场旅客吞吐量的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"1xPQToRmurrPPEZyqscrXg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。年旅客吞吐量200～1000万人次的机场有21个，较上年净减1个，完成旅客吞吐量占全部境内机场旅客吞吐量的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"UPDpptFDrbtrubkrYIQ0Sg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。年旅客吞吐量200万人次以下的机场有169个，较上年净增7个，完成旅客吞吐量占全部境内机场旅客吞吐量的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"arFjWMqwSgoD+2KflakWJQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287225761,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"37SQxFy/59w8aqRgTlJ0og==?widthRatio=1.286&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"fwoYrA6HwfVkWbPhaa5yqA==?widthRatio=1.286&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"UZAy1Es5CviEawxh0uEFmw==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}", "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"tex\",\"value\":\"EIlzJC0gyWoy68EeKpEykg==?widthRatio=1.786&heightRatio=1.286\",\"children\":[]}]}]}"],
+    "type": 102
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187859,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"2016年我国平均每个境内民用航空机场日均完成国内航线飞机起降约多少架次？\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195087,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据所给资料，回答116～120题。\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2016年，我国境内民用航空（颁证）机场共218个（不含香港、澳门和台湾地区，以下简称境内机场）。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2016年我国境内机场全年完成旅客吞吐量101635.7万人次，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"AwXCXt23JbkBOvPES5uaUA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。分航线看，国内航线完成91401.7万人次，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"QOD/JaS8YIH+S3pVRDu/9g==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；其中内地至香港、澳门和台湾地区航线完成2764.5 万人次，下降\",\"children\":[]},{\"name\":\"tex\",\"value\":\"ZEetv9S+p/9ZbNc5Ml0yig==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。国际航线完成10234.0万人次，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"MvmXNCLUUp2USwWAErcnZw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        全年完成货邮吞吐量1510.4 万吨，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"oBg/lkLQzxz2NIIwQnt/VQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。分航线看，国内航线完成974.0 万吨，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"cBjN3auKU76IXHSRatS6Ug==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；其中内地至香港、澳门和台湾地区航线完成93.6万吨，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"/x6izx2W6qQ4aLk1ctU/kg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。国际航线完成536.4万吨，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"o4gvPO75ZLFinJGXytJceA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        全年完成飞机起降923.8万架次，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NqOxs7ekgTNAeGAEeML1mQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；其中运输架次为793.5万架次，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"63UupEt14PIiwRNAzE0XNA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。分航线看，国内航线完成842.8万架次，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"sI1fvXSTNRTh6SNLF2brMQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；其中内地至香港、澳门和台湾地区航线完成20.3万架次，下降\",\"children\":[]},{\"name\":\"tex\",\"value\":\"k9zwDgTfsovzIWc4d4LoIQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。国际航线完成81.0万架次，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"O0SeB7KKUPWvaU8SxCF47A==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2016年，年旅客吞吐量1000万人次以上的机场有28个，较上年净增2个，完成旅客吞吐量占全部境内机场旅客吞吐量的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"1xPQToRmurrPPEZyqscrXg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。年旅客吞吐量200～1000万人次的机场有21个，较上年净减1个，完成旅客吞吐量占全部境内机场旅客吞吐量的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"UPDpptFDrbtrubkrYIQ0Sg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。年旅客吞吐量200万人次以下的机场有169个，较上年净增7个，完成旅客吞吐量占全部境内机场旅客吞吐量的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"arFjWMqwSgoD+2KflakWJQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287249048,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["75", "91", "106", "124"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "2",
+    "type": 201
+  }
+}, {
+  "id": 2187865,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"假设2016年全年旅客吞吐量1000万人次以上的机场的平均旅客吞吐量为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"uswT/CEcOIwMpCvTz/zeaA==?widthRatio=0.929&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，全年旅客吞吐量200万人次以下的机场平均旅客吞吐量为\",\"children\":[]},{\"name\":\"tex\",\"value\":\"h9C4nePGcGllh55hxKIsUw==?widthRatio=0.857&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"，则\",\"children\":[]},{\"name\":\"tex\",\"value\":\"mVP78PhROFckooAHMGs6eA==?widthRatio=2.143&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"的值约为：\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195087,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据所给资料，回答116～120题。\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2016年，我国境内民用航空（颁证）机场共218个（不含香港、澳门和台湾地区，以下简称境内机场）。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2016年我国境内机场全年完成旅客吞吐量101635.7万人次，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"AwXCXt23JbkBOvPES5uaUA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。分航线看，国内航线完成91401.7万人次，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"QOD/JaS8YIH+S3pVRDu/9g==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；其中内地至香港、澳门和台湾地区航线完成2764.5 万人次，下降\",\"children\":[]},{\"name\":\"tex\",\"value\":\"ZEetv9S+p/9ZbNc5Ml0yig==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。国际航线完成10234.0万人次，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"MvmXNCLUUp2USwWAErcnZw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        全年完成货邮吞吐量1510.4 万吨，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"oBg/lkLQzxz2NIIwQnt/VQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。分航线看，国内航线完成974.0 万吨，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"cBjN3auKU76IXHSRatS6Ug==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；其中内地至香港、澳门和台湾地区航线完成93.6万吨，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"/x6izx2W6qQ4aLk1ctU/kg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。国际航线完成536.4万吨，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"o4gvPO75ZLFinJGXytJceA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        全年完成飞机起降923.8万架次，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NqOxs7ekgTNAeGAEeML1mQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；其中运输架次为793.5万架次，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"63UupEt14PIiwRNAzE0XNA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。分航线看，国内航线完成842.8万架次，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"sI1fvXSTNRTh6SNLF2brMQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；其中内地至香港、澳门和台湾地区航线完成20.3万架次，下降\",\"children\":[]},{\"name\":\"tex\",\"value\":\"k9zwDgTfsovzIWc4d4LoIQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。国际航线完成81.0万架次，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"O0SeB7KKUPWvaU8SxCF47A==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2016年，年旅客吞吐量1000万人次以上的机场有28个，较上年净增2个，完成旅客吞吐量占全部境内机场旅客吞吐量的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"1xPQToRmurrPPEZyqscrXg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。年旅客吞吐量200～1000万人次的机场有21个，较上年净减1个，完成旅客吞吐量占全部境内机场旅客吞吐量的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"UPDpptFDrbtrubkrYIQ0Sg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。年旅客吞吐量200万人次以下的机场有169个，较上年净增7个，完成旅客吞吐量占全部境内机场旅客吞吐量的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"arFjWMqwSgoD+2KflakWJQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287321105,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["15", "29", "40", "59"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}, {
+  "id": 2187869,
+  "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"关于我国境内机场运输状况，能够从上述资料中推出的是：\",\"children\":[]}]}]}",
+  "material": {
+    "id": 195087,
+    "content": "{\"name\":\"doc\",\"value\":\"\",\"children\":[{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"b\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"根据所给资料，回答116～120题。\",\"children\":[]}]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2016年，我国境内民用航空（颁证）机场共218个（不含香港、澳门和台湾地区，以下简称境内机场）。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2016年我国境内机场全年完成旅客吞吐量101635.7万人次，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"AwXCXt23JbkBOvPES5uaUA==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。分航线看，国内航线完成91401.7万人次，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"QOD/JaS8YIH+S3pVRDu/9g==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；其中内地至香港、澳门和台湾地区航线完成2764.5 万人次，下降\",\"children\":[]},{\"name\":\"tex\",\"value\":\"ZEetv9S+p/9ZbNc5Ml0yig==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。国际航线完成10234.0万人次，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"MvmXNCLUUp2USwWAErcnZw==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        全年完成货邮吞吐量1510.4 万吨，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"oBg/lkLQzxz2NIIwQnt/VQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。分航线看，国内航线完成974.0 万吨，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"cBjN3auKU76IXHSRatS6Ug==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；其中内地至香港、澳门和台湾地区航线完成93.6万吨，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"/x6izx2W6qQ4aLk1ctU/kg==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。国际航线完成536.4万吨，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"o4gvPO75ZLFinJGXytJceA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        全年完成飞机起降923.8万架次，比上年增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"NqOxs7ekgTNAeGAEeML1mQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；其中运输架次为793.5万架次，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"63UupEt14PIiwRNAzE0XNA==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。分航线看，国内航线完成842.8万架次，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"sI1fvXSTNRTh6SNLF2brMQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"；其中内地至香港、澳门和台湾地区航线完成20.3万架次，下降\",\"children\":[]},{\"name\":\"tex\",\"value\":\"k9zwDgTfsovzIWc4d4LoIQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。国际航线完成81.0万架次，增长\",\"children\":[]},{\"name\":\"tex\",\"value\":\"O0SeB7KKUPWvaU8SxCF47A==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]},{\"name\":\"p\",\"value\":\"\",\"children\":[{\"name\":\"txt\",\"value\":\"        2016年，年旅客吞吐量1000万人次以上的机场有28个，较上年净增2个，完成旅客吞吐量占全部境内机场旅客吞吐量的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"1xPQToRmurrPPEZyqscrXg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。年旅客吞吐量200～1000万人次的机场有21个，较上年净减1个，完成旅客吞吐量占全部境内机场旅客吞吐量的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"UPDpptFDrbtrubkrYIQ0Sg==?widthRatio=2.571&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。年旅客吞吐量200万人次以下的机场有169个，较上年净增7个，完成旅客吞吐量占全部境内机场旅客吞吐量的\",\"children\":[]},{\"name\":\"tex\",\"value\":\"arFjWMqwSgoD+2KflakWJQ==?widthRatio=2.071&heightRatio=1.286\",\"children\":[]},{\"name\":\"txt\",\"value\":\"。\",\"children\":[]}]}]}",
+    "accessories": []
+  },
+  "type": 1,
+  "difficulty": 5,
+  "createdTime": 1524287357047,
+  "shortSource": null,
+  "accessories": [{
+    "options": ["2016年内地至香港、澳门、台湾地区旅客和货物吞吐量均同比下降", "2016年我国国际航线货邮吞吐量同比增速快于旅客吞吐量增速", "2015年我国旅客吞吐量200万人次以上的机场为50个", "2015年我国境内民用航空机场为210个"],
+    "type": 101
+  }],
+  "correctAnswer": {
+    "choice": "3",
+    "type": 201
+  }
+}]
