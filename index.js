@@ -3,15 +3,17 @@ const path = require('path')
 const http = require('http')
 const officegen = require('officegen')
 
-const files =fs.readdirSync(path.join(__dirname, './data/'))
-files.map(f => {
+
+const handleFile = (f) => {
     const contentText = fs.readFileSync(path.join(__dirname, './data/' + f), 'utf-8')
-    const doc = fs.createWriteStream(path.join(__dirname, './doc/' + f.split('.')[0] + '.docx'));
+    const analysisText = fs.readFileSync(path.join(__dirname, './analysis/' + f), 'utf-8')
+    const doc = fs.createWriteStream(path.join(__dirname, './doc/' + f.split('.')[0] + '.docx'))
 
     const contentJson = JSON.parse(contentText)
+    const analysisJson = JSON.parse(analysisText)
     const docConfig = {
         'type': 'docx',
-        'subject': files[0],
+        'subject': f,
         'keywords': '',
         'description': ''
     }
@@ -64,6 +66,7 @@ files.map(f => {
     //处理图片
     const todoImg = async (value, pObj) => {
         const uri = `http://fb.fbstatic.cn/api/xingce/images/${value}`
+
         const outPath = path.join(__dirname, `./tmp/${value.split('?')[0]}`)
         const exists = fs.existsSync(outPath)
 
@@ -197,6 +200,21 @@ files.map(f => {
         }
     }
 
+    //处理每题解析
+    const handleAnalysis = ({json, pObj}) => {
+        const solution = JSON.parse(analysisJson.filter(a => a.id === json.id)[0]['solution'])
+
+        const _pObj = docx.createP()
+        _pObj.addText('解析:', {
+            align: 'left',
+            font_face: 'Arial',
+            font_size: 14
+        })
+        recursionChildren(solution, _pObj)
+
+        return {json, pObj}
+    }
+
     //每题间隔
     const handleSpace = () => {
         const pObj = docx.createP()
@@ -206,6 +224,7 @@ files.map(f => {
     contentJson.map(c => {
         compose(
             handleSpace,
+            handleAnalysis,
             handleAnswer,
             handleAccessories,
             handleContent,
@@ -223,4 +242,9 @@ files.map(f => {
             console.log ( err );
         }
     })
-})
+}
+
+handleFile('2018年421联考《行测》真题（天津卷）（网友回忆版）.json')
+
+/*const files =fs.readdirSync(path.join(__dirname, './data/'))
+files.map(f =>handleFile(f))*/
