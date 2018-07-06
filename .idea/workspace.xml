@@ -2,36 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e141d44-b6d9-4afc-bde8-35c00d389dbb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/analysis/2018年421联考《行测》真题（天津卷）（网友回忆版）.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/2018年421联考《行测》真题（云南卷）（网友回忆版）.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/2018年421联考《行测》真题（内蒙古卷）（网友回忆版）.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/2018年421联考《行测》真题（吉林乙级）（网友回忆版）.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/2018年421联考《行测》真题（吉林甲级）（网友回忆版）.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/2018年421联考《行测》真题（四川卷）（网友回忆版）.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/2018年421联考《行测》真题（宁夏卷）（网友回忆版）.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/2018年421联考《行测》真题（安徽卷）（网友回忆版）.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/2018年421联考《行测》真题（山东卷）（网友回忆版）.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/2018年421联考《行测》真题（山西卷）（网友回忆版）.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/2018年421联考《行测》真题（新疆卷）（网友回忆版）.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/2018年421联考《行测》真题（江西卷）（网友回忆版）.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/2018年421联考《行测》真题（河北卷）（网友回忆版）.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/2018年421联考《行测》真题（海南卷）（网友回忆版）.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/2018年421联考《行测》真题（湖北卷）（网友回忆版）.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/2018年421联考《行测》真题（湖南卷）（网友回忆版）.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/2018年421联考《行测》真题（甘肃卷）（网友回忆版）.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/2018年421联考《行测》真题（福建卷）（网友回忆版）.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/2018年421联考《行测》真题（贵州卷）（网友回忆版）.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/2018年421联考《行测》真题（重庆卷）（网友回忆版）.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/2018年421联考《行测》真题（陕西卷）（网友回忆版）.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/2018年421联考《行测》真题（黑龙江卷）（网友回忆版）（省直）.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/2018年上海市公务员录用考试《行测》真题（B类）（网友回忆版）.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/2018年广西公务员录用考试《行测》真题（网友回忆版）.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/2018年江苏省公务员录用考试《行测》真题（A类）（网友回忆版）.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/2018年江苏省公务员录用考试《行测》真题（B类）（网友回忆版）.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/2018年江苏省公务员录用考试《行测》真题（C类）（网友回忆版）.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2018年421联考《行测》真题（云南卷）（网友回忆版）.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/2018年421联考《行测》真题（云南卷）（网友回忆版）.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2018年421联考《行测》真题（内蒙古卷）（网友回忆版）.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/2018年421联考《行测》真题（内蒙古卷）（网友回忆版）.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2018年421联考《行测》真题（吉林乙级）（网友回忆版）.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/2018年421联考《行测》真题（吉林乙级）（网友回忆版）.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2018年421联考《行测》真题（吉林甲级）（网友回忆版）.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/2018年421联考《行测》真题（吉林甲级）（网友回忆版）.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2018年421联考《行测》真题（四川卷）（网友回忆版）.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/2018年421联考《行测》真题（四川卷）（网友回忆版）.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2018年421联考《行测》真题（天津卷）（网友回忆版）.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/2018年421联考《行测》真题（天津卷）（网友回忆版）.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2018年421联考《行测》真题（宁夏卷）（网友回忆版）.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/2018年421联考《行测》真题（宁夏卷）（网友回忆版）.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2018年421联考《行测》真题（安徽卷）（网友回忆版）.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/2018年421联考《行测》真题（安徽卷）（网友回忆版）.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2018年421联考《行测》真题（山东卷）（网友回忆版）.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/2018年421联考《行测》真题（山东卷）（网友回忆版）.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2018年421联考《行测》真题（山西卷）（网友回忆版）.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/2018年421联考《行测》真题（山西卷）（网友回忆版）.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2018年421联考《行测》真题（新疆卷）（网友回忆版）.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/2018年421联考《行测》真题（新疆卷）（网友回忆版）.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2018年421联考《行测》真题（江西卷）（网友回忆版）.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/2018年421联考《行测》真题（江西卷）（网友回忆版）.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2018年421联考《行测》真题（河北卷）（网友回忆版）.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/2018年421联考《行测》真题（河北卷）（网友回忆版）.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2018年421联考《行测》真题（海南卷）（网友回忆版）.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/2018年421联考《行测》真题（海南卷）（网友回忆版）.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2018年421联考《行测》真题（湖北卷）（网友回忆版）.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/2018年421联考《行测》真题（湖北卷）（网友回忆版）.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2018年421联考《行测》真题（湖南卷）（网友回忆版）.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/2018年421联考《行测》真题（湖南卷）（网友回忆版）.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2018年421联考《行测》真题（甘肃卷）（网友回忆版）.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/2018年421联考《行测》真题（甘肃卷）（网友回忆版）.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2018年421联考《行测》真题（福建卷）（网友回忆版）.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/2018年421联考《行测》真题（福建卷）（网友回忆版）.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2018年421联考《行测》真题（贵州卷）（网友回忆版）.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/2018年421联考《行测》真题（贵州卷）（网友回忆版）.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2018年421联考《行测》真题（重庆卷）（网友回忆版）.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/2018年421联考《行测》真题（重庆卷）（网友回忆版）.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2018年421联考《行测》真题（陕西卷）（网友回忆版）.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/2018年421联考《行测》真题（陕西卷）（网友回忆版）.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2018年421联考《行测》真题（黑龙江卷）（网友回忆版）（省直）.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/2018年421联考《行测》真题（黑龙江卷）（网友回忆版）（省直）.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2018年上海市公务员录用考试《行测》真题（B类）（网友回忆版）.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/2018年上海市公务员录用考试《行测》真题（B类）（网友回忆版）.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2018年广西公务员录用考试《行测》真题（网友回忆版）.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/2018年广西公务员录用考试《行测》真题（网友回忆版）.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2018年江苏省公务员录用考试《行测》真题（A类）（网友回忆版）.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/2018年江苏省公务员录用考试《行测》真题（A类）（网友回忆版）.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2018年江苏省公务员录用考试《行测》真题（B类）（网友回忆版）.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/2018年江苏省公务员录用考试《行测》真题（B类）（网友回忆版）.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2018年江苏省公务员录用考试《行测》真题（C类）（网友回忆版）.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/2018年江苏省公务员录用考试《行测》真题（C类）（网友回忆版）.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -49,38 +46,63 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="255" lean-forward="true" selection-start-line="255" selection-end-line="255" />
+            <state relative-caret-position="189">
+              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
               <folding>
-                <element signature="e#406#516#0" />
-                <element signature="e#768#987#0" />
-                <element signature="e#1028#1422#0" />
-                <element signature="e#1458#1818#0" />
-                <element signature="e#1874#2298#0" />
-                <element signature="e#2369#3567#0" />
-                <element signature="e#3757#4955#0" />
-                <element signature="e#3627#3930#0" />
-                <element signature="e#3989#4369#0" />
-                <element signature="e#4427#4703#0" />
-                <element signature="e#4766#5774#0" />
-                <element signature="e#7429#7525#0" />
-                <element signature="e#6177#6424#0" />
+                <element signature="e#967#1186#0" />
+                <element signature="e#1227#1621#0" />
+                <element signature="e#1657#2017#0" />
+                <element signature="e#2073#2497#0" />
+                <element signature="e#2568#3766#0" />
+                <element signature="e#3826#4129#0" />
+                <element signature="e#4188#4568#0" />
+                <element signature="e#4626#4902#0" />
+                <element signature="e#4965#5973#0" />
+                <element signature="e#6033#6372#0" />
+                <element signature="e#6415#6486#0" />
+                <element signature="e#6513#6762#0" />
+                <element signature="e#6803#7050#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018年421联考《行测》真题（云南卷）（网友回忆版）.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（云南卷）（网友回忆版）.json">
+      <file leaf-file-name="2018年421联考《行测》真题（四川卷）（网友回忆版）.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/analysis/2018年421联考《行测》真题（四川卷）（网友回忆版）.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="634">
-              <caret line="1980" column="2" selection-start-line="1980" selection-start-column="2" selection-end-line="1980" selection-end-column="2" />
+            <state relative-caret-position="291">
+              <caret line="623" column="2" selection-start-line="623" selection-start-column="2" selection-end-line="623" selection-end-column="2" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018年421联考《行测》真题（云南卷）（网友回忆版）.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/analysis/2018年421联考《行测》真题（云南卷）（网友回忆版）.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-12294" />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="2018年421联考《行测》真题（天津卷）（网友回忆版）.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/analysis/2018年421联考《行测》真题（天津卷）（网友回忆版）.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-12279">
+              <caret line="2" column="297" selection-start-line="2" selection-start-column="218" selection-end-line="2" selection-end-column="297" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018年421联考《行测》真题（天津卷）（网友回忆版）.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（天津卷）（网友回忆版）.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1365">
+              <caret line="91" column="5" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018年江苏省公务员录用考试《行测》真题（C类）（网友回忆版）.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/analysis/2018年江苏省公务员录用考试《行测》真题（C类）（网友回忆版）.json">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -118,6 +140,7 @@
       <find>images</find>
       <find>files</find>
       <find>recursionChildren</find>
+      <find>tex</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -191,8 +214,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="15" />
-    <option name="y" value="76" />
+    <option name="x" value="345" />
+    <option name="y" value="52" />
     <option name="width" value="1440" />
     <option name="height" value="791" />
   </component>
@@ -208,6 +231,11 @@
             <path>
               <item name="fenbi-composing" type="b2602c69:ProjectViewProjectNode" />
               <item name="fenbi-composing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fenbi-composing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fenbi-composing" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -226,13 +254,14 @@
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\MyProject\composing\data" />
-      <recent name="E:\MyProject\composing\doc" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/data" />
       <recent name="E:\MyProject\composing\tmp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/analysis" />
+      <recent name="E:\MyProject\composing\data" />
+      <recent name="E:\MyProject\composing\doc" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -264,24 +293,25 @@
       <workItem from="1530407262003" duration="8979000" />
       <workItem from="1530495825967" duration="1354000" />
       <workItem from="1530675327235" duration="1823000" />
-      <workItem from="1530689527112" duration="1310000" />
+      <workItem from="1530689527112" duration="5198000" />
+      <workItem from="1530778276832" duration="2691000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42668000" />
+    <option name="totallyTimeSpent" value="49247000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="15" y="76" width="1440" height="791" extended-state="0" />
+    <frame x="495" y="77" width="1440" height="791" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35588443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35588443" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="6" visible="true" weight="0.35878962" />
+      <window_info anchor="bottom" id="Terminal" order="6" visible="true" weight="0.35878962" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -305,59 +335,23 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/2018年江苏省公务员录用考试《行测》真题（C类）（网友回忆版）.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48136">
-          <caret line="2188" column="2" selection-start-line="2188" selection-start-column="2" selection-end-line="2188" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1848">
-          <caret line="84" column="16" selection-start-line="84" selection-start-column="16" selection-end-line="84" selection-end-column="16" />
-          <folding>
-            <element signature="e#406#516#0" />
-            <element signature="e#768#987#0" />
-            <element signature="e#1028#1422#0" />
-            <element signature="e#1458#1818#0" />
-            <element signature="e#1874#2298#0" />
-            <element signature="e#2369#3567#0" />
-            <element signature="e#3757#4955#0" />
-            <element signature="e#3627#3930#0" />
-            <element signature="e#3989#4369#0" />
-            <element signature="e#4427#4703#0" />
-            <element signature="e#4766#5774#0" />
-            <element signature="e#7429#7525#0" />
-            <element signature="e#6177#6424#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <element signature="e#406#516#0" />
-            <element signature="e#768#987#0" />
-            <element signature="e#1028#1422#0" />
-            <element signature="e#1458#1818#0" />
-            <element signature="e#1874#2298#0" />
-            <element signature="e#2369#3567#0" />
-            <element signature="e#3757#4955#0" />
-            <element signature="e#3627#3930#0" />
-            <element signature="e#3989#4369#0" />
-            <element signature="e#4427#4703#0" />
-            <element signature="e#4766#5774#0" />
-            <element signature="e#7429#7525#0" />
-            <element signature="e#6177#6424#0" />
+            <element signature="e#967#1186#0" />
+            <element signature="e#1227#1621#0" />
+            <element signature="e#1657#2017#0" />
+            <element signature="e#2073#2497#0" />
+            <element signature="e#2568#3766#0" />
+            <element signature="e#3826#4129#0" />
+            <element signature="e#4188#4568#0" />
+            <element signature="e#4626#4902#0" />
+            <element signature="e#4965#5973#0" />
+            <element signature="e#6033#6372#0" />
+            <element signature="e#6415#6486#0" />
+            <element signature="e#6513#6762#0" />
+            <element signature="e#6803#7050#0" />
           </folding>
         </state>
       </provider>
@@ -366,19 +360,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <element signature="e#406#516#0" />
-            <element signature="e#768#987#0" />
-            <element signature="e#1028#1422#0" />
-            <element signature="e#1458#1818#0" />
-            <element signature="e#1874#2298#0" />
-            <element signature="e#2369#3567#0" />
-            <element signature="e#3757#4955#0" />
-            <element signature="e#3627#3930#0" />
-            <element signature="e#3989#4369#0" />
-            <element signature="e#4427#4703#0" />
-            <element signature="e#4766#5774#0" />
-            <element signature="e#7429#7525#0" />
-            <element signature="e#6177#6424#0" />
+            <element signature="e#967#1186#0" />
+            <element signature="e#1227#1621#0" />
+            <element signature="e#1657#2017#0" />
+            <element signature="e#2073#2497#0" />
+            <element signature="e#2568#3766#0" />
+            <element signature="e#3826#4129#0" />
+            <element signature="e#4188#4568#0" />
+            <element signature="e#4626#4902#0" />
+            <element signature="e#4965#5973#0" />
+            <element signature="e#6033#6372#0" />
+            <element signature="e#6415#6486#0" />
+            <element signature="e#6513#6762#0" />
+            <element signature="e#6803#7050#0" />
           </folding>
         </state>
       </provider>
@@ -589,13 +583,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（天津卷）（网友回忆版）.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="1908" column="12" selection-start-line="1908" selection-start-column="12" selection-end-line="1908" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（云南卷）（网友回忆版）.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="634">
@@ -603,27 +590,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/analysis/2018年421联考《行测》真题（天津卷）（网友回忆版）.json">
+    <entry file="file://$PROJECT_DIR$/data/2018年421联考《行测》真题（天津卷）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="91" column="5" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysis/2018年江苏省公务员录用考试《行测》真题（C类）（网友回忆版）.json">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysis/2018年421联考《行测》真题（天津卷）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12279">
+          <caret line="2" column="297" selection-start-line="2" selection-start-column="218" selection-end-line="2" selection-end-column="297" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysis/2018年421联考《行测》真题（云南卷）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12294" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysis/2018年421联考《行测》真题（四川卷）（网友回忆版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="623" column="2" selection-start-line="623" selection-start-column="2" selection-end-line="623" selection-end-column="2" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="255" lean-forward="true" selection-start-line="255" selection-end-line="255" />
+        <state relative-caret-position="189">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
           <folding>
-            <element signature="e#406#516#0" />
-            <element signature="e#768#987#0" />
-            <element signature="e#1028#1422#0" />
-            <element signature="e#1458#1818#0" />
-            <element signature="e#1874#2298#0" />
-            <element signature="e#2369#3567#0" />
-            <element signature="e#3757#4955#0" />
-            <element signature="e#3627#3930#0" />
-            <element signature="e#3989#4369#0" />
-            <element signature="e#4427#4703#0" />
-            <element signature="e#4766#5774#0" />
-            <element signature="e#7429#7525#0" />
-            <element signature="e#6177#6424#0" />
+            <element signature="e#967#1186#0" />
+            <element signature="e#1227#1621#0" />
+            <element signature="e#1657#2017#0" />
+            <element signature="e#2073#2497#0" />
+            <element signature="e#2568#3766#0" />
+            <element signature="e#3826#4129#0" />
+            <element signature="e#4188#4568#0" />
+            <element signature="e#4626#4902#0" />
+            <element signature="e#4965#5973#0" />
+            <element signature="e#6033#6372#0" />
+            <element signature="e#6415#6486#0" />
+            <element signature="e#6513#6762#0" />
+            <element signature="e#6803#7050#0" />
           </folding>
         </state>
       </provider>
